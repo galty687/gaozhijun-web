@@ -1,13 +1,5 @@
-# main links
-main:
-  - title: "教学"
-    url: /teaching/
-  - title: "科研"
-    url: /research/
-  - title: "博客"
-    url: /posts/ 
-  - title: "关于"
-    url: /about/
+# Site navigation links
+- title: 
+  url: 
+  menuorder: 
 
-  # - title: "Sitemap"
-  #   url: /sitemap/
