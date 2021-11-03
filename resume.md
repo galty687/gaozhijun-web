@@ -33,6 +33,7 @@ __苏州科技大学__
 
 `2020`
 - Z. Gao, K. Ming and J.Yu*,“Chinese Developers’Information Behavior of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 147-154.
+
 `2020`
 - Z. Gao, F. Li and J.Yu *,“Reading Time Prediction Model on Chinese Technical Documentation ,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 162-169.
 
