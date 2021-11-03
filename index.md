@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt: "About Me..."
-menutitle: Home
+menutitle: 首页
 menuorder: 1
 ---
 
