@@ -1,6 +1,6 @@
 ---
-layout: presentation-post-index
+layout: blog-post-index
 menutitle: 博客
 menuorder: 4
-excerpt: "Recent Presentations"
+excerpt: "Recent Blogs"
 ---
