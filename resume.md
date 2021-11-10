@@ -52,6 +52,8 @@ __苏州科技大学__
 
 `2013`
 -	Gao, Z., Yu, J., & De Jong, M. (2013). Technical communication in China: A world to be won. Intercom, 60(1), 11–13.
+
+`2013`
 -	高志军. 计算机辅助翻译工具测评框架初探[J]. 中国翻译, 2013(05), 70-76
 
 ### 教材
