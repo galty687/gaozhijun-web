@@ -47,6 +47,12 @@ __苏州科技大学__
 `2019`
 - Zhijun Gao, Yuxin Gao, and Jingjing Xu. 2019. Designing Metrics to Evaluate the Help Center of Baidu Cloud. In Portland ’19: Broadening the Boundaries of Communication Design,2019, Portland, OR. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3328020.3353936
 
+`2014`
+-	Gao, Z., Yu, J., & De Jong, M. (2014). Establishing technical communication as a professional discipline. Tcworld, 2014(08), 10–13.
+
+`2013`
+-	Gao, Z., Yu, J., & De Jong, M. (2013). Technical communication in China: A world to be won. Intercom, 60(1), 11–13.
+-	高志军. 计算机辅助翻译工具测评框架初探[J]. 中国翻译, 2013(05), 70-76
 
 ### 教材
 
@@ -64,6 +70,7 @@ __苏州科技大学__
 `2019`
 - 技术文档的行长设计，IEEE PCS 2019，德国亚琛工业大学，2019年7月24日
   
+
 `2019`
 - 帮助中心质量评估指标，ACM SIGDOC 2019, 波特兰州立大学，2019年10月5日 <a href="https://sigdoc.acm.org/conference/2019/program/schedule/">[大会日程]</a>
 
@@ -88,6 +95,5 @@ __中国翻译协会本地化服务委员会__, 委员
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
+Last updated: 10/11/2021 -->
 
