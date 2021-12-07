@@ -11,6 +11,6 @@ excerpt: "TPC 2021评审委员会"
 
 ![Editorial Board](/assets/blog-images/20211130/editorial-board.png)
 
-[评审委员会成员](https://procomm.ieee.org/wp-content/uploads/2021/04/EditorialStaff.pdf)
-[IEEE Transactions on Professional Communication](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=47)
+* [评审委员会成员](https://procomm.ieee.org/wp-content/uploads/2021/04/EditorialStaff.pdf)
+* [IEEE Transactions on Professional Communication](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=47)
 
