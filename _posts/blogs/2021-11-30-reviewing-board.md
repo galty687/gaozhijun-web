@@ -4,7 +4,7 @@ title: 成为评审委员会
 tags: [research]
 comments: true
 category: blog
-
+excerpt: "TPC 2021评审委员会"
 ---
 
 今天 IEEE PCS 发来2021年最后一起的期刊，因为我评审过几篇论文，今年也忝列 Editorial Board，非常开心特发博文记录。虽然这项工作，没有报酬，而且占据了不少时间，但是依然挺投入的，这就是学术共同体的魅力吧。
