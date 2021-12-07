@@ -70,7 +70,7 @@ __苏州科技大学__
 - 《语料库通用技术规范》，中国翻译协会发布，标准号：ZYF 001-2018
 
 `2016`
-- 《技术传播术语对照表》，中国标准化协会发布，标准号：T/CAS 245-2016 [[下载](http://www.gaozhijun.me/assets/download/t.cas.245.2016.pdf)]
+- 《技术传播术语对照表》，中国标准化协会发布，标准号：T/CAS 245-2016 [[<u>下载</u>](http://www.gaozhijun.me/assets/download/t.cas.245.2016.pdf)]
 ## 演讲
 `2020`
 - 中国技术写作能力考试设计，TCWorld China 2020，上海，2020年9月11日
