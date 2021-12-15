@@ -29,10 +29,15 @@ category: blog
 
 ## 古今意不同
 1. 娘。现在指妈妈，古时候是女儿。天要下雨，娘要嫁人。
-
 2. 粉。现在是粉色，古时候白色。粉墙黛瓦。
 
-   
+
+
+### 英语词源
+
+1. Plastic Surgery (整形手术) 与塑料 Plastic是一个词。因为：plastic 缘自希腊语的 **plastikos**  ，表示可以塑造的意思，plastic surgey比现代的plastic现有，后来因为塑料的可塑性，沿用了plastic 这个词。
+
+    
 
 ## 认知语言学
 
