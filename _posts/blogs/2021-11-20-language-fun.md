@@ -30,6 +30,7 @@ category: blog
 ## 古今意不同
 1. 娘。现在指妈妈，古时候是女儿。天要下雨，娘要嫁人。
 2. 粉。现在是粉色，古时候白色。粉墙黛瓦。
+3. 淫。现在是淫荡，古时候是多、贪的意思，例如**淫**雨霏霏、万恶**淫**为首。
 
 
 
@@ -62,6 +63,16 @@ category: blog
 
 
 
+## 语言补偿
+
+工资比较低的行业，会从精神上进行补偿，例如灵魂工程师、白衣天使、环境美化等等，而一些实质性收益较大的职位，则无需提升，如程序猿、**公仆等。
+
+
+
+
+
+
+
 ## h/f不分
 
 是金子总会**发**光的，其实是其实胡（福）建人说的，本意是：是金子总会**花**光的。这个大体是个段子，但是挺有趣的，也收录在这里吧。
@@ -70,7 +81,7 @@ category: blog
 
 ## 语言与身份
 
-语言是思想的外衣，更是身份的象征，一口的伦敦腔（Cockney）彰显伦敦人的身份与地位。伊顿公学甚至会教一种特殊的Eton Accent，或者是所谓的"Upper Received Pronunciaiton"。据[英国邮报的报道](https://www.dailymail.co.uk/news/article-2302972/One-people-change-accent-sound-posh-job-chat-survey-finds.html)，有1/5的人为了更好的找工作而改变口音。
+语言是思想的外衣，更是身份的象征，一口伦敦腔（Cockney）彰显伦敦人的身份与地位。伊顿公学甚至会教一种特殊的 Eton Accent，或者是所谓的"Upper Received Pronunciaiton"。据[英国邮报的报道](https://www.dailymail.co.uk/news/article-2302972/One-people-change-accent-sound-posh-job-chat-survey-finds.html)，有1/5的人为了更好地找工作而改变口音。
 
 电影《窈窕淑女》中讲了一个类似的故事：卖花女身份低位，讲话低俗，后来经过语言学家希金斯教授的训练，两个月后便成功以贵夫人的身份出席宴会，吸引了女王与王子的青睐。
 
