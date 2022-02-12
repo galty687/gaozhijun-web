@@ -131,3 +131,44 @@ category: blog
 ## 成语
 
 - 待字闺房。现在人常常将其解读为，在闺房你等待，其实是姑娘在房间里等“字”，古时候成年了才可以有“字”，等来了“字”就表示已经成年啦，可以出嫁了。
+
+
+
+## 外国地名与中国地名神一致
+
+| 外国地名       | 中国地名 |
+| -------------- | -------- |
+| Pearl Harbor   | 蚌埠     |
+| New York       | 新乡     |
+| Phoenix        | 宝鸡     |
+| Rock Hometown  | 石家庄   |
+| Greeland       | 青岛     |
+| Manchester     | 乳山     |
+| New Foundland  | 新发地   |
+| Table mountain | 平顶山   |
+| Portsmouth     | 浦口     |
+| Broadway       | 宽街     |
+| 5th Avenue     | 五道口   |
+
+### 非音译地名
+
+| 外国地名      | 中国地名 |
+| ------------- | -------- |
+| Oxford        | 牛津     |
+| Fontainebleau | 枫丹白露 |
+| Firenze       | 翡冷翠   |
+
+### 洋泾浜
+
+| 中文         | 原文         |
+| ------------ | ------------ |
+| 士多         | Store        |
+| 士多啤梨     | Strawberry   |
+| 麦克风       | Microphone   |
+| 大三巴       | de São Paulo |
+| 士坦         | stamp        |
+| 芝士         | Cheese       |
+| 水果**班戟** | pancake      |
+| 西冷         | sirloin      |
+|              |              |
+
