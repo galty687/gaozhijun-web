@@ -1,3 +1,4 @@
+---
 layout: post
 title: 电子瘾与说服设计
 excerpt: "Persuasive Technology"
@@ -5,7 +6,7 @@ modified:
 tags: [CDP, TAG]
 comments: true
 category: blog
-
+---
 
 
 现代人机不离手，时刻要打开手机看一下，常常欲罢不能。信息技术给我们带来了便利，同时也占用了我们太多时间，戒除电子上瘾最好的办法之一就是了解成瘾过程，这样自己就能游刃有余地使用各类电子产品，而不是被电子产品牵着鼻子走。
