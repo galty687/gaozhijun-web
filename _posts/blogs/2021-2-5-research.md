@@ -34,7 +34,7 @@ category: blog
 
 再举一个例子，请读者阅读下方图片。
 
-![reading-order](assets/blog-images/202102/reading-order.png)
+![reading-order](/assets/blog-images/202102/reading-order.png)
 
 你的阅读顺序是不是跟我预测的一样？对这里就是用阅读行为的理论预测读者的行为。
 
