@@ -33,7 +33,8 @@ body {
     @include prefix(12, 1);
     @include suffix(12, 1);
     margin-bottom: 1em;
-    float: none;
+    width: 30%;
+    float: left;
     display: block;
     @include font-rem(24);
     @media #{$small} {
@@ -56,7 +57,8 @@ body {
     @include prefix(12, 1);
     @include suffix(12, 1);
     margin-bottom: 1em;
-    float: none;
+    width: 30%;
+    float: right;
     display: block;
     @media #{$small} {
         @include grid(12, 9);
