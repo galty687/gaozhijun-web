@@ -1,6 +1,13 @@
-# 话语分析交流
+---
+layout: post
+title: 话语分析交流
+experpt: 「人类卫生健康共同体话语体系建构」组会上的分享。
+modified: 
+tags: [thoughts, research]
+comments: true
+category: blog
+---
 
-「人类卫生健康共同体话语体系建构」组会上的分享。
 
 
 
