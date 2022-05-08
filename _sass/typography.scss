@@ -22,6 +22,7 @@ h1 {
 
 h2 {
     @include font-size(28);
+    border-bottom: solid 1px #e1e1e1;
 }
 
 h3 {
@@ -127,7 +128,7 @@ figcaption {
 blockquote {
     margin-left: -28px;
     padding-left: 20px;
-    border-left: 3px solid rgb(139, 0, 18);
+    border-left: 6px solid rgb(139, 0, 18);
     font-family: $alt-font;
     background: #f9f9f9;
 }
