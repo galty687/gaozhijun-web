@@ -127,9 +127,8 @@ figcaption {
 blockquote {
     margin-left: -28px;
     padding-left: 20px;
-    border-left: 8px solid $border-color;
+    border-left: 8px solid rgb(139, 0, 18);
     font-family: $alt-font;
-    font-style: italic;
 }
 
 
@@ -181,7 +180,7 @@ ol,
 li {
     code {
         @include font-rem(12);
-        line-height: 15px;
+        line-height: 1.5;
         white-space: nowrap;
         margin: 0 2px;
         padding: 0 5px;
