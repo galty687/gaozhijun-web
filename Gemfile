@@ -6,4 +6,4 @@ gem "jekyll-seo-tag"
 gem "jekyll-gist"
 gem "octopress"
 gem "kramdown-parser-gfm"
-gem 'jekyll-google-tag-manager'
+
