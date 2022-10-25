@@ -20,7 +20,7 @@ menuorder: 1
 #### 北京大学软件与微电子学院：
 
 - 秋季 《英文技术文档写作》，<a href="http://tw.gaozhijun.me/index.html">在线教材</a>
-- 春季 《技术传播方法》（2022年更名为《[用户体验与技术传播](http://ux.gaozhijun.me)》）
+- 春季 《[用户体验与技术传播](http://ux.gaozhijun.me)》（原 《技术传播方法》）
 - 春季 《翻译管理与本地化工程》
 
 #### 北京大学外国语学院：
