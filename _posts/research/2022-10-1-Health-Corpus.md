@@ -10,8 +10,7 @@ category: research
 
 
 
-语料库地址：icc.pku.edu.ch/corpus
-
+语料库地址：[[https://icc.pku.edu.ch/corpus/index](https://icc.pku.edu.cn/corpus/index/)
 
 
 ## 项目背景
