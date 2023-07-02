@@ -29,10 +29,11 @@ __苏州科技大学__
 
 ## 研究项目
 
--  “信息疫情”下互联网虚假信息演化机制与治理对策研究，2022年国家社科项目（），参与 ，负责人：苏岩
+-  “信息疫情”下互联网虚假信息演化机制与治理对策研究，2022年国家社科项目，参与 ，负责人：苏岩
 
 
 - 中国古代文论关键词英译与阐释研究，2020年国家社科项目（20BYY029），参与 ， 负责人：朱源
+- 国家自然科学基金委员会，面上项目，61872011，基于卡诺格覆盖的布尔表达式测试及缺陷诊断理论与方法研究，2019-01-01至2022-12-31，63万元，资助期满，参与
 
 ## 著作
 
@@ -41,22 +42,23 @@ __苏州科技大学__
 ### 论文
 
 `2020`
-- Z. Gao, K. Ming and J.Yu*,“Chinese Developers’Information Behavior of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 147-154.
+- Z. Gao, K. Ming and J.Yu*,“Chinese Developers’Information Behavior of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 147-154. **DOI:** [10.1109/ProComm48883.2020.00030](https://doi.org/10.1109/ProComm48883.2020.00030)
 
 `2020`
-- Z. Gao, F. Li and J.Yu *,“Reading Time Prediction Model on Chinese Technical Documentation ,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 162-169.
+- Z. Gao, F. Li and J.Yu *,“Reading Time Prediction Model on Chinese Technical Documentation ,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 162-169. **DOI:** [10.1109/ProComm48883.2020.00046](https://doi.org/10.1109/ProComm48883.2020.00046)
 
 `2020`
-- Z. Gao, Y. Gao and J.Yu *,“What Makes It Findable? An Exploration on User Search Behavior and the Findability of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 155-161.
+- Z. Gao, Y. Gao and J.Yu *,“What Makes It Findable? An Exploration on User Search Behavior and the Findability of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 155-161. **DOI:** [10.1109/ProComm48883.2020.00031](https://doi.org/10.1109/ProComm48883.2020.00031)
 
 
 `2019`
-- Z. Gao and G. Han, "Initial Exploration of Ideal Line Length for Chinese Technical Text," 2019 IEEE International Professional Communication Conference (ProComm), Aachen, Germany, 2019, pp. 243-247.doi: 10.1109/ProComm.2019.00050
+- Z. Gao and G. Han, "Initial Exploration of Ideal Line Length for Chinese Technical Text," 2019 IEEE International Professional Communication Conference (ProComm), Aachen, Germany, 2019, pp. 243-247.doi: 10.1109/ProComm.2019.00050. **DOI:** [10.1109/ProComm.2019.00050](https://doi.org/10.1109/ProComm.2019.00050)
 
 `2019`
-- Zhijun Gao, Yuxin Gao, and Jingjing Xu. 2019. Designing Metrics to Evaluate the Help Center of Baidu Cloud. In Portland ’19: Broadening the Boundaries of Communication Design,2019, Portland, OR. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3328020.3353936
+- Zhijun Gao, Yuxin Gao, and Jingjing Xu. 2019. Designing Metrics to Evaluate the Help Center of Baidu Cloud. In Portland ’19: Broadening the Boundaries of Communication Design,2019, Portland, OR. ACM, New York, NY, USA, 7 pages. **DOI:** [10.1145/3328020.3353936]( https://doi.org/10.1145/3328020.3353936)
 
 `2014`
+
 -	Gao, Z., Yu, J., & De Jong, M. (2014). Establishing technical communication as a professional discipline. Tcworld, 2014(08), 10–13.
 
 `2013`
@@ -79,7 +81,7 @@ __苏州科技大学__
 - 《技术文档的用户体验评估规范》，中国标准化协会发布
 
 `2019`
-- 《语料库通用技术规范》，中国翻译协会发布，标准号：ZYF 001-2018
+- 《语料库通用技术规范》，中国翻译协会发布，标准号：ZYF 001-2018，[全文](http://www.tac-online.org.cn/uploadfile/2018/1013/20181013110348586.pdf)
 
 `2016`
 - 《技术传播术语对照表》，中国标准化协会发布，标准号：T/CAS 245-2016 [[<u>下载</u>](https://www.gaozhijun.me/assets/download/t.cas.245.2016.pdf)]
