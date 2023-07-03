@@ -12,7 +12,11 @@ category: blog
 
 ## Deepdok GPT
 
-这是一个集成的AI平台，目前已经集成了Openai，ChatGPT，Bing，PalM和Stable Diffusion。
+这是一个集成的AI平台，目前已经集成了Openai，ChatGPT，Bing，PalM和Stable Diffusion。可以点击图标切换不同的服务。
+
+![deepdokgpt](/assets/blog-images/202307/deepdokgpt.png)
+
+
 
 ## 试运行
 
