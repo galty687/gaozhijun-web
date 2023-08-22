@@ -38,9 +38,17 @@ __苏州科技大学__
 英语、计算机 双学士
  -->
 
+## 期刊任职
 
+`2021- 至今`
 
-## 纵向研究项目
+**IEEE Transactions of Professional Communication**，编委
+
+`2022 – 至今`
+
+**The Journal of Medicine, Humanity and Media**，副主编
+
+## 研究项目
 
 -  “信息疫情”下互联网虚假信息演化机制与治理对策研究，2022年国家社科项目（22CXW011, ¥ 200,000），参与 
 -  构建人类卫生健康共同体研究与数据库建设” （项目批准号：21ZDA130，¥ 400,000），2021年 国家社科基金重大项目，参与
@@ -48,7 +56,7 @@ __苏州科技大学__
 - 基于卡诺格覆盖的布尔表达式测试及缺陷诊断理论与方法研究，国家自然科学基金委员会，面上项目，61872011，2019-01-01至2022-12-31，¥ 630,000，资助期满，参与
 
 
-## 横向课题
+## 企业课题
 （部分项目，均为负责人）
 
 ### 2023年
@@ -94,7 +102,6 @@ __苏州科技大学__
 
 
 
-
 ## 著作
 
 [Google Scholar ](https://scholar.google.com/citations?user=aPZcO04AAAAJ&hl=en)
@@ -102,36 +109,36 @@ __苏州科技大学__
 ### 论文
 
 `2023`
-- **Z. Gao**, T. Wang, M. Wang and Y. Zhao, "UX Testing of Developer Documentation: A Pilot Study of OceanBase Database Documentation", 2023 IEEE International Professional Communication Conference (ProComm), Ithaca, NY, USA, 2023, pp. 64-72. **DOI.** [DOI 10.1109/ProComm57838.2023.00035](https://doi.org/10.1109/ProComm57838.2023.00035)
+- **Z. Gao**, T. Wang, M. Wang and Y. Zhao, "UX Testing of Developer Documentation: A Pilot Study of OceanBase Database Documentation", 2023 IEEE International Professional Communication Conference (ProComm), Ithaca, NY, USA, 2023, pp. 64-72. **DOI.** [DOI 10.1109/ProComm57838.2023.00035](https://doi.org/10.1109/ProComm57838.2023.00035) （EI检索）
 
-- Dong, Lin, and **Zhijun Gao***. "Who are China's Technical Communicators? A Survey on the State of Diversity, Equity, and Inclusion of the Profession." Technical Communication, vol. 70, no. 3, Aug. 2023, pp. 42-62. Society for Technical Communication, **DOI**:[10.55177/tc583549](https://doi.org/10.55177/tc583549)
+- Dong, Lin, and **Zhijun Gao***. "Who are China's Technical Communicators? A Survey on the State of Diversity, Equity, and Inclusion of the Profession." Technical Communication, vol. 70, no. 3, Aug. 2023, pp. 42-62. Society for Technical Communication, **DOI**:[10.55177/tc583549](https://doi.org/10.55177/tc583549) （EI检索）
 
-
-`2020`
-- **Z. Gao**, K. Ming and J.Yu*,“Chinese Developers’Information Behavior of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 147-154. **DOI:** [10.1109/ProComm48883.2020.00030](https://doi.org/10.1109/ProComm48883.2020.00030)
 
 `2020`
-- **Z. Gao**, F. Li and J.Yu *,“Reading Time Prediction Model on Chinese Technical Documentation ,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 162-169. **DOI:** [10.1109/ProComm48883.2020.00046](https://doi.org/10.1109/ProComm48883.2020.00046)
+- **Z. Gao**, K. Ming and J.Yu*,“Chinese Developers’Information Behavior of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 147-154. **DOI:** [10.1109/ProComm48883.2020.00030](https://doi.org/10.1109/ProComm48883.2020.00030) （EI检索）
 
 `2020`
-- **Z. Gao**, Y. Gao and J.Yu *,“What Makes It Findable? An Exploration on User Search Behavior and the Findability of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 155-161. **DOI:** [10.1109/ProComm48883.2020.00031](https://doi.org/10.1109/ProComm48883.2020.00031)
+- **Z. Gao**, F. Li and J.Yu *,“Reading Time Prediction Model on Chinese Technical Documentation ,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 162-169. **DOI:** [10.1109/ProComm48883.2020.00046](https://doi.org/10.1109/ProComm48883.2020.00046) （EI检索）
+
+`2020`
+- **Z. Gao**, Y. Gao and J.Yu *,“What Makes It Findable? An Exploration on User Search Behavior and the Findability of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 155-161. **DOI:** [10.1109/ProComm48883.2020.00031](https://doi.org/10.1109/ProComm48883.2020.00031) （EI检索）
 
 
 `2019`
-- **Z. Gao** and G. Han, "Initial Exploration of Ideal Line Length for Chinese Technical Text," 2019 IEEE International Professional Communication Conference (ProComm), Aachen, Germany, 2019, pp. 243-247.doi: 10.1109/ProComm.2019.00050. **DOI:** [10.1109/ProComm.2019.00050](https://doi.org/10.1109/ProComm.2019.00050)
+- **Z. Gao** and G. Han, "Initial Exploration of Ideal Line Length for Chinese Technical Text," 2019 IEEE International Professional Communication Conference (ProComm), Aachen, Germany, 2019, pp. 243-247.doi: 10.1109/ProComm.2019.00050. **DOI:** [10.1109/ProComm.2019.00050](https://doi.org/10.1109/ProComm.2019.00050) （EI检索）
 
 `2019`
-- **Zhijun Gao**, Yuxin Gao, and Jingjing Xu. 2019. Designing Metrics to Evaluate the Help Center of Baidu Cloud. In Portland ’19: Broadening the Boundaries of Communication Design,2019, Portland, OR. ACM, New York, NY, USA, 7 pages. **DOI:** [10.1145/3328020.3353936]( https://doi.org/10.1145/3328020.3353936)
+- **Zhijun Gao**, Yuxin Gao, and Jingjing Xu. 2019. Designing Metrics to Evaluate the Help Center of Baidu Cloud. In Portland ’19: Broadening the Boundaries of Communication Design,2019, Portland, OR. ACM, New York, NY, USA, 7 pages. **DOI:** [10.1145/3328020.3353936]( https://doi.org/10.1145/3328020.3353936) （EI检索）
 
 `2014`
 
--	**Gao, Z**., Yu, J., & De Jong, M. (2014). Establishing technical communication as a professional discipline. Tcworld, 2014(08), 10–13.
+-	**Gao, Z**., Yu, J., & De Jong, M. (2014). Establishing technical communication as a professional discipline. Tcworld, 2014(08), 10–13. 
 
 `2013`
 -	**Gao, Z**., Yu, J., & De Jong, M. (2013). Technical communication in China: A world to be won. Intercom, 60(1), 11–13.
 
 `2013`
--	高志军. 计算机辅助翻译工具测评框架初探[J]. 中国翻译, 2013(05), 70-76
+-	高志军. 计算机辅助翻译工具测评框架初探[J]. 中国翻译, 2013(05), 70-76 （CSSCI 检索）
 
 ### 教材
 
@@ -153,6 +160,8 @@ __苏州科技大学__
 
 `2016`
 - 《技术传播术语对照表》，中国标准化协会发布，标准号：T/CAS 245-2016 [[<u>下载</u>](https://www.gaozhijun.me/assets/download/t.cas.245.2016.pdf)]
+
+
  ## 专利
 
 - 输出文档内容的方法、系统、设备及存储介质，发明人：俞敬松，**高志军**，董永佳，公布号：CN115809638A，公告日期：2023-03-17
