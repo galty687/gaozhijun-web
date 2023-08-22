@@ -42,11 +42,11 @@ __苏州科技大学__
 
 `2021- 至今`
 
-**IEEE Transactions of Professional Communication**，编委
+**[IEEE Transactions of Professional Communication](https://procomm.ieee.org/transactions-editorial-staff-and-editorial-board/)**，编委
 
 `2022 – 至今`
 
-**The Journal of Medicine, Humanity and Media**，副主编
+**[The Journal of Medicine, Humanity and Media](http://mhmjournal.net/index.php/mhm/about/editorialTeam)**，副主编
 
 ## 研究项目
 
@@ -67,7 +67,7 @@ __苏州科技大学__
 
 ### 2022年
 - 北汽集团 - 系列车型车载汽车说明书
-- 如果新能源 - 太阳能供电资料开发
+- [如果新能源](https://www.renogy.cn) - 太阳能供电资料开发
 - 小米：说明书样式表开发
 
 ### 2021年
@@ -178,21 +178,16 @@ __苏州科技大学__
 - 中国技术写作能力考试设计，TCWorld China 2020，上海，2020年9月11日
 
 `2019`
+- 帮助中心质量评估指标，ACM SIGDOC 2019, 波特兰州立大学，2019年10月5日 <a href="https://sigdoc.acm.org/conference/2019/program/schedule/">[大会日程]</a>
 - 技术文档的行长设计，IEEE ProComm 2019，德国亚琛工业大学，2019年7月24日
 
 `2017`
 - 基于信息行为的用户帮助设计，TC World 2017，上海，2017年8月21日
-  
+- 中国技术传播教育，TCWorld 2018，德国斯图加特国际会展中心，2017年10月26日
 
 `2016`
 - 中国技术文档领域的标准，JTCA，日本工学院大学，东京新宿，2016年8月24日
 - 中国技术传播教育，西敏斯特大学，伦敦，2016年10月9日
-
-`2019`
-- 帮助中心质量评估指标，ACM SIGDOC 2019, 波特兰州立大学，2019年10月5日 <a href="https://sigdoc.acm.org/conference/2019/program/schedule/">[大会日程]</a>
-
-`2017`
-- 中国技术传播教育，TCWorld 2018，德国斯图加特国际会展中心，2017年10月26日
 
 
 
