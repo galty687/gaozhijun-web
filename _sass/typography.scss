@@ -200,3 +200,8 @@ pre {
     line-height: 1.5;
     overflow-x: auto;
 }
+
+ul li {
+    line-height: 1.2;  // Increase line height to 1.5
+    margin-bottom: 10px;  // Adds 10px margin to the bottom of each list item
+  }

@@ -130,6 +130,9 @@ __苏州科技大学__
 `2019`
 - **Zhijun Gao**, Yuxin Gao, and Jingjing Xu. 2019. Designing Metrics to Evaluate the Help Center of Baidu Cloud. In Portland ’19: Broadening the Boundaries of Communication Design,2019, Portland, OR. ACM, New York, NY, USA, 7 pages. **DOI:** [10.1145/3328020.3353936]( https://doi.org/10.1145/3328020.3353936) （EI检索）
 
+`2016`
+- 韩涛, 刘璐, **高志军***. 强化技术传播与本地化,助力中国品牌走出去[J]. 科技导报, 2016, 34(17): 105-109. [文章链接](http://www.kjdb.org/CN/Y2016/V34/I17/105) （CSCD 检索）
+
 `2014`
 
 -	**Gao, Z**., Yu, J., & De Jong, M. (2014). Establishing technical communication as a professional discipline. Tcworld, 2014(08), 10–13. 
@@ -189,11 +192,13 @@ __苏州科技大学__
 - 中国技术文档领域的标准，JTCA，日本工学院大学，东京新宿，2016年8月24日
 - 中国技术传播教育，西敏斯特大学，伦敦，2016年10月9日
 
+## 媒体报道
+1. [国际科技传播主题沙龙成功举办跨界研讨构建中国科技国际传播话语体系](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/t40vsk/stories/WS637af3a2a3109bd995a51202.html)
+1. [强化技术传播与本地化,助力中国品牌走出去](http://www.kjdb.org/CN/Y2016/V34/I17/105)
+
 
 
 ## 获奖
-
-
 
 `2021`
 北京大学第十届创新教学应用大赛，三等奖，北京大学，俞敬松、**高志军**
