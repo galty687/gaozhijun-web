@@ -111,7 +111,7 @@ __苏州科技大学__
 `2023`
 - **Z. Gao**, T. Wang, M. Wang and Y. Zhao, "UX Testing of Developer Documentation: A Pilot Study of OceanBase Database Documentation", 2023 IEEE International Professional Communication Conference (ProComm), Ithaca, NY, USA, 2023, pp. 64-72. **DOI.** [DOI 10.1109/ProComm57838.2023.00035](https://doi.org/10.1109/ProComm57838.2023.00035) （EI检索）
 
-- Dong, Lin, and **Zhijun Gao***. "Who are China's Technical Communicators? A Survey on the State of Diversity, Equity, and Inclusion of the Profession." Technical Communication, vol. 70, no. 3, Aug. 2023, pp. 42-62. Society for Technical Communication, **DOI**:[10.55177/tc583549](https://doi.org/10.55177/tc583549) （EI检索）
+- Dong, Lin, and **Zhijun Gao***. "Who are China's Technical Communicators? A Survey on the State of Diversity, Equity, and Inclusion of the Profession." Technical Communication, vol. 70, no. 3, Aug. 2023, pp. 42-62. Society for Technical Communication, **DOI**:[10.55177/tc583549](https://doi.org/10.55177/tc583549) （SSCI检索）
 
 
 `2020`
