@@ -50,7 +50,7 @@ h6 {
    ========================================================================== */
 
 a {
-    text-decoration: none;
+    text-decoration:underline;
     color: $link-color;
     &:visited {
         color: $linkcolorvisited;
@@ -68,12 +68,7 @@ a {
     }
 }
 
-ul li a {
-    text-decoration: underline;
-  }
-ol li a {
-text-decoration: underline;
-}  
+
 
 /*
    Figure captions
