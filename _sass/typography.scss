@@ -68,13 +68,13 @@ a {
     }
 }
 
-nav a {
+nav a,
+article a,
+.site-name a {
     text-decoration: none;
 }
 
-article a {
-    text-decoration: none;
-}
+
 
 /*
    Figure captions
