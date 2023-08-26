@@ -5,7 +5,7 @@ excerpt: "deepdok chatgpt的使用说明"
 modified: 
 tags: [CDP, TAG]
 comments: true
-category: blog
+category: AIGC
 ---
 
 
