@@ -68,12 +68,17 @@ a {
     }
 }
 
-nav a,
-article a,
-.site-name a {
+nav a {
     text-decoration: none;
 }
 
+article a {
+    text-decoration: none;
+}
+
+.site-name a {
+    text-decoration: none;
+}
 
 
 /*
