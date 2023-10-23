@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "突发公共事件舆论引导的机制、路径与方法"
-excerpt: "北京大学“教学新思路2.0”的优先项目，参与"
+excerpt: "国家社科基金重点项目，参与"
 modified: 1/9/2023, 9:00:24
 tags: [research, TAG]
 comments: true
