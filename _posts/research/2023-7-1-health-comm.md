@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "数字健康人文视野下的肿瘤患者叙事研究"
-excerpt: "北京大学数字与人文课题专项"
+excerpt: "北京大学数字与人文课题专项，参与，负责软件开发"
 modified: 1/8/2023, 9:00:24
 tags: [research, TAG]
 comments: true
