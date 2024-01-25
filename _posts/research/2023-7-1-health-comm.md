@@ -18,7 +18,7 @@ category: research
 
 项目周期：2023年整年
 
-工具：https://pku.deepdok.cn/interview/
+工具：[https://pku.deepdok.cn/interview/](https://pku.deepdok.cn/interview/)
 
 ### 研究背景和目的
 
