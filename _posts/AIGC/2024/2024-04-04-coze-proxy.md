@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coze 的免费GPT4
-excerpt: "Vercel 通过Webhook连接 github仓库"
+excerpt: "使用Coze免费使用GPT4"
 modified: 
 tags: [LLM, Chatgpt, Coze]
 comments: true
