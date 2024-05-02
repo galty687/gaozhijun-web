@@ -164,7 +164,7 @@ __苏州科技大学__
 
 `2023`
 
-- 《用户体验 服务能力评价规范》，2023年，标准号：ICS 13.180 CCS A 25，中国电子质量管理协会，[全文](https://uip.cqae.org.cn/api/fileManage/notice/down?fidOrFilename=892)
+- 《用户体验 服务能力评价规范》，2023年，标准号：T/CQAE 15006—2023，中国电子质量管理协会，[全文](https://uip.cqae.org.cn/api/fileManage/notice/down?fidOrFilename=892)
 
 `2019`
 
