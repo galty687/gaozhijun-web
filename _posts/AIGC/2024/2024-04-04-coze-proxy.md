@@ -27,7 +27,7 @@ category: AIGC
 
 ### Discord的服务器和机器人
 
-大体步骤可以看[这篇博文](https://appscross.com/2024/02/save-20-per-month-triple-jump-free-use-of-gpt4turbo/)。
+大体步骤可以看[这篇博文](https://cdp-docs.pages.dev/page/quick-deploy.html)。
 
 > 监听消息的bot，再reset token之后，一定要把下方的权限中的三个权限开关打开，不然就会导致 ChatGPT Next 那里一直收到不到response，一直在那typing，最后说无反应。
 
