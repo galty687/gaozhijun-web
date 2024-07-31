@@ -113,7 +113,8 @@ __苏州科技大学__
 
 ### 论文
 `2024`
-Z. Gao, W. Du, D. Li and J. Yu, "Development of a UX Scale for Technical Communication," 2024 IEEE International Professional Communication Conference (ProComm), Pittsburgh, PA, USA, 2024, pp. 223-232, doi: 10.1109/ProComm61427.2024.00051.
+
+- Z. Gao, W. Du, D. Li and J. Yu, "Development of a UX Scale for Technical Communication," 2024 IEEE International Professional Communication Conference (ProComm), Pittsburgh, PA, USA, 2024, pp. 223-232, doi: [10.1109/ProComm61427.2024.00051.](https://ieeexplore.ieee.org/document/10609580)
 
 `2023`
 - **Z. Gao**, T. Wang, M. Wang and Y. Zhao, "UX Testing of Developer Documentation: A Pilot Study of OceanBase Database Documentation", 2023 IEEE International Professional Communication Conference (ProComm), Ithaca, NY, USA, 2023, pp. 64-72. **DOI.** [DOI 10.1109/ProComm57838.2023.00035](https://doi.org/10.1109/ProComm57838.2023.00035) （EI检索）
