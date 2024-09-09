@@ -163,7 +163,7 @@ __苏州科技大学__
 
 `2024`
 
-- 《技术文档的用户体验评估规范》，2024年，第一作者，中国标准化协会发布
+- 《技术文档的用户体验评估规范》，2024年4月11日，标准号：T/CAS 852-2024，第一作者，中国标准化协会
 
 `2023`
 
@@ -214,7 +214,7 @@ __苏州科技大学__
 ## 获奖
 `2024`
 
-Frank R. Smith 杰出论文奖，美国技术传播协会，[获奖页面](https://www.stc.org/notebook/2024/04/24/2024-frank-r-smith-award-recipients-names/) 
+[Frank R. Smith 杰出论文奖](https://www.stc.org/honors-awards-and-recognition/frank-r-smith-award/)，美国技术传播协会，[获奖页面](https://www.stc.org/notebook/2024/04/24/2024-frank-r-smith-award-recipients-names/) 
 
 `2023`
 北京大学2023年度优秀班主任，北京大学
