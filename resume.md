@@ -19,11 +19,15 @@ title: 个人履历
 
 ## 北大开课
 
-- 秋季 《技术文档写作》（软院，外院同时开课）
-- 春季 《用户体验与技术传播》
-- 春季 《翻译管理与本地化工程》[（华文慕课）](http://www.chinesemooc.org/mooc/4848)
-- 人工智能实践（语言智能）
-- 数据可视化技术
+- 春季：《用户体验与人机交互》
+- 春季：《人工智能实践（语言智能）》
+- 秋季：《数据可视化技术与实践》
+- 秋季：《英文学术写作》
+
+曾开设课程
+- 《翻译管理与本地化工程》[（华文慕课）](http://www.chinesemooc.org/mooc/4848)
+- 《技术传播方法》
+- 《[用户体验与技术传播](http://ux.gaozhijun.me)》
 
 ## 教育
 
@@ -150,6 +154,10 @@ __苏州科技大学__
 
 `2013`
 -	高志军. 计算机辅助翻译工具测评框架初探[J]. 中国翻译, 2013(05), 70-76 （CSSCI 检索）
+
+### 专著
+`2024`
+Zhijun Gao. Technical Communication in China: Studies on the User Experience of Technical Documentation, University of Twente. ISBN: 978-90-365-5983-6. Publication Date: February 2024.
 
 ### 教材
 
