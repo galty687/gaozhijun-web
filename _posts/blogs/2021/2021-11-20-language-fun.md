@@ -100,7 +100,7 @@ category: blog
 
  **英语中的小称**
 
-英语可以加"ie"来表示小称，例如sweet加上ie后，就变成了小甜心 'sweetie'， 狗(dog) 加上 'ie'，变成 'doggie'(小狗狗)，瞬间就比原来的亲近了许多。
+英语可以加"ie"来表示小称，例如sweet加上ie后，就变成了小甜心 'sweetie'， 狗(dog) 加上 'ie'，变成 'doggie'(小狗狗)，瞬间就比原来的亲近了许多。小点心，Cookie由荷兰语Koekje演化而来，Koek是荷兰语蛋糕，-je是小称的后缀。
 
 
 ## 音译来的“成语”
