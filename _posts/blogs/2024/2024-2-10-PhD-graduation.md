@@ -75,7 +75,7 @@ category: blog
 
 12. 招待会。按照惯例，答辩后，全体人员移步招待大厅，享受饮料和美食。小叙30分钟后，大家开始逐步离开。
 
-13. 欢聚。在荷兰博士毕业是个大事，于是当晚在Enschede的[Oriëntal City](https://orientalcity-enschede.nl/menu/)设宴款待来宾。兴奋了一整天，了却人生一桩大事。答辩答辩早上4点就醒了，一直到夜里两三点才又睡着。
+13. 欢聚。在荷兰博士毕业是个大事，于是当晚在Enschede的[Oriëntal City](https://orientalcity-enschede.nl/menu/)设宴款待来宾。兴奋了一整天，了却人生一桩大事。答辩当天早上4点就醒了，一直到夜里两三点才又睡着。
 
 
 
@@ -158,7 +158,6 @@ Two paranymphs must be present at the PhD ceremony to accompany the doctoral can
 **Apostille (认证)**
 
 The **Convention of 5 October 1961 Abolishing the Requirement of Legalisation for Foreign Public Documents**, also known as the **Apostille Convention**
-
 
 
 
