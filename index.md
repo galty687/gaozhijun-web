@@ -28,6 +28,7 @@ menuorder: 1
 -  《[用户体验与技术传播](http://ux.gaozhijun.me)》
 -  《技术传播方法》
 -  《翻译管理与本地化工程》，<a href="https://www.chinesemooc.org/web/course_detail.php?courseid=4848">慕课</a>
+-  《计算机辅助翻译》
 
 #### 北京大学外国语学院：
 
