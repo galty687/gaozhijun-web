@@ -225,8 +225,9 @@ __苏州科技大学__
 
 ## 获奖
 `2024`
-1. 2024年北京大学第七届创新教学论文大赛，一等奖，高志军，季陈，许静*
-2. [Frank R. Smith 杰出论文奖](https://www.stc.org/honors-awards-and-recognition/frank-r-smith-award/)，美国技术传播协会，[获奖页面](https://www.stc.org/notebook/2024/04/24/2024-frank-r-smith-award-recipients-names/) ，[[<u>证书</u>](https://www.gaozhijun.me/assets/download/STC-Award.pdf)]
+2024年北京大学第七届创新教学论文大赛，一等奖，高志军，季陈，许静*
+
+[Frank R. Smith 杰出论文奖](https://www.stc.org/honors-awards-and-recognition/frank-r-smith-award/)，美国技术传播协会，[获奖页面](https://www.stc.org/notebook/2024/04/24/2024-frank-r-smith-award-recipients-names/) ，[[<u>证书</u>](https://www.gaozhijun.me/assets/download/STC-Award.pdf)]
 
 `2023`
 北京大学2023年度优秀班主任，北京大学
