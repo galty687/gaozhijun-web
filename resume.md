@@ -56,7 +56,7 @@ __苏州科技大学__
 
 ## 研究项目
 
--  新质媒体环境下基于大语言模型智能体的国际传播系统研究，2024国社科重点课题（项目号：24AXW004 ¥ 350,000），参与
+-  新质媒体环境下基于大语言模型智能体的国际传播系统研究，2024国社科重点课题（项目号：24AXW004， ¥ 350,000），参与
 -  突发公共事件舆论引导的机制、路径与方法, 2023国社科重点课题（项目号：23AXW008，¥ 350,000），参与
 -  数字健康人文视野下的肿瘤患者叙事研究。2023北京大学数字与人文课题专项。北京大学医学部、外国语学院、软件与微电子学院合作开发，项目金额10万，参与。[项目网站](https://pku.deepdok.cn/interview/)
 -  “信息疫情”下互联网虚假信息演化机制与治理对策研究，2022年国家社科项目（22CXW011, ¥ 200,000），参与 
@@ -225,8 +225,8 @@ __苏州科技大学__
 
 ## 获奖
 `2024`
-
-[Frank R. Smith 杰出论文奖](https://www.stc.org/honors-awards-and-recognition/frank-r-smith-award/)，美国技术传播协会，[获奖页面](https://www.stc.org/notebook/2024/04/24/2024-frank-r-smith-award-recipients-names/) ，[[<u>证书</u>](https://www.gaozhijun.me/assets/download/STC-Award.pdf)]
+1. 2024年北京大学第七届创新教学论文大赛，一等奖，高志军，季陈，许静*
+2. [Frank R. Smith 杰出论文奖](https://www.stc.org/honors-awards-and-recognition/frank-r-smith-award/)，美国技术传播协会，[获奖页面](https://www.stc.org/notebook/2024/04/24/2024-frank-r-smith-award-recipients-names/) ，[[<u>证书</u>](https://www.gaozhijun.me/assets/download/STC-Award.pdf)]
 
 `2023`
 北京大学2023年度优秀班主任，北京大学
