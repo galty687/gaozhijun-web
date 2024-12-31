@@ -194,6 +194,7 @@ __苏州科技大学__
 
 ## 演讲
 `2024`
+- [人工智能助力区域与国别研究](https://wy.nenu.edu.cn/info/1029/5998.htm)，东北师范大学外国语学院，长春，2024年11月28日
 - 开发者文档的用户体验评估，华为云用户体验大会，深圳，2024年10月31日
 - The Development of a UX Scale for Technical Documentation，IEEE ProComm 2024，卡耐基梅隆大学，匹兹堡，2024年7月15日
 `2023`
