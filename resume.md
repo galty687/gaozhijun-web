@@ -243,8 +243,6 @@ __苏州科技大学__
 
 ## 社会任职
 
-`2022年6月1日 至今`
-__[IEEE Professional Communication Society](https://procomm.ieee.org/leadership/)（工程师写作与沟通协会）__  ，理事
 
 `2022年8月10日 至今`
 [全国语言与术语标准化委员会计算机辅助术语工作分技术委员会](https://std.samr.gov.cn/search/orgDetailView?tcCode=TC62/SC3)，秘书长
@@ -256,10 +254,10 @@ __中国标准化协会技术传播服务委员会__, 秘书长
 `2019年1月1日 至今`
 __中国翻译协会本地化服务委员会__, 委员
 
-
-
+`2022年 ~ 2024年`
+__[IEEE Professional Communication Society](https://procomm.ieee.org/leadership/)（工程师写作与沟通协会）__  ，理事
 
 <!-- ### Footer
 
-Last updated: 30/4/2024 -->
+Last updated: 30/12/2024 -->
 
