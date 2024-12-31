@@ -225,7 +225,7 @@ __苏州科技大学__
 
 ## 获奖
 `2024`
-2024年北京大学第七届创新教学论文大赛，一等奖，高志军，季陈，许静*
+[2024年北京大学第七届创新教学论文大赛](http://cetl.pku.edu.cn/peking/jsp/jspeditor9/to/facade.jsp?dispatch=viewObject&id=1183&af=/cetl/view1/viewObjectOk.jsp&editor_banner_longb=null&editor_longb=905&longa=9&FATHER_LONGB=999)，一等奖，高志军，季陈，许静*
 
 [Frank R. Smith 杰出论文奖](https://www.stc.org/honors-awards-and-recognition/frank-r-smith-award/)，美国技术传播协会，[获奖页面](https://www.stc.org/notebook/2024/04/24/2024-frank-r-smith-award-recipients-names/) ，[[<u>证书</u>](https://www.gaozhijun.me/assets/download/STC-Award.pdf)]
 
