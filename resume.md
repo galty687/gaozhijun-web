@@ -255,7 +255,7 @@ __中国标准化协会技术传播服务委员会__, 秘书长
 __中国翻译协会本地化服务委员会__, 委员
 
 `2022年 ~ 2024年`
-__[IEEE Professional Communication Society](https://procomm.ieee.org/leadership/)（工程师写作与沟通协会）__  ，理事
+__[IEEE Professional Communication Society](https://procomm.ieee.org/leadership/)__  ，理事
 
 <!-- ### Footer
 
