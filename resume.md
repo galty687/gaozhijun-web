@@ -197,6 +197,7 @@ __苏州科技大学__
 - [人工智能助力区域与国别研究](https://wy.nenu.edu.cn/info/1029/5998.htm)，东北师范大学外国语学院，长春，2024年11月28日
 - 开发者文档的用户体验评估，华为云用户体验大会，深圳，2024年10月31日
 - The Development of a UX Scale for Technical Documentation，IEEE ProComm 2024，卡耐基梅隆大学，匹兹堡，2024年7月15日
+- [大模型引领翻译技术的变革](https://www5.zzu.edu.cn/fld/info/1030/4328.htm)，郑州大学外国语学院，郑州，2024年4月26日
 `2023`
 - 开发者文档的用户体验测试-以OceanBase文档为例，IEEE ProComm 2023，康奈尔大学，伊萨卡，2023年7月18日
 - 以用户为中心：从技术写作到信息体验设计，澳门大学，2023年2月8日
@@ -206,6 +207,7 @@ __苏州科技大学__
 - 中国技术写作能力考试设计，TCWorld China 2020，上海，2020年9月11日
 
 `2019`
+
 - 帮助中心质量评估指标，ACM SIGDOC 2019, 波特兰州立大学，2019年10月5日 <a href="https://sigdoc.acm.org/conference/2019/program/schedule/">[大会日程]</a>
 - 技术文档的行长设计，IEEE ProComm 2019，德国亚琛工业大学，2019年7月24日
 
