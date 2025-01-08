@@ -197,6 +197,7 @@ __苏州科技大学__
 - [人工智能助力区域与国别研究](https://wy.nenu.edu.cn/info/1029/5998.htm)，东北师范大学外国语学院，长春，2024年11月28日
 - 开发者文档的用户体验评估，华为云用户体验大会，深圳，2024年10月31日
 - The Development of a UX Scale for Technical Documentation，IEEE ProComm 2024，卡耐基梅隆大学，匹兹堡，2024年7月15日
+- Enhancing Corpus Analysis with Large Language Models: A Novel Tool for Efficient and Intelligent Processing, International Symposium on Language Sciences, 香港理工大学，2024年5月10日-11日
 - [大模型引领翻译技术的变革](https://www5.zzu.edu.cn/fld/info/1030/4328.htm)，郑州大学外国语学院，郑州，2024年4月26日
 `2023`
 - 开发者文档的用户体验测试-以OceanBase文档为例，IEEE ProComm 2023，康奈尔大学，伊萨卡，2023年7月18日
