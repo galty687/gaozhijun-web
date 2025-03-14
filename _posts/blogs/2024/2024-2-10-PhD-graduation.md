@@ -14,6 +14,12 @@ category: blog
 
 
 
+**先放一张答辩通过后，跟答辩委员会的合影**
+
+![Phd-grad](/assets/blog-images/2024/Phd-grad.jpg)
+
+
+
 ## 荷兰博士的培养模式
 
 荷兰博士与其他很多地方的博士都不同，荷兰的博士不是PhD student而是PhD researcher。入学后，学校会跟你签一份合同。博士一般分为岗位博士(Contract PhD) 和外部博士(External PhD)。
@@ -161,6 +167,3 @@ The **Convention of 5 October 1961 Abolishing the Requirement of Legalisation fo
 
 
 
-**跟答辩委员会合影**
-
-![Phd-grad](/assets/blog-images/2024/Phd-grad.jpg)
