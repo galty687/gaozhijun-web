@@ -44,8 +44,6 @@ GEM
       terminal-table (~> 1.8)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
-    jekyll-google-tag-manager (1.0.3)
-      jekyll (>= 3.3, < 5.0)
     jekyll-sass-converter (2.1.0)
       sassc (> 2.0.1, < 3.0)
     jekyll-seo-tag (2.7.1)
@@ -88,7 +86,8 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     redcarpet (3.5.1)
-    rexml (3.2.5)
+    rexml (3.3.3)
+      strscan
     rouge (3.26.0)
     ruby2_keywords (0.0.4)
     safe_yaml (1.0.5)
@@ -97,6 +96,7 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
+    strscan (3.1.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     titlecase (0.1.1)
@@ -108,7 +108,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.0)
   jekyll-gist
-  jekyll-google-tag-manager
   jekyll-seo-tag
   jekyll-sitemap
   kramdown-parser-gfm
