@@ -120,6 +120,12 @@ __苏州科技大学__
 [Google Scholar ](https://scholar.google.com/citations?user=aPZcO04AAAAJ&hl=en)
 
 ### 论文
+`2025`
+
+- **高志军**, 季陈, 刘可. 基于大语言模型的企业术语提取实践[J]. 中国科技术语, 2025, 27(4): 136–141. DOI:10.12339/j.issn.1673-8578.2025.04.031
+
+- **Gao, Z**., Dong, L., & Wang, J. (in press). Modeling Technical Writing Processes and Measuring Their Effects on Text Quality: Experimental Research with Industry Practitioners. *Written Communication*. Accepted 29 June 2025; awaiting production.
+
 `2024`
 
 - **Z. Gao**, W. Du, D. Li and J. Yu, "Development of a UX Scale for Technical Communication," 2024 IEEE International Professional Communication Conference (ProComm), Pittsburgh, PA, USA, 2024, pp. 223-232, doi: [10.1109/ProComm61427.2024.00051.](https://ieeexplore.ieee.org/document/10609580)（EI检索）
