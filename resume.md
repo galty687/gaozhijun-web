@@ -122,7 +122,7 @@ __苏州科技大学__
 ### 论文
 `2025`
 
-- **高志军**, 季陈, 刘可. 基于大语言模型的企业术语提取实践[J]. 中国科技术语, 2025, 27(4): 136–141. DOI:10.12339/j.issn.1673-8578.2025.04.031
+- **高志军**, 季陈, 刘可. 基于大语言模型的企业术语提取实践[J]. 中国科技术语, 2025, 27(4): 136–141. DOI:[10.12339/j.issn.1673-8578.2025.04.031](https://doi.org/10.12339/j.issn.1673-8578.2025.04.031)
 
 - **Gao, Z**., Dong, L., & Wang, J. (in press). Modeling Technical Writing Processes and Measuring Their Effects on Text Quality: Experimental Research with Industry Practitioners. *Written Communication*. Accepted 29 June 2025; awaiting production. （SSCI检索）
 
@@ -153,7 +153,7 @@ __苏州科技大学__
 - **Zhijun Gao**, Yuxin Gao, and Jingjing Xu. 2019. Designing Metrics to Evaluate the Help Center of Baidu Cloud. In Portland ’19: Broadening the Boundaries of Communication Design,2019, Portland, OR. ACM, New York, NY, USA, 7 pages. **DOI:** [10.1145/3328020.3353936]( https://doi.org/10.1145/3328020.3353936) （EI检索）
 
 `2016`
-- 韩涛, 刘璐, **高志军***. 强化技术传播与本地化,助力中国品牌走出去[J]. 科技导报, 2016, 34(17): 105-109. [文章链接](http://www.kjdb.org/CN/Y2016/V34/I17/105) （CSCD 检索）
+- 韩涛, 刘璐, **高志军***. 强化技术传播与本地化,助力中国品牌走出去[J]. 科技导报, 2016, 34(17): 105-109. [文章链接](http://www.kjdb.org/CN/Y2016/V34/I17/105) （CSCD 检索、北大核心）
 
 `2014`
 
@@ -163,7 +163,7 @@ __苏州科技大学__
 -	**Gao, Z**., Yu, J., & De Jong, M. (2013). Technical communication in China: A world to be won. Intercom, 60(1), 11–13.
 
 `2013`
--	高志军. 计算机辅助翻译工具测评框架初探[J]. 中国翻译, 2013(05), 70-76 （CSSCI 检索）
+-	高志军. 计算机辅助翻译工具测评框架初探[J]. 中国翻译, 2013(05), 70-76 （CSSCI 检索、北大核心）
 
 ### 专著
 `2024`
