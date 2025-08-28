@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 写给未来学生
-excerpt: "对未来学生的预期"
+excerpt: "写邮件联系导师前必看"
 modified: 2025-07-16
 tags: [python, research]
 comments: true

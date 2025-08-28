@@ -124,7 +124,7 @@ __苏州科技大学__
 
 - **高志军**, 季陈, 刘可. 基于大语言模型的企业术语提取实践[J]. 中国科技术语, 2025, 27(4): 136–141. DOI:[10.12339/j.issn.1673-8578.2025.04.031](https://doi.org/10.12339/j.issn.1673-8578.2025.04.031)
 
-- **Gao, Z**., Dong, L., & Wang, J. (in press). Modeling Technical Writing Processes and Measuring Their Effects on Text Quality: Experimental Research with Industry Practitioners. *Written Communication*. Accepted 29 June 2025; awaiting production. （SSCI检索）
+- **Gao, Z**., Dong, L., & Wang, J. (in press). Modeling Technical Writing Processes and Measuring Their Effects on Text Quality: Experimental Research with Industry Practitioners. *Written Communication*. Accepted 29 June 2025; awaiting production. DOI: 10.1177/07410883251372212 （SSCI检索）
 
 `2024`
 
