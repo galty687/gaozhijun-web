@@ -111,6 +111,7 @@ category: blog
 
 - 歇斯底里（音译自英语：hysteria）
 - 盖世太保（音译自德语：Geheime Staats Polizei）
+- 普罗大众(音译自 proletariat)
 - 纳粹 (Nazi)
 
 
@@ -134,6 +135,8 @@ category: blog
 - 同济大学。德国大学的意思。Deutsch （德意志）的上海话发音成同济。
 - 花旗银行。CITI Bank 其实是城市银行的意思，早期在上海的营业网点悬挂美国国旗（🇺🇸），老百姓俗称花旗银行。
 - 喂。接电话说**喂**，是因为上海第一部电话是法国工程师接线的，拿起电话说法语 OUI，就是 Yes 的意思。
+- “霞飞路”源自法语 Avenue Joffre，以纪念法国元帅 Joseph Joffre 命名，诞生于上海法租界时期（约1918–1920年），1943年改名为“华山路”。它见证了上海从租界时代走向现代都市的历史变迁。
+- 雅礼中学，由美国耶鲁大学毕业生组成的“雅礼会”（Yale-in-China Mission）创办，雅礼既来自论语，又是Yale的谐音。
 
 
 
@@ -192,6 +195,18 @@ category: blog
 
 
 
+### 来自外文的术语
+
+| 术语 | 外文     |
+| ---- | -------- |
+| 基因 | Gene     |
+| 逻辑 | logic    |
+| 霸凌 | bullying |
+| 霓虹 | Neon     |
+| 幽默 | Humor    |
+
+
+
 ### 中国古代对周边国家的称呼
 
 | 英文     | 古代       | 意思                  | 现代   |
@@ -209,22 +224,25 @@ category: blog
 
 ### 洋泾浜
 
-| 中文         | 原文           |
-| ------------ | -------------- |
-| 士多         | Store          |
-| 士多啤梨     | Strawberry     |
-| 麦克风       | Microphone     |
-| 大三巴       | de São Paulo   |
-| 士坦         | stamp          |
-| 芝士         | Cheese         |
-| 水果**班戟** | pancake        |
-| 西冷         | sirloin        |
-| 皮卡车       | Pickup Truck   |
-| 萝卜章       | Rubber Stamp   |
-| 抬头         | Title          |
-| 罗宋汤       | Russian Soup   |
-| 沙嗲         | Sate           |
-| 娘惹菜       | Nyonya cuisine |
+| 中文             | 原文            |
+| ---------------- | --------------- |
+| 士多             | Store           |
+| 士多啤梨         | Strawberry      |
+| 麦克风           | Microphone      |
+| 大三巴           | de São Paulo    |
+| 士坦             | stamp           |
+| 芝士             | Cheese          |
+| 水果**班戟**     | pancake         |
+| 西冷             | sirloin         |
+| 皮卡车           | Pickup Truck    |
+| 萝卜章           | Rubber Stamp    |
+| 抬头             | Title           |
+| 罗宋汤           | Russian Soup    |
+| 沙嗲             | Sate            |
+| 娘惹菜           | Nyonya cuisine  |
+| 蛇果（地厘蛇果） | Delicious Apple |
+| 车厘子           | Cherry          |
+| 烘焙             | home bake       |
 
 **“娘惹”** 指的是古代来到马来群岛的华人移民（主要是福建人、潮汕人）
 
