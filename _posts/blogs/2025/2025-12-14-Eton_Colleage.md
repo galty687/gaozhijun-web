@@ -88,11 +88,12 @@ RP 指的是Received Pronunciation，received 在这里不是“接收”的意�
 ### 精英的成长路径
 
 精英典型的成长路径是：
-	1.	好的家庭出身（文化资本、经济资本）
-	2.	上顶级私立寄宿学校（Eton、Harrow、Winchester）
-	3.	上Oxbridge （牛剑）
-	4.	进入政治、法律、金融、外交等核心行业
-	5.	再把资源传给下一代
+
+1. 好的家庭出身（文化资本、经济资本）
+2. 上顶级私立寄宿学校（Eton、Harrow、Winchester）
+3. 上Oxbridge （牛剑）
+4. 进入政治、法律、金融、外交等核心行业
+5. 再把资源传给下一代
 
 
 ### 培养统治者的气质
@@ -133,7 +134,7 @@ Boarding 逐步从提供伙食到包吃包住。
 
 ### 校友网络
 
-不好英国社会重视校友网络，是因为：
+不少英国社会重视校友网络，是因为：
 
 - 精英数量有限且连续
 - 寄宿制制造深度信任
@@ -189,6 +190,30 @@ You are the Prime Minister. Write the script for a speech to be broadcast to the
 
 
 让学生角色扮演首相，从面试题来看，确实是非常精英的。
+
+
+
+英文：
+
+Geography is fundamentally about the study of places. What is the most important place in the world, and why?
+
+译文：地理学从根本上说是研究“地方”的学科。那么，世界上最重要的地方是什么？为什么？
+
+
+
+题目整体上偏向于逻辑分析，而非对于事实记忆的考察。
+
+
+
+### 伊顿公学的教育
+
+伊顿公学的教育，并不是“把普通人培养成精英”，而是“把已经具备精英位置的人，训练成‘可以长期占据精英位置的人’”。
+
+教育的内容：
+1. 精英角色的“行为模板”
+2. 把“精英身份”去个性化
+
+
 
 
 
