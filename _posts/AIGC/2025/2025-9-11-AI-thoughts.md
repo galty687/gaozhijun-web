@@ -33,6 +33,8 @@ category: AIGC
 10. AI 真是太卷了，MCP过热到工具比用户多，还没火起来，Claude Skills又来了，现在又是一堆工具把MCP 转Claude Skills. (2025-10-27)
 11. transformer这套架构如果在O(n²)这个层面上没有实质性的突破，那它的瓶颈是必然的。上下文一旦拉长，注意力的分配就会被摊得越来越薄，每个token能获得的“关注”值自然变小。结果就是——上下文越多，模型越吃力，效率越低。(2025-10-28)
 12. workflow 和 agent 的区别，Workflow还是人类编排好的流程，agent则有LLM更多的自主决策。(2025-10-29)
+13. 之前的RAG只是把内容分成chunck，然后搜索相关的内容，内容之间的逻辑关系并不懂，所以 LLM+Knowledge Graph才是方向，还看到一个 congnee的项目可以自动把非结构化数据转为知识图谱，所以这个想法的落地应该也是很快的事情了。 (2025-12-05)
+14. Codex 也开始支持 Agents.md 和 Skills了，不得不说Claude有时候方向还挺对的，MCP，Agent.md，Skills 都让很多别的公司跟进了。(2025-12-05)
 
 
 
