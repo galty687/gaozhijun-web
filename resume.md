@@ -1,7 +1,7 @@
 ---
 layout: resume
 menuorder: 3
-menutitle: 简历
+menutitle: 履历
 title: 个人履历
 ---
 
@@ -120,11 +120,13 @@ __苏州科技大学__
 [Google Scholar ](https://scholar.google.com/citations?user=aPZcO04AAAAJ&hl=en)
 
 ### 论文
+`2026`
+
+- **Gao, Z**., Dong, L., & Wang, J. (2026). Modeling technical writing processes and measuring their effects on text quality: Experimental research with industry practitioners. Written Communication, vol. 43, no. 1, Jan. 2026, pp. 225-70. Advance online publication. [doi.org/10.1177/07410883251372212](https://doi.org/10.1177/07410883251372212)（SSCI检索）
+
 `2025`
 
 - **高志军**, 季陈, 刘可. 基于大语言模型的企业术语提取实践[J]. 中国科技术语, 2025, 27(4): 136–141. DOI:[10.12339/j.issn.1673-8578.2025.04.031](https://doi.org/10.12339/j.issn.1673-8578.2025.04.031)
-
-- **Gao, Z**., Dong, L., & Wang, J. (2025). Modeling technical writing processes and measuring their effects on text quality: Experimental research with industry practitioners. Written Communication, 42(4). Advance online publication. [doi.org/10.1177/07410883251372212](https://doi.org/10.1177/07410883251372212)（SSCI检索）
 
 `2024`
 
