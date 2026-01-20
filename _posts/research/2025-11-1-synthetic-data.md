@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 大规模藏文合成数据集的构建
-excerpt: 
+excerpt: 合成大规模藏文数据集用于提升大模型藏文能力
 modified: 
 tags: [research, TAG]
 comments: true
