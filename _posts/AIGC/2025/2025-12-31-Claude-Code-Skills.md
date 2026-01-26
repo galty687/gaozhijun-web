@@ -145,6 +145,44 @@ Markdown 正文包含实际的操作说明，对结构或内容没有特定限�
 
 
 
+## 与Git配合
+
+在Vibe Coding的过程中，经常需要做很多尝试，又不希望影响到主版本的代码，这个时候就可以用 git 来很好的实现。
+
+
+
+### 主分支策略
+
+Main (或master)只接受“已验证”的改动，每次开始尝试前，从main拉取一个分支进行实验，实验成功就合并到 main，失败就直接丢弃分支。
+
+
+
+```bash
+# 新建一个主仓库
+git init -b main
+
+# 首次提交：
+
+git add .
+git commit -m "Initial commit"
+
+
+# 创建测试分支
+git checkout -b theme-unification
+
+# 满意时合并
+git checkout main
+git merge theme-unification
+
+# 不满意时删除
+git checkout main
+git branch -D theme-unification
+
+
+```
+
+
+
 ## 市场
 
 1. [Skillsmp](https://skillsmp.com) (已有 7 万多个skills，截止 2026.1.19)
