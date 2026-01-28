@@ -111,7 +111,7 @@ my-skill/
 
 
 
-```mdx
+```markdown
 ---
 name: pdf-processing
 description: 从 PDF 文件中提取文本和表格，填写表单，合并文档。
@@ -178,6 +178,15 @@ git merge theme-unification
 git checkout main
 git branch -D theme-unification
 
+# 开分支后只在分支上改，只在分支上提交
+git status
+git add -A
+git commit -m "Experiment: <what changed>"
+
+# 列出所有分支
+
+git branch -a
+
 
 ```
 
@@ -186,6 +195,10 @@ git branch -D theme-unification
 ## 市场
 
 1. [Skillsmp](https://skillsmp.com) (已有 7 万多个skills，截止 2026.1.19)
+
+
+
+## Specs 驱动的开发
 
 
 
