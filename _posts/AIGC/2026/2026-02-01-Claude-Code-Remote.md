@@ -52,7 +52,7 @@ sudo systemsetup -setremotelogin on
 
 
 
-![termius-iphone](/blog-images/2026/termius-iphone.PNG)
+![termius-iphone](/assets/blog-images/2026/termius-iphone.PNG)
 
 ### Tmux
 
