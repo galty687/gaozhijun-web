@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Claude Code
+title: 配置 Claude Code 远程工作
 excerpt: "远程 Vibe Coding 实录"
 modified: 
 tags: [LLM, Chatgpt]
@@ -104,5 +104,15 @@ tmux new -s claude
 
 
 
+### 远程提醒
 
+终端 bell 通知
 
+Termius 支持终端 bell 声音提示。在 `~/.tmux.conf` 中添加：
+
+```
+set -g monitor-bell on
+set -g bell-action any
+```
+
+当 Claude Code 等待确认时如果触发 bell，手机上 Termius 会有提醒。
