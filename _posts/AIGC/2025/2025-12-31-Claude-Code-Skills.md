@@ -15,6 +15,29 @@ Claude Code真是太火了，忍不住订阅了 200 刀/月的Pro Max，非常�
 
 
 
+## Claude Code Teams
+
+时间： 20260207
+
+CC 模型是关闭的，开启方法：
+
+1.  找到 `settings.json` 我的路径是：`/Users/zhijungao/.claude/`
+
+2. 在其中增加这一行
+
+   ```json
+     "env": {
+     "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+   },
+   ```
+
+3. 强制启动在tmux中启动 team 模式，运行： `claude --teammate-mode tmux`
+4. 启动查看teammates: `tmux -L claude-swarm-9023 a`
+
+   ![teamview](/assets/blog-images/2026/teamview.png)
+
+
+
 ## Claude Code 项目配置
 
 ```
