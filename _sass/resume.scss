@@ -120,7 +120,7 @@ q {
 .resume code {
     font: normal normal;
     float: right;
-    color: #000;
+    color: var(--color-text);
     padding-right: .5em;
     text-indent: 0px;
 }
@@ -183,6 +183,7 @@ div#resume.resume {
     color: $lowlightcolor;
     position: relative;
     top: 1.7em;
+    margin-bottom: 1.7em;
     text-align: right;
     width: 30%;
 }

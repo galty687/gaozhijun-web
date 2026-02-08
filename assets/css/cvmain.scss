@@ -16,6 +16,7 @@ $highlightcolor: {{ site.highlight-color }};
 $lowlightcolor: {{ site.lowlight-color }};
 @import "resume";
 @import "variables";
+@import "dark-mode";
 @import "grid";
 @import "mixins";
 @import "normalize";

@@ -8,8 +8,8 @@ hr {
     padding: 0;
     height: 1px;
     border: 0;
-    border-top: 1px solid #ccc;
-    border-bottom: 1px solid #fff;
+    border-top: 1px solid var(--color-hr-top);
+    border-bottom: 1px solid var(--color-hr-bottom);
 }
 
 
@@ -85,19 +85,19 @@ svg:not(:root) {
     @include font-rem(14);
     font-family: $heading-font;
     font-weight: 700;
-    background-color: $primary;
-    color: $white;
+    background-color: var(--color-btn-bg);
+    color: var(--color-btn-text);
     border-width: 2px !important;
     border-style: solid !important;
-    border-color: $primary;
+    border-color: var(--color-btn-bg);
     text-decoration: none !important;
     @include rounded(3px);
     &:visited {
-        color: $white;
+        color: var(--color-btn-text);
     }
     &:hover {
-        background-color: $white;
-        color: $primary;
+        background-color: var(--color-btn-hover-bg);
+        color: var(--color-btn-hover-text);
     }
 }
 
@@ -174,8 +174,8 @@ svg:not(:root) {
     min-height: 20px;
     padding: 19px;
     margin-bottom: 20px;
-    background-color: #f5f5f5;
-    border: 1px solid #e3e3e3;
+    background-color: var(--color-well-bg);
+    border: 1px solid var(--color-well-border);
     @include rounded(4px);
     @include box-shadow(inset 0 1px 1px rgba(0, 0, 0, 0.05));
 }

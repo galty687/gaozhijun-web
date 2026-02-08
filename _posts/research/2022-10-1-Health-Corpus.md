@@ -6,7 +6,11 @@ modified: 1/12/2022, 9:00:24
 tags: [传播]
 comments: true
 category: research
+title_en: "China's Foreign Health Assistance Corpus Project"
+excerpt_en: "National Social Science Fund Major Project, Participant"
 ---
+
+<div class="lang-zh" markdown="1">
 
 
 
@@ -16,7 +20,7 @@ category: research
 
 ## 项目背景
 
-国家社科基金重大项目“构建人类卫生健康共同体研究与数据库建设” （项目批准号：21ZDA130）
+国家社科基金重大项目"构建人类卫生健康共同体研究与数据库建设" （项目批准号：21ZDA130）
 
 子课题：人类卫生健康共同体话语体系建构（北京大学新闻与传播学院许静教授）。
 
@@ -46,15 +50,15 @@ category: research
 
   	a.	词频与高频词统计：统计语料中前n个（n可由用户设定）出现频率高的词语，返回对应的高频词及出现次数。
   	b.	主题词分析：用户可通过指定年份，查看特定年度卫生外交主题词。
-  	c.	关键词语境分析：用户可通过输入关键词，查看该词的上下文语境。例如，输入“抗疫”即可获取卫生外交报道中与“抗疫”的上下文。
-  	d.	词语搭配分析：用户可通过输入关键词，查看该词的前后词语搭配。例如，输入“提供”即可获取与其搭配的主语、宾语等词汇。
+  	c.	关键词语境分析：用户可通过输入关键词，查看该词的上下文语境。例如，输入"抗疫"即可获取卫生外交报道中与"抗疫"的上下文。
+  	d.	词语搭配分析：用户可通过输入关键词，查看该词的前后词语搭配。例如，输入"提供"即可获取与其搭配的主语、宾语等词汇。
 
-  
+
 
 
 2. 外交特色研究
     a.	外交客体识别：经处理的语料能够对外交客体进行标注，用户可通过输入指定时间段，查看中国卫生外交客体变化。
-    b.	双边及多边合作分析：通过实体共现关系，用户可通过输入指定时间段，获取中国与不同国家及国际组织合作的紧密程度。 
+    b.	双边及多边合作分析：通过实体共现关系，用户可通过输入指定时间段，获取中国与不同国家及国际组织合作的紧密程度。
 
 
 
@@ -66,7 +70,7 @@ category: research
     12月10日：完善前端功能界面，完成前后端数据连通；
     12月15日：实现已有界面的访问与基本功能的使用。
 
-  
+
 
 
 ## 参考资料
@@ -104,3 +108,106 @@ category: research
 项目
 
 - [哈佛中国历代人物传记资料库](https://projects.iq.harvard.edu/chinesecbdb)
+
+</div>
+
+<div class="lang-en" markdown="1">
+
+
+
+Corpus URL: [https://icc.pku.edu.ch/corpus/index](https://icc.pku.edu.cn/corpus/index/)
+
+ Backup corpus URL: http://39.106.255.42/corpus/index/
+
+## Project Background
+
+National Social Science Fund Major Project "Research on Building a Community of Common Health for Mankind and Database Construction" (Project Approval No.: 21ZDA130)
+
+Sub-project: Discourse System Construction of a Community of Common Health for Mankind (Professor Jing Xu, School of Journalism and Communication, Peking University).
+
+**Corpus Development Team**
+
+Supervisor: Zhijun Gao
+
+Student Team:
+- 	Bing Shuai (Team Leader)
+- 	Yang Hu
+- 	Zepeng Liang
+
+## Project Significance:
+1.	Analyzing changes in news discourse on China's foreign health assistance
+China's foreign health development assistance is an important component of China's foreign aid and a demonstration of China's fulfillment of international obligations and its strength as a major power. Establishing a foreign health assistance corpus can provide rich materials for research on changes in news discourse regarding China's foreign health assistance, further strengthening the discourse system construction of a community of common health for mankind.
+2.	Providing foundational resources and analytical tools for scholars with similar research needs
+Database resources in the specialized field of diplomacy are very limited. This corpus not only provides comprehensive data support and analytical tools for the field of health diplomacy, but also attempts to offer a unique perspective for exploring China's participation in global governance and the development of China's multilateral diplomacy. It can also provide a quantitative research approach for discourse system construction and promote the development of China's international communication.
+
+## Resources:
+1.	Diachronic news from People's Daily between 1945-2022
+2.	Health assistance sub-corpus
+3.	WHO news reports related to China
+
+
+## Corpus Analysis Tools V1.0:
+1. Basic Corpus Functions
+
+  	a.	Word frequency and high-frequency word statistics: Counts the top n (n can be set by users) most frequently occurring words in the corpus and returns the corresponding high-frequency words and their occurrence counts.
+  	b.	Keyword analysis: Users can view health diplomacy keywords for specific years by specifying a year.
+  	c.	Keyword-in-context analysis: Users can view the contextual environment of a word by entering a keyword. For example, entering "epidemic prevention" retrieves the context around "epidemic prevention" in health diplomacy reports.
+  	d.	Collocation analysis: Users can view the collocations before and after a word by entering a keyword. For example, entering "provide" retrieves the subjects, objects, and other words that collocate with it.
+
+
+
+
+2. Diplomacy-Specific Research
+    a.	Diplomatic object recognition: Processed corpus data can annotate diplomatic objects, and users can view changes in China's health diplomacy objects by entering a specified time period.
+    b.	Bilateral and multilateral cooperation analysis: Through entity co-occurrence relationships, users can obtain the closeness of cooperation between China and different countries and international organizations by entering a specified time period.
+
+
+
+## Development Plan:
+
+1. Corpus collection (December 1, 2022)
+
+2. Corpus analysis tool development
+    December 10: Improve front-end functional interface, complete front-end and back-end data connection;
+    December 15: Enable access to existing interfaces and use of basic functions.
+
+
+
+
+## References
+
+**Similar Corpora**
+
+- [Xi Jinping: The Governance of China Multilingual Database Platform](http://imate.cascorpus.com)
+- [Chinese Diplomatic Discourse Corpus](http://www5.zzu.edu.cn/cdd/th_ssjgy.jsp?urltype=tree.TreeTempUrl&wbtreeid=1106)
+
+**General Corpora**
+
+- [BCC](http://bcc.blcu.edu.cn)
+- [Chinese Diachronic Big Data DCC](http://202.112.194.62:8081)
+- [Media Language Corpus](http://ling.cuc.edu.cn/RawPub/)
+- [Corpora A-Z](http://corpus.bfsu.edu.cn/Corpora_A-Z_Beijing_Foreign_Studies_University_Corpus_Research_Group.html)
+
+
+
+**Visualization**
+
+- [China Biographical Database and Geographic Information System Integration](https://projects.iq.harvard.edu/chinesecbdb/%E5%9C%B0%E7%90%86%E8%B3%87%E8%A8%8A%E7%B3%BB%E7%B5%B1)
+
+
+
+**Chinese-Characteristic Discourse**
+
+- [China Keywords](http://www.china.org.cn/chinese/china_key_words/)
+- [Standardized Database for Translating Key Chinese Political Terms](http://210.72.20.108/special/class3/introduction.jsp)
+- [Key Concepts in Chinese Thought and Culture](https://www.chinesethought.cn)
+
+Terminology Database
+
+- [Termonline](https://www.termonline.cn/index)
+
+Projects
+
+- [Harvard China Biographical Database](https://projects.iq.harvard.edu/chinesecbdb)
+
+</div>

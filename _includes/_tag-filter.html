@@ -1,6 +1,8 @@
+{% assign lang = page.lang | default: "zh" %}
+{% assign t = site.data.translations[lang] %}
 <div class="tag-filter" id="tag-filter">
-    <h3 class="tag-filter-label">标签筛选</h3>
-    <button class="tag-btn active" data-tag="all">全部</button>
+    <h3 class="tag-filter-label">{% if t %}{{ t.ui.tag_filter_label }}{% else %}标签筛选{% endif %}</h3>
+    <button class="tag-btn active" data-tag="all">{% if t %}{{ t.ui.tag_filter_all }}{% else %}全部{% endif %}</button>
 </div>
 
 <style>
@@ -10,7 +12,7 @@
 }
 .tag-filter .tag-filter-label {
     font-size: 14px;
-    color: #666;
+    color: var(--color-tag-label);
     margin: 10px 0 8px;
     padding: 0;
     border: none;
@@ -22,10 +24,10 @@
     padding: 4px 10px;
     margin: 3px 0;
     font-size: 12px;
-    border: 1px solid #eee;
+    border: 1px solid var(--color-tag-btn-border);
     border-radius: 3px;
-    background: #fff;
-    color: #555;
+    background: var(--color-tag-btn-bg);
+    color: var(--color-tag-btn-text);
     cursor: pointer;
     transition: all 0.2s ease;
     font-family: inherit;

@@ -15,6 +15,7 @@ sitemap: false
 $highlightcolor: {{ site.highlight-color }};
 $lowlightcolor: {{ site.lowlight-color }};
 @import "variables";
+@import "dark-mode";
 @import "grid";
 @import "mixins";
 @import "normalize";

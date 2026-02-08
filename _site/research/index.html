@@ -3,7 +3,7 @@
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js" lang="cn">
+<html class="no-js" lang="zh-CN">
 <!--<![endif]-->
 
 <head>
@@ -26,6 +26,19 @@
 </script>
 <!-- End Google Tag Manager --> 
     <meta charset="utf-8">
+
+<!-- Dark mode anti-flicker + language detection: must run before rendering -->
+<script>
+(function() {
+    var theme = localStorage.getItem('theme');
+    if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+    if (window.location.search.indexOf('lang=en') !== -1) {
+        document.documentElement.setAttribute('data-lang', 'en');
+    }
+})();
+</script>
 
 
 
@@ -116,20 +129,30 @@
 </head>
 
 <body class="post-index">
+    
+    
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5C4DTCM"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
-    <div class="navigation-wrapper">
+    
+
+
+
+<div class="navigation-wrapper">
 	<div class="site-name">
 		
-		<a href="/">高志军</a>
+			
+		<a href="/" class="lang-zh">高志军</a>
+		<a href="/en/" class="lang-en">Zhijun Gao</a>
+			
 		
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
-		    <ul>
+			
+		    <ul class="lang-zh">
 		    	
 		    	
 		        
@@ -176,8 +199,51 @@
 				</a></li>
 				
 		    </ul>
+		    <ul class="lang-en">
+		    	
+		    	
+		        
+			    	
+                                   <li><a href="" >
+				    
+				    
+				    
+				</a></li>
+				
+			    	
+                                   <li><a href="/en/" >
+				    
+				    Home
+				    
+				</a></li>
+				
+			    	
+                                   <li><a href="/en/research/" >
+				    
+				    Research
+				    
+				</a></li>
+				
+			    	
+                                   <li><a href="/en/resume/" >
+				    
+				    CV
+				    
+				</a></li>
+				
+		    </ul>
+			
 		</nav>
 	</div><!-- /.top-navigation -->
+	<div class="nav-actions">
+		
+		<a href="/en/" class="nav-action-btn lang-switch lang-zh">English</a>
+		<a href="/" class="nav-action-btn lang-switch lang-en">中文</a>
+		
+		<button id="theme-toggle" class="nav-action-btn theme-toggle" aria-label="Toggle dark mode">
+			<i class="fa fa-sun-o" id="theme-icon"></i>
+		</button>
+	</div>
 </div><!-- /.navigation-wrapper -->
 
 
@@ -193,6 +259,7 @@
              
             <article>
                 
+                
                 <h2><a href="/research/TCM-terms/" title="基于大语言模型的中医药文化视听节目多语术语库构建">基于大语言模型的中医药文化视听节目多语术语库构建</a></h2>
                 <p>构建适合视听传播的中医药术语库</p>
                 
@@ -202,12 +269,14 @@
              
             <article>
                 
+                
                 <h2><a href="/research/synthetic-data/" title="大规模藏文合成数据集的构建">大规模藏文合成数据集的构建</a></h2>
                 <p>合成大规模藏文数据集用于提升大模型藏文能力</p>
                 
             </article>
               
             <article>
+                
                 
                 <h2><a href="/research/criss-comm/" title="地方突发公共事件舆论引导智能体的构建">地方突发公共事件舆论引导智能体的构建</a></h2>
                 <p>母课题：基于大模型与数据智能的区域整体性健康治理与突发公共事件舆论引导机制研究——以武汉市东湖高新区为例</p>
@@ -218,12 +287,14 @@
              
             <article>
                 
+                
                 <h2><a href="/research/SU7/" title="小米 SU7 车主手册体验评估">小米 SU7 车主手册体验评估</a></h2>
                 <p>小米内容办公室委托，负责人</p>
                 
             </article>
               
             <article>
+                
                 
                 <h2><a href="/research/LLM_Inter_Comm/" title="新质媒体环境下基于大语言模型智能体的国际传播系统研究 ">新质媒体环境下基于大语言模型智能体的国际传播系统研究 </a></h2>
                 <p>国家社科基金重点项目，参与</p>
@@ -234,6 +305,7 @@
              
             <article>
                 
+                
                 <h2><a href="/research/opinion_guiding/" title="突发公共事件舆论引导的机制、路径与方法">突发公共事件舆论引导的机制、路径与方法</a></h2>
                 <p>国家社科基金重点项目，参与</p>
                 
@@ -241,12 +313,6 @@
               
             <article>
                 
-                <h2><a href="/research/WHO/" title="“全球健康传播”慕课及语料库建设">“全球健康传播”慕课及语料库建设</a></h2>
-                <p>北京大学“教学新思路2.0”的优先项目，参与</p>
-                
-            </article>
-              
-            <article>
                 
                 <h2><a href="/research/health-comm/" title="数字健康人文视野下的肿瘤患者叙事研究">数字健康人文视野下的肿瘤患者叙事研究</a></h2>
                 <p>北京大学数字与人文课题专项，参与，负责软件开发</p>
@@ -255,12 +321,14 @@
               
             <article>
                 
+                
                 <h2><a href="/research/Mi-QA/" title="基于神经网络的译文质量自动评估">基于神经网络的译文质量自动评估</a></h2>
                 <p>为小米开发的译文评分工具，主持</p>
                 
             </article>
               
             <article>
+                
                 
                 <h2><a href="/research/Mi-Term/" title="基于神经网络的术语提取">基于神经网络的术语提取</a></h2>
                 <p>为小米开发的术语提取工具，主持</p>
@@ -271,6 +339,7 @@
              
             <article>
                 
+                
                 <h2><a href="/research/Health-Corpus/" title="中国对外卫生援助语料库项目">中国对外卫生援助语料库项目</a></h2>
                 <p>国家社科重大课题，参与</p>
                 
@@ -280,12 +349,14 @@
              
             <article>
                 
+                
                 <h2><a href="/research/Ant-UX/" title="蚂蚁集团-开发者文档体验设计">蚂蚁集团-开发者文档体验设计</a></h2>
                 <p>为开发者设计高可用的技术文档，提升开发体验，增加用户粘性。</p>
                 
             </article>
               
             <article>
+                
                 
                 <h2><a href="/research/YiCAT/" title="一者科技-语言智能在技术写作中的应用">一者科技-语言智能在技术写作中的应用</a></h2>
                 <p>将各类写作技术尤其是最新的智慧写作技术用于技术写作中，提升项目效率。</p>
@@ -296,12 +367,14 @@
              
             <article>
                 
+                
                 <h2><a href="/research/Mi-TMS/" title="小米-翻译订单管理系统">小米-翻译订单管理系统</a></h2>
                 <p>将小米内部翻译需求下单、翻译管理与结算，从而全面提升翻译服务水平，降低流程成本。</p>
                 
             </article>
               
             <article>
+                
                 
                 <h2><a href="/research/Mi-Term/" title="小米-术语门户">小米-术语门户</a></h2>
                 <p>将小米多语种术语信息集中化管理，方便全体员工查询，提升全公司在全球范围内的术语一致性和准确性。</p>
@@ -310,12 +383,14 @@
               
             <article>
                 
+                
                 <h2><a href="/research/Mi-Tag/" title="小米-标签辅助生成系统">小米-标签辅助生成系统</a></h2>
                 <p>将小米各类标签数据结构化管理，并使用同一的样式表输出。</p>
                 
             </article>
               
             <article>
+                
                 
                 <h2><a href="/research/sztu/" title="深圳技术大学-技术写作课程设计">深圳技术大学-技术写作课程设计</a></h2>
                 <p>为物联网专业学生设计专用的技术写作课程</p>
@@ -326,12 +401,14 @@
              
             <article>
                 
+                
                 <h2><a href="/research/CAS/" title="中国标准化协会-技术写作能力证书项目">中国标准化协会-技术写作能力证书项目</a></h2>
                 <p>中国首个技术写作能力证书</p>
                 
             </article>
               
             <article>
+                
                 
                 <h2><a href="/research/pku/" title="北京大学-专业硕士案例库建设">北京大学-专业硕士案例库建设</a></h2>
                 <p>翻译与本地化案例库</p>
@@ -342,12 +419,14 @@
              
             <article>
                 
+                
                 <h2><a href="/research/Baidu/" title="百度-计算机辅助翻译工具设计咨询">百度-计算机辅助翻译工具设计咨询</a></h2>
                 <p>为百度计算机辅助翻译工具的设计提供咨询</p>
                 
             </article>
               
             <article>
+                
                 
                 <h2><a href="/research/BFSU/" title="北京外国语大学-翻译过程研究">北京外国语大学-翻译过程研究</a></h2>
                 <p>使用眼动仪研究翻译过程</p>
@@ -358,6 +437,7 @@
              
             <article>
                 
+                
                 <h2><a href="/research/asd-ste/" title="航天与防务简化技术英语(ASD-STE)规则检查器">航天与防务简化技术英语(ASD-STE)规则检查器</a></h2>
                 <p>受某飞机制造商委托，该检查器可以检查技术资料是否符合ASD-STE的语言规范</p>
                 
@@ -366,6 +446,7 @@
             <h3>2013</h3>
              
             <article>
+                
                 
                 <h2><a href="/research/zhongye/" title="中冶集团-远程多人协调翻译环境">中冶集团-远程多人协调翻译环境</a></h2>
                 <p>实现多人使用CAT工具协同完成翻译任务</p>
@@ -402,6 +483,45 @@
     }
 })();
 </script>
+<!-- Dark mode toggle -->
+<script>
+(function() {
+    var toggle = document.getElementById('theme-toggle');
+    var icon = document.getElementById('theme-icon');
+    if (!toggle || !icon) return;
+
+    function updateIcon() {
+        var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        icon.className = isDark ? 'fa fa-moon-o' : 'fa fa-sun-o';
+    }
+    updateIcon();
+
+    toggle.addEventListener('click', function() {
+        var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        if (isDark) {
+            document.documentElement.removeAttribute('data-theme');
+            localStorage.setItem('theme', 'light');
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+        }
+        updateIcon();
+    });
+
+    // Listen to system theme changes only when user hasn't manually set
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+        if (!localStorage.getItem('theme')) {
+            if (e.matches) {
+                document.documentElement.setAttribute('data-theme', 'dark');
+            } else {
+                document.documentElement.removeAttribute('data-theme');
+            }
+            updateIcon();
+        }
+    });
+})();
+</script>
+
 
 <!-- Asynchronous Google Analytics snippet -->
 <script>

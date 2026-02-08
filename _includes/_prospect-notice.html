@@ -1,5 +1,7 @@
+{% assign lang = page.lang | default: "zh" %}
+{% assign t = site.data.translations[lang] %}
 <div class="prospect-notice" id="prospect-notice">
-    <h4 class="prospect-notice-title"><i class="fa fa-fw fa-graduation-cap"></i> 写给未来学生</h4>
-    <p class="prospect-notice-text">写邮件联系导师前，先了解招生范围、研究兴趣与培养方式。</p>
-    <a href="{{ site.github.url }}/blog/prospects/" class="prospect-notice-link">查看详情 &rarr;</a>
+    <h4 class="prospect-notice-title"><i class="fa fa-fw fa-graduation-cap"></i> {% if t %}{{ t.ui.prospect_title }}{% else %}写给未来学生{% endif %}</h4>
+    <p class="prospect-notice-text">{% if t %}{{ t.ui.prospect_text }}{% else %}写邮件联系导师前，先了解招生范围、研究兴趣与培养方式。{% endif %}</p>
+    <a href="{{ site.github.url }}/blog/prospects/" class="prospect-notice-link">{% if t %}{{ t.ui.prospect_link }}{% else %}查看详情{% endif %} &rarr;</a>
 </div>

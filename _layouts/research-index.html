@@ -3,7 +3,7 @@
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js" lang="cn">
+<html class="no-js" lang="{% if page.lang == 'en' %}en{% else %}zh-CN{% endif %}">
 <!--<![endif]-->
 
 <head>
@@ -12,6 +12,8 @@
 </head>
 
 <body class="post-index">
+    {% assign lang = page.lang | default: "zh" %}
+    {% assign t = site.data.translations[lang] %}
     {% include _gtm_body.html %}
     {% include _browser-upgrade.html %}
     {% include _navigation.html %}
@@ -27,11 +29,20 @@
             <h3>{{ year }}</h3>
             {% capture written_year %}{{ year }}{% endcapture %} {% endif %}
             <article>
-                {% if post.link %}
-                <h2 class="link-post"><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></a></h2>
+                {% if lang == "en" %}
+                    {% assign display_title = post.title_en | default: post.title %}
+                    {% assign display_excerpt = post.excerpt_en | default: post.excerpt %}
+                    {% assign post_url = site.github.url | append: post.url | append: "?lang=en" %}
                 {% else %}
-                <h2><a href="{{ site.github.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-                <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+                    {% assign display_title = post.title %}
+                    {% assign display_excerpt = post.excerpt %}
+                    {% assign post_url = site.github.url | append: post.url %}
+                {% endif %}
+                {% if post.link %}
+                <h2 class="link-post"><a href="{{ post_url }}" title="{{ display_title }}">{{ display_title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ display_title }}"><i class="fa fa-link"></i></a></h2>
+                {% else %}
+                <h2><a href="{{ post_url }}" title="{{ display_title }}">{{ display_title }}</a></h2>
+                <p>{{ display_excerpt | strip_html | truncate: 160 }}</p>
                 {% endif %}
             </article>
             {% endfor %}

@@ -3,7 +3,7 @@
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js" lang="cn">
+<html class="no-js" lang="zh-CN">
 <!--<![endif]-->
 
 <head>
@@ -26,6 +26,19 @@
 </script>
 <!-- End Google Tag Manager --> 
     <meta charset="utf-8">
+
+<!-- Dark mode anti-flicker + language detection: must run before rendering -->
+<script>
+(function() {
+    var theme = localStorage.getItem('theme');
+    if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+    if (window.location.search.indexOf('lang=en') !== -1) {
+        document.documentElement.setAttribute('data-lang', 'en');
+    }
+})();
+</script>
 
 
 
@@ -117,20 +130,30 @@
 </head>
 
 <body class="page">
+    
+    
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5C4DTCM"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) --> 
-    <!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]--> 
-    <div class="navigation-wrapper">
+<!-- End Google Tag Manager (noscript) -->
+    <!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+    
+
+
+
+<div class="navigation-wrapper">
 	<div class="site-name">
 		
-		<a href="/">高志军</a>
+			
+		<a href="/" class="lang-zh">高志军</a>
+		<a href="/en/" class="lang-en">Zhijun Gao</a>
+			
 		
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
-		    <ul>
+			
+		    <ul class="lang-zh">
 		    	
 		    	
 		        
@@ -177,8 +200,51 @@
 				</a></li>
 				
 		    </ul>
+		    <ul class="lang-en">
+		    	
+		    	
+		        
+			    	
+                                   <li><a href="" >
+				    
+				    
+				    
+				</a></li>
+				
+			    	
+                                   <li><a href="/en/" >
+				    
+				    Home
+				    
+				</a></li>
+				
+			    	
+                                   <li><a href="/en/research/" >
+				    
+				    Research
+				    
+				</a></li>
+				
+			    	
+                                   <li><a href="/en/resume/" >
+				    
+				    CV
+				    
+				</a></li>
+				
+		    </ul>
+			
 		</nav>
 	</div><!-- /.top-navigation -->
+	<div class="nav-actions">
+		
+		<a href="/en/" class="nav-action-btn lang-switch lang-zh">English</a>
+		<a href="/" class="nav-action-btn lang-switch lang-en">中文</a>
+		
+		<button id="theme-toggle" class="nav-action-btn theme-toggle" aria-label="Toggle dark mode">
+			<i class="fa fa-sun-o" id="theme-icon"></i>
+		</button>
+	</div>
 </div><!-- /.navigation-wrapper -->
 
 
@@ -194,6 +260,8 @@
 	<img src="/images/bio-photo.jpg" class="bio-photo" alt="高志军 bio photo">
 
 
+  
+  
   <h3 itemprop="name">高志军</h3>
   <p>北京大学软件与微电子学院</p>
   <a href="mailto:gaozhijun@ss.pku.edu.cn" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
@@ -214,7 +282,9 @@
   
   
   
+  
   <a href="https://www.weibo.com/1598115955" class="author-social" target="_blank"><i class="fa fa-fw fa-weibo"></i> Weibo</a>
+  
   
   
   
@@ -234,6 +304,8 @@
 	<img src="/images/bio-photo.jpg" class="bio-photo" alt="高志军 bio photo">
 
 
+  
+  
   <h3 itemprop="name">高志军</h3>
   <p>北京大学软件与微电子学院</p>
   <a href="mailto:gaozhijun@ss.pku.edu.cn" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>
@@ -254,7 +326,9 @@
   
   
   
+  
   <a href="https://www.weibo.com/1598115955" class="author-social" target="_blank"><i class="fa fa-fw fa-weibo"></i> Weibo</a>
+  
   
   
   
@@ -351,7 +425,9 @@
     </div>
     <!-- /.footer-wrap -->
 
-    <div class="prospect-notice" id="prospect-notice">
+    
+
+<div class="prospect-notice" id="prospect-notice">
     <h4 class="prospect-notice-title"><i class="fa fa-fw fa-graduation-cap"></i> 写给未来学生</h4>
     <p class="prospect-notice-text">写邮件联系导师前，先了解招生范围、研究兴趣与培养方式。</p>
     <a href="/blog/prospects/" class="prospect-notice-link">查看详情 &rarr;</a>
@@ -373,6 +449,45 @@
     }
 })();
 </script>
+<!-- Dark mode toggle -->
+<script>
+(function() {
+    var toggle = document.getElementById('theme-toggle');
+    var icon = document.getElementById('theme-icon');
+    if (!toggle || !icon) return;
+
+    function updateIcon() {
+        var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        icon.className = isDark ? 'fa fa-moon-o' : 'fa fa-sun-o';
+    }
+    updateIcon();
+
+    toggle.addEventListener('click', function() {
+        var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        if (isDark) {
+            document.documentElement.removeAttribute('data-theme');
+            localStorage.setItem('theme', 'light');
+        } else {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+        }
+        updateIcon();
+    });
+
+    // Listen to system theme changes only when user hasn't manually set
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+        if (!localStorage.getItem('theme')) {
+            if (e.matches) {
+                document.documentElement.setAttribute('data-theme', 'dark');
+            } else {
+                document.documentElement.removeAttribute('data-theme');
+            }
+            updateIcon();
+        }
+    });
+})();
+</script>
+
 
 <!-- Asynchronous Google Analytics snippet -->
 <script>

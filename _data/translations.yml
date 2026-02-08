@@ -1,0 +1,29 @@
+zh:
+  site_title: "高志军"
+  owner_name: "高志军"
+  owner_bio: "北京大学软件与微电子学院"
+  ui:
+    lang_switch: "English"
+    lang_switch_url: "/en/"
+    prospect_title: "写给未来学生"
+    prospect_text: "写邮件联系导师前，先了解招生范围、研究兴趣与培养方式。"
+    prospect_link: "查看详情"
+    tag_filter_label: "标签筛选"
+    tag_filter_all: "全部"
+    powered_by: "技术支持"
+    recent_posts: "最新博客"
+
+en:
+  site_title: "Zhijun Gao"
+  owner_name: "Zhijun Gao"
+  owner_bio: "School of Software & Microelectronics, Peking University"
+  ui:
+    lang_switch: "中文"
+    lang_switch_url: "/"
+    prospect_title: "For Prospective Students"
+    prospect_text: "Before emailing, please review admission scope, research interests, and mentoring approach."
+    prospect_link: "Learn more"
+    tag_filter_label: "Filter by Tag"
+    tag_filter_all: "All"
+    powered_by: "Powered by"
+    recent_posts: "Recent Posts"

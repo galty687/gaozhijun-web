@@ -6,15 +6,18 @@ modified: 8/6/2025, 9:00:24
 tags: [传播, NLP]
 comments: true
 category: research
+title_en: "Building an AI Agent for Public Opinion Guidance in Local Public Emergencies"
+excerpt_en: "Parent project: Research on regional holistic health governance and public emergency opinion guidance mechanisms based on LLMs and data intelligence"
 ---
 
+<div class="lang-zh" markdown="1">
 
 
 
 
 ## 项目来源
 
-北京大学-东湖高新区国家智能社会治理实验基地“人文社科项目群”课题。
+北京大学-东湖高新区国家智能社会治理实验基地"人文社科项目群"课题。
 
 课题名称：基于大模型与数据智能的区域整体性健康治理与突发公共事件舆论引导机制研究——以武汉市东湖高新区为例
 
@@ -35,7 +38,7 @@ category: research
 ## 交付物
 
 1. 智能体：已在云端部署、可运行的系统
-2. 文档 ：《部署手册》《运维手册》《API 对接文档》
+2. 文档 ：《部署手册》《运维手册》《API 对接文档》
 
 ### 项目时间
 
@@ -49,3 +52,48 @@ category: research
 - 李君阳
 - 张展彬
 
+</div>
+
+<div class="lang-en" markdown="1">
+
+
+
+
+## Project Source
+
+A project under the "Humanities and Social Sciences Project Cluster" of the Peking University - East Lake High-Tech Zone National Intelligent Social Governance Experimental Base.
+
+Project Title: Research on Regional Holistic Health Governance and Public Emergency Opinion Guidance Mechanisms Based on Large Language Models and Data Intelligence -- A Case Study of Wuhan East Lake High-Tech Zone
+
+Project Funding: 400,000 RMB
+
+## Sub-project
+
+Sub-project Title: Building an AI Agent for Public Opinion Guidance in Local Public Emergencies
+
+Agent Functions:
+
+1. Real-time detection of public emergencies on the internet for specific county/district-level areas (e.g., Wuhan East Lake District);
+2. Real-time tracking of public emergency evolution (post count, repost volume, voice growth rate, geographic spread, media involvement, trending index, sentiment stance, rumor risk, KOL influence, etc.)
+3. Dynamically generate risk assessment cards based on the evolution of public opinion, and define levels of opinion intervention
+4. Generate opinion guidance resource packages based on intervention levels (initial press releases, FAQs, rumor-debunking cards, popular science videos, etc.)
+5. Continuously track the effectiveness of opinion guidance and dynamically adjust guidance measures (such as increasing the frequency of information disclosure, etc.)
+
+## Deliverables
+
+1. AI Agent: A cloud-deployed, operational system
+2. Documentation: Deployment Manual, Operations & Maintenance Manual, API Integration Documentation
+
+### Project Duration
+
+January 9, 2025 - January 9, 2026
+
+### Development Team
+
+- Zhijun Gao
+- Chen Ji
+- Mengkai Hou
+- Junyang Li
+- Zhanbin Zhang
+
+</div>

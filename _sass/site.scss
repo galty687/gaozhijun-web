@@ -11,13 +11,13 @@ html {
    ========================================================================== */
 
 ::-moz-selection {
-	background-color: rgba(148, 7, 10, 0.15);
-	color: $text-color;
+	background-color: var(--color-selection-bg);
+	color: var(--color-text);
 	text-shadow: none;
 }
 ::selection {
-	background-color: rgba(148, 7, 10, 0.15);
-	color: $text-color;
+	background-color: var(--color-selection-bg);
+	color: var(--color-text);
 	text-shadow: none;
 }
 

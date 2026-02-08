@@ -1,0 +1,209 @@
+/* ==========================================================================
+   Dark Mode — CSS Custom Properties
+   ========================================================================== */
+
+:root {
+    /* Background */
+    --color-bg: #fff;
+    --color-surface-alt: #f5f5f5;
+    --color-surface-code: #f5f5f5;
+    --color-prospect-bg: #faf8f5;
+
+    /* Text */
+    --color-text: #333332;
+    --color-text-light: #666;
+    --color-text-lighter: #999;
+    --color-text-caption: #{lighten(#333332, 10)};
+    --color-text-credit: #{lighten(#333332, 30)};
+
+    /* Borders */
+    --color-border: #eee;
+    --color-border-light: #{lighten(#111, 80)};
+    --color-border-medium: #e1e1e1;
+    --color-border-darker: #ccc;
+    --color-border-prospect: #e8e0d8;
+    --color-border-fieldset: #c0c0c0;
+
+    /* Links */
+    --color-link: #343434;
+    --color-link-hover: #{darken(#343434, 10)};
+    --color-link-visited: #{lighten(darken(#343434, 10), 20)};
+
+    /* Code */
+    --color-code-text: #c7254e;
+    --color-code-border: #e1e1e1;
+    --color-code-bg: #f5f5f5;
+
+    /* Syntax highlight */
+    --color-highlight-bg: #efefef;
+    --color-highlight-text: #333332;
+
+    /* Blockquote */
+    --color-blockquote-bg: #fafafa;
+
+    /* Tables */
+    --color-table-border: #ddd;
+
+    /* Form */
+    --color-input-bg: #fff;
+    --color-input-border: #{lighten(#111, 80)};
+    --color-input-border-hover: #{lighten(#000, 50)};
+    --color-form-legend-border: #{lighten(#111, 80)};
+
+    /* Buttons */
+    --color-btn-bg: #111;
+    --color-btn-text: #fff;
+    --color-btn-hover-bg: #fff;
+    --color-btn-hover-text: #111;
+
+    /* Well */
+    --color-well-bg: #f5f5f5;
+    --color-well-border: #e3e3e3;
+
+    /* HR */
+    --color-hr-top: #ccc;
+    --color-hr-bottom: #fff;
+
+    /* Footer */
+    --color-footer-text: #{lighten(#333332, 30)};
+    --color-footer-border: #eee;
+
+    /* Author social */
+    --color-author-social: #{lighten(#111, 40)};
+
+    /* Prospect notice text */
+    --color-prospect-text: #{lighten(#111, 30)};
+
+    /* TOC */
+    --color-toc-bg: #fff;
+    --color-toc-header: #{lighten(#111, 10)};
+    --color-toc-link: #{lighten(#111, 30)};
+
+    /* Selection */
+    --color-selection-bg: rgba(148, 7, 10, 0.15);
+
+    /* Navigation mobile button */
+    --color-nav-btn-bg: #111;
+
+    /* Help text */
+    --color-help-text: #{lighten(#111, 50)};
+
+    /* Tag filter */
+    --color-tag-label: #666;
+    --color-tag-btn-bg: #fff;
+    --color-tag-btn-text: #555;
+    --color-tag-btn-border: #eee;
+
+    /* Browser upgrade */
+    --color-browser-upgrade-bg: #000;
+
+    /* Mark */
+    --color-mark-bg: #ff0;
+    --color-mark-text: #000;
+
+    /* Navicon line color */
+    --color-navicon: #fff;
+}
+
+[data-theme="dark"] {
+    /* Background */
+    --color-bg: #1a1a2e;
+    --color-surface-alt: #222240;
+    --color-surface-code: #222240;
+    --color-prospect-bg: #1e1e35;
+
+    /* Text */
+    --color-text: #e0e0e0;
+    --color-text-light: #b0b0b0;
+    --color-text-lighter: #888;
+    --color-text-caption: #c0c0c0;
+    --color-text-credit: #999;
+
+    /* Borders */
+    --color-border: #2a2a40;
+    --color-border-light: #3a3a55;
+    --color-border-medium: #3a3a55;
+    --color-border-darker: #4a4a65;
+    --color-border-prospect: #3a3a55;
+    --color-border-fieldset: #3a3a55;
+
+    /* Links */
+    --color-link: #8ab4f8;
+    --color-link-hover: #aecbfa;
+    --color-link-visited: #c58af9;
+
+    /* Code */
+    --color-code-text: #e06c75;
+    --color-code-border: #3a3a55;
+    --color-code-bg: #222240;
+
+    /* Syntax highlight */
+    --color-highlight-bg: #1e1e35;
+    --color-highlight-text: #e0e0e0;
+
+    /* Blockquote */
+    --color-blockquote-bg: #222240;
+
+    /* Tables */
+    --color-table-border: #3a3a55;
+
+    /* Form */
+    --color-input-bg: #222240;
+    --color-input-border: #3a3a55;
+    --color-input-border-hover: #5a5a75;
+    --color-form-legend-border: #3a3a55;
+
+    /* Buttons */
+    --color-btn-bg: #e0e0e0;
+    --color-btn-text: #1a1a2e;
+    --color-btn-hover-bg: #1a1a2e;
+    --color-btn-hover-text: #e0e0e0;
+
+    /* Well */
+    --color-well-bg: #222240;
+    --color-well-border: #3a3a55;
+
+    /* HR */
+    --color-hr-top: #3a3a55;
+    --color-hr-bottom: #1a1a2e;
+
+    /* Footer */
+    --color-footer-text: #888;
+    --color-footer-border: #2a2a40;
+
+    /* Author social */
+    --color-author-social: #b0b0b0;
+
+    /* Prospect notice text */
+    --color-prospect-text: #b0b0b0;
+
+    /* TOC */
+    --color-toc-bg: #222240;
+    --color-toc-header: #2a2a40;
+    --color-toc-link: #3a3a55;
+
+    /* Selection */
+    --color-selection-bg: rgba(148, 7, 10, 0.3);
+
+    /* Navigation mobile button */
+    --color-nav-btn-bg: #2a2a40;
+
+    /* Help text */
+    --color-help-text: #888;
+
+    /* Tag filter */
+    --color-tag-label: #b0b0b0;
+    --color-tag-btn-bg: #222240;
+    --color-tag-btn-text: #b0b0b0;
+    --color-tag-btn-border: #3a3a55;
+
+    /* Browser upgrade */
+    --color-browser-upgrade-bg: #2a2a40;
+
+    /* Mark */
+    --color-mark-bg: #665500;
+    --color-mark-text: #e0e0e0;
+
+    /* Navicon line color */
+    --color-navicon: #e0e0e0;
+}

@@ -171,8 +171,8 @@ hr {
  */
 
 mark {
-    background: #ff0;
-    color: #000;
+    background: var(--color-mark-bg);
+    color: var(--color-mark-text);
 }
 
 
@@ -284,7 +284,7 @@ figure {
  */
 
 fieldset {
-    border: 1px solid #c0c0c0;
+    border: 1px solid var(--color-border-fieldset);
     margin: 0 2px;
     padding: 0.35em 0.625em 0.75em;
 }
@@ -462,10 +462,10 @@ table {
 }
 
 th {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--color-table-border);
     color: #94070A;
 }
 
 td {
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid var(--color-table-border);
 }

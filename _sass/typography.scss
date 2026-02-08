@@ -37,7 +37,7 @@ h2 {
 }
 
 div.article-wrap h2 {
-    border-bottom: solid 1px #e1e1e1;
+    border-bottom: solid 1px var(--color-border-medium);
 }
 
 h3 {
@@ -67,17 +67,17 @@ h6 {
 
 a {
     text-decoration: none;
-    color: $link-color;
+    color: var(--color-link);
     &:visited {
-        color: $linkcolorvisited;
+        color: var(--color-link-visited);
     }
     &:hover {
-        color: $linkcolorhover;
+        color: var(--color-link-hover);
         text-decoration: underline;
     }
     &:focus {
         outline: thin dotted;
-        color: $linkcolorfocus;
+        color: var(--color-link-hover);
     }
     &:hover,
     &:active {
@@ -107,7 +107,7 @@ figcaption {
     padding-top: 10px;
     @include font(14);
     line-height: 1.3;
-    color: lighten($text-color, 10);
+    color: var(--color-text-caption);
 }
 
 
@@ -124,7 +124,7 @@ figcaption {
     @include font(12);
     line-height: 1.3;
     font-style: italic;
-    color: lighten($text-color, 30);
+    color: var(--color-text-credit);
     @media #{$small} {
         @include grid(12, 9);
         @include prefix(12, 0);
@@ -134,7 +134,7 @@ figcaption {
         @include grid(12, 8.5);
     }
     a {
-        color: lighten($text-color, 30);
+        color: var(--color-text-credit);
     }
 }
 
@@ -148,8 +148,8 @@ figcaption {
     padding: .5em 1em;
     text-indent: 0;
     @include font-rem(14);
-    background-color: $body-color;
-    border: 1px solid darken($body-color, 20);
+    background-color: var(--color-bg);
+    border: 1px solid var(--color-border-darker);
     @include rounded(3px);
 }
 
@@ -162,7 +162,7 @@ blockquote {
     margin-left: 1.5em;
     padding: 12px 20px;
     border-left: 4px solid $highlightcolor;
-    background: #fafafa;
+    background: var(--color-blockquote-bg);
     border-radius: 2px;
     font-style: italic;
 }
@@ -216,11 +216,11 @@ ol,
 li {
     code {
         @include font-rem(13);
-        background-color: #f5f5f5;
+        background-color: var(--color-code-bg);
         padding: 2px 6px;
-        border: 1px solid #e1e1e1;
+        border: 1px solid var(--color-code-border);
         border-radius: 3px;
-        color: #c7254e;
+        color: var(--color-code-text);
     }
 }
 

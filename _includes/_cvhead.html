@@ -1,5 +1,15 @@
 <meta charset="utf-8">
 
+<!-- Dark mode anti-flicker: must run before rendering -->
+<script>
+(function() {
+    var theme = localStorage.getItem('theme');
+    if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+    }
+})();
+</script>
+
 
 <title>{% if page.title %}{{ page.title }} &#8211; {% endif %}{{ site.title }}</title>
 {% if page.excerpt %}

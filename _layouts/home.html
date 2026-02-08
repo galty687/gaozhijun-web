@@ -3,7 +3,7 @@
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js" lang="cn">
+<html class="no-js" lang="{% if page.lang == 'en' %}en{% else %}zh-CN{% endif %}">
 <!--<![endif]-->
 
 <head>
@@ -13,8 +13,10 @@
 </head>
 
 <body class="home">
-    {% include _gtm_body.html %} 
-    {% include _browser-upgrade.html %} 
+    {% assign lang = page.lang | default: "zh" %}
+    {% assign t = site.data.translations[lang] %}
+    {% include _gtm_body.html %}
+    {% include _browser-upgrade.html %}
     {% include _navigation.html %}
 
 
