@@ -22,8 +22,12 @@ figure {
 }
 
 article img {
-    max-width: 100%;
+    max-width: 90%;
+    max-height: 500px;
     height: auto;
+    width: auto;
+    display: block;
+    margin: 1em auto;
     border-width: 0;
     vertical-align: middle;
     -ms-interpolation-mode: bicubic;

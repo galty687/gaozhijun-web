@@ -11,6 +11,12 @@ menuorder: 1
 
 同时也注重学术研究的同时也注重产学研相结合，与小米，阿里和百度等头部企业在翻译技术和技术写作等领域有较多合作。
 
+<div class="prospect-notice-mobile">
+    <h4 class="prospect-notice-title"><i class="fa fa-fw fa-graduation-cap"></i> 写给未来学生</h4>
+    <p class="prospect-notice-text">写邮件联系导师前，先了解招生范围、研究兴趣与培养方式。</p>
+    <a href="/blog/prospects/" class="prospect-notice-link">查看详情 &rarr;</a>
+</div>
+
 ## 研究兴趣
 
 - 自然语言处理（技术写作、计算机辅助翻译）

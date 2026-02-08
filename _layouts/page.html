@@ -23,6 +23,11 @@
             {% include _author-bio.html %}
         </div>
         <article class="page">
+            {% if page.url == "/" %}
+            <div class="article-author-top">
+                {% include _author-bio.html %}
+            </div>
+            {% endif %}
             <h1>{{ page.title }}</h1>
             <div class="article-wrap">
                 {{ content }} {% if page.share != false %}
