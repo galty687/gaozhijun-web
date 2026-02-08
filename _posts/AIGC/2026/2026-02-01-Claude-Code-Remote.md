@@ -3,9 +3,9 @@ layout: post
 title: 配置 Claude Code 远程工作
 excerpt: "远程 Vibe Coding 实录"
 modified: 
-tags: [LLM, Chatgpt]
+tags: [AI工具, 部署]
 comments: true
-category: AIGC
+category: GenAI
 
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "新质媒体环境下基于大语言模型智能体的国际传播系统研究 "
 excerpt: "国家社科基金重点项目，参与"
 modified: 1/10/2024, 9:00:24
-tags: [research, TAG]
+tags: [传播, NLP]
 comments: true
 category: research
 ---

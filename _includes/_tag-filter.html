@@ -1,0 +1,118 @@
+<div class="tag-filter" id="tag-filter">
+    <h3 class="tag-filter-label">标签筛选</h3>
+    <button class="tag-btn active" data-tag="all">全部</button>
+</div>
+
+<style>
+.tag-filter {
+    margin: 0;
+    padding: 0;
+}
+.tag-filter .tag-filter-label {
+    font-size: 14px;
+    color: #666;
+    margin: 10px 0 8px;
+    padding: 0;
+    border: none;
+}
+.tag-btn {
+    display: block;
+    width: 100%;
+    text-align: left;
+    padding: 4px 10px;
+    margin: 3px 0;
+    font-size: 12px;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    background: #fff;
+    color: #555;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    font-family: inherit;
+    max-width: 125px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.tag-btn:hover {
+    border-color: {{ site.data.theme.highlight | default: site.highlight-color | remove: "'" }};
+    color: {{ site.data.theme.highlight | default: site.highlight-color | remove: "'" }};
+}
+.tag-btn.active {
+    background: {{ site.data.theme.highlight | default: site.highlight-color | remove: "'" }};
+    color: #fff;
+    border-color: {{ site.data.theme.highlight | default: site.highlight-color | remove: "'" }};
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var container = document.getElementById('index');
+    if (!container) return;
+
+    // Collect all tags from articles
+    var articles = container.querySelectorAll('article[data-tags]');
+    var tagSet = {};
+    articles.forEach(function(article) {
+        var tags = article.getAttribute('data-tags').split(',');
+        tags.forEach(function(tag) {
+            tag = tag.trim();
+            if (tag) tagSet[tag] = (tagSet[tag] || 0) + 1;
+        });
+    });
+
+    // Sort tags by frequency (descending)
+    var sortedTags = Object.keys(tagSet).sort(function(a, b) {
+        return tagSet[b] - tagSet[a];
+    });
+
+    // Add tag buttons
+    var filterDiv = document.getElementById('tag-filter');
+    sortedTags.forEach(function(tag) {
+        var btn = document.createElement('button');
+        btn.className = 'tag-btn';
+        btn.setAttribute('data-tag', tag);
+        btn.textContent = tag + ' (' + tagSet[tag] + ')';
+        filterDiv.appendChild(btn);
+    });
+
+    // Click handler
+    filterDiv.addEventListener('click', function(e) {
+        if (!e.target.classList.contains('tag-btn')) return;
+
+        // Update active state
+        filterDiv.querySelectorAll('.tag-btn').forEach(function(btn) {
+            btn.classList.remove('active');
+        });
+        e.target.classList.add('active');
+
+        var selectedTag = e.target.getAttribute('data-tag');
+
+        // Show/hide articles and year headings
+        var yearHeadings = container.querySelectorAll('h3');
+
+        articles.forEach(function(article) {
+            if (selectedTag === 'all') {
+                article.style.display = '';
+            } else {
+                var tags = article.getAttribute('data-tags').split(',').map(function(t) { return t.trim(); });
+                article.style.display = tags.indexOf(selectedTag) >= 0 ? '' : 'none';
+            }
+        });
+
+        // Hide year headings that have no visible articles after them
+        yearHeadings.forEach(function(heading) {
+            var hasVisible = false;
+            var sibling = heading.nextElementSibling;
+            while (sibling && sibling.tagName !== 'H3') {
+                if (sibling.tagName === 'ARTICLE' && sibling.style.display !== 'none') {
+                    hasVisible = true;
+                    break;
+                }
+                sibling = sibling.nextElementSibling;
+            }
+            heading.style.display = hasVisible ? '' : 'none';
+        });
+    });
+});
+</script>

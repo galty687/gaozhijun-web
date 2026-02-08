@@ -4,6 +4,16 @@
     window.jQuery || document.write('<script src="{{ site.github.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')
 </script>
 <script src="{{ site.github.url }}/assets/js/scripts.min.js"></script>
+<script>
+(function() {
+    var btn = document.getElementById('menutoggle');
+    if (btn) {
+        btn.addEventListener('click', function(e) {
+            e.stopPropagation();
+        }, false);
+    }
+})();
+</script>
 {% if site.owner.google.analytics %}
 <!-- Asynchronous Google Analytics snippet -->
 <script>

@@ -3,9 +3,9 @@ layout: post
 title: Weasyprint定制PDF
 excerpt: "使用CSS Page Media 输出PDF"
 modified: 
-tags: [LLM, Chatgpt]
+tags: [编程]
 comments: true
-category: AIGC
+category: GenAI
 
 ---
 

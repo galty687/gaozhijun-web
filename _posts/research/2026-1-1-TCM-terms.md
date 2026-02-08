@@ -2,7 +2,7 @@
 layout: post
 title: 基于大语言模型的中医药文化视听节目多语术语库构建
 excerpt: 构建适合视听传播的中医药术语库
-tags: [research, TAG]
+tags: [翻译技术, NLP]
 comments: true
 category: research
 ---

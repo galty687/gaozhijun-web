@@ -2,18 +2,22 @@
    Site wide styles
    ========================================================================== */
 
+html {
+    scroll-behavior: smooth;
+}
+
 /*
    Selection
    ========================================================================== */
 
 ::-moz-selection {
-	background-color: lighten($basecolor, 65%);
-	color: $basecolor;
+	background-color: rgba(148, 7, 10, 0.15);
+	color: $text-color;
 	text-shadow: none;
 }
 ::selection {
-	background-color: lighten($basecolor, 65%);
-	color: $basecolor;
+	background-color: rgba(148, 7, 10, 0.15);
+	color: $text-color;
 	text-shadow: none;
 }
 

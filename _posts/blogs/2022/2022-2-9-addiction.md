@@ -3,7 +3,7 @@ layout: post
 title: 电子瘾与说服设计
 excerpt: "Persuasive Technology"
 modified: 
-tags: [CDP, TAG]
+tags: [设计, 思考]
 comments: true
 category: blog
 ---

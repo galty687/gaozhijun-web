@@ -3,7 +3,7 @@ layout: post
 title: 隐喻与技术写作
 experpt: "苦难滋生文学，无聊滋生伟大"
 modified: 
-tags: [thoughts, research]
+tags: [语言]
 comments: true
 category: blog
 ---

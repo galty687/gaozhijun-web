@@ -3,7 +3,7 @@ layout: post
 title: 经济人假说
 excerpt: "多个维度印证经济人假说"
 modified: 
-tags: [CDP, TAG]
+tags: [思考, 语言]
 comments: true
 category: blog
 ---

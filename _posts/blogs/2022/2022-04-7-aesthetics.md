@@ -3,7 +3,7 @@ layout: post
 title: 美学、理性与概念
 excerpt: "为什么有些设计会觉得比较美呢？"
 modified: 
-tags: [CDP, TAG]
+tags: [思考]
 comments: true
 category: blog
 ---

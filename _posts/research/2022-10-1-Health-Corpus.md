@@ -3,7 +3,7 @@ layout: post
 title: 中国对外卫生援助语料库项目
 excerpt: "国家社科重大课题，参与"
 modified: 1/12/2022, 9:00:24
-tags: [research, TAG]
+tags: [传播]
 comments: true
 category: research
 ---

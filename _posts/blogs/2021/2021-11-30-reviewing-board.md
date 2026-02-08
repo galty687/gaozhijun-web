@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 成为评审委员会
-tags: [research]
+tags: [学术]
 comments: true
 category: blog
 excerpt: "TPC 2021评审委员会"

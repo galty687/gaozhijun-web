@@ -3,9 +3,9 @@ layout: post
 title: Vercel Webhook
 excerpt: "Vercel 通过Webhook连接 github仓库"
 modified: 
-tags: [LLM, Chatgpt]
+tags: [部署]
 comments: true
-category: AIGC
+category: GenAI
 ---
 
 1. 在Vercel中，添加Webhook，取一个名字以及指定Branch，会自动生成webhook URL

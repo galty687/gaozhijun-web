@@ -3,7 +3,7 @@ layout: post
 title: 可找性设计实例
 excerpt: "为开发者设计高可用的技术文档，提升开发体验，增加用户粘性。"
 modified: 3/11/2021, 9:00:24
-tags: [research, TAG]
+tags: [设计]
 comments: true
 category: blog
 ---

@@ -3,9 +3,9 @@ layout: post
 title: Coze 的免费GPT4
 excerpt: "使用Coze免费使用GPT4"
 modified: 
-tags: [LLM, Chatgpt, Coze]
+tags: [LLM, 部署]
 comments: true
-category: AIGC
+category: GenAI
 
 ---
 

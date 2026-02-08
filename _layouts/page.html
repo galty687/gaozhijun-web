@@ -44,6 +44,7 @@
     </div>
     <!-- /.footer-wrap -->
 
+    {% if page.url == "/" %}{% include _prospect-notice.html %}{% endif %}
     {% include _scripts.html %}
 
 </body>

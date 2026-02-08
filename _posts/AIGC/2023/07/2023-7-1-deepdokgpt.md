@@ -3,9 +3,9 @@ layout: post
 title: DeepDok GPT 使用说明
 excerpt: "deepdok chatgpt的使用说明"
 modified: 
-tags: [CDP, TAG]
+tags: [AI工具]
 comments: true
-category: [blog, AIGC]
+category: [blog, GenAI]
 ---
 
 

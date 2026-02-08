@@ -3,9 +3,10 @@ layout: post
 title: 写给未来学生
 excerpt: "写邮件联系导师前必看"
 modified: 2025-9-1
-tags: [python, research]
+tags: [学术]
 comments: true
 category: blog
+pinned: true
 ---
 
 

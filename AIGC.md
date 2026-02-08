@@ -1,6 +1,6 @@
 ---
-layout: AIGC-index
-menutitle: AIGC
+layout: GenAI-index
+menutitle: GenAI
 menuorder: 4
-excerpt: "AIGC Attempts"
+excerpt: "GenAI Attempts"
 ---

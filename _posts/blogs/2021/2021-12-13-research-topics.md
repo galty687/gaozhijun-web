@@ -2,7 +2,7 @@
 layout: post
 title: 技术传播研究视角
 excerpt: 记录一下常见的研究视角，后续有时间再做深入研究
-tags: [CDP, TAG]
+tags: [学术]
 comments: true
 category: blog
 

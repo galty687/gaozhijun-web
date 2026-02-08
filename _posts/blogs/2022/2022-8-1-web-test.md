@@ -3,7 +3,7 @@ layout: post
 title: 网站压力测试
 experpt: "使用LOCUST测试网站性能"
 modified: 
-tags: [thoughts, research]
+tags: [编程]
 comments: true
 category: blog
 ---

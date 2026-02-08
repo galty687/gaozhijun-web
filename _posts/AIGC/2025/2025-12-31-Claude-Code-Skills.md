@@ -3,9 +3,9 @@ layout: post
 title: Claude Code
 excerpt: "记录一些关于AI的思考"
 modified: 
-tags: [LLM, Chatgpt]
+tags: [AI工具]
 comments: true
-category: AIGC
+category: GenAI
 
 ---
 

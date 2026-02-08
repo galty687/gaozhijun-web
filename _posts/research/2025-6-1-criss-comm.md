@@ -3,7 +3,7 @@ layout: post
 title: 地方突发公共事件舆论引导智能体的构建
 excerpt: 母课题：基于大模型与数据智能的区域整体性健康治理与突发公共事件舆论引导机制研究——以武汉市东湖高新区为例
 modified: 8/6/2025, 9:00:24
-tags: [research, TAG]
+tags: [传播, NLP]
 comments: true
 category: research
 ---

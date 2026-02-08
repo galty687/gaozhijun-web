@@ -3,7 +3,7 @@ layout: post
 title: 有趣的语言现象
 excerpt: "在生活工作中，常常会遇到一些有趣的语言现象，记录下来分享给大家，大家遇到有趣的语言现象也欢迎留言告诉我。"
 modified: 11/12/2021, 15:29:00
-tags: [language]
+tags: [语言]
 comments: true
 category: blog
 ---

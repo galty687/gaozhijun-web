@@ -3,7 +3,7 @@ layout: post
 title: 苦难与文学
 excerpt: "苦难滋生文学，无聊滋生伟大"
 modified: 
-tags: [thoughts, literature]
+tags: [文化]
 comments: true
 category: blog
 ---

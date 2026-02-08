@@ -3,7 +3,7 @@ layout: post
 title: 博士毕业
 excerpt: "记录博士生涯的最后阶段"
 modified: 
-tags: [PhD, research]
+tags: [学术]
 comments: true
 category: blog
 ---
