@@ -6,11 +6,7 @@ modified:
 tags: [NLP]
 comments: true
 category: research
-title_en: "Building Large-Scale Synthetic Tibetan Datasets"
-excerpt_en: "Synthesizing large-scale Tibetan datasets to enhance LLM capabilities in Tibetan"
 ---
-
-<div class="lang-zh" markdown="1">
 
 
 
@@ -49,49 +45,3 @@ excerpt_en: "Synthesizing large-scale Tibetan datasets to enhance LLM capabiliti
 
    - 合成数据可直接用于主流训练流程（清洗、去重、标注字段、元数据齐全），形成可复用的数据生成与质检流水线。
    - 在下游基准任务上带来可量化增益（例如：翻译 BLEU/COMET、问答正确率、摘要 ROUGE 等提升达到预设目标），并提供与"仅天然数据/仅合成数据/混合数据"的对比实验报告。
-
-
-</div>
-
-<div class="lang-en" markdown="1">
-
-
-
-
-## Project Source
-
-Commissioned by:
-
-Principal Investigator: Zhijun Gao
-
-Project Duration: November 1, 2026 - June 1, 2026
-
-## Research Tasks
-
-Due to the insufficiency of natural Tibetan data, this project explores large-scale generation of high-quality Tibetan datasets through synthetic data approaches.
-
-
-
-### **Project Objectives**
-
-1. **Synthetic data quality benchmarked against natural data**
-
-   - Maintain consistency with natural data in key linguistic features such as vocabulary, syntax, semantics, and discourse, with no significant differences (statistical test *p* > 0.05; also providing effect size thresholds, such as `|d| < 0.2 / KL` divergence below a set threshold).
-   - Validated through both manual spot-checking and automated quality assessment (including metrics for fluency, grammatical correctness, factual consistency, translation fidelity, etc.).
-
-2. **Multi-domain data resource pool with balanced distribution**
-
-   - Build a Tibetan dataset covering core domains including science and technology, geography, history and culture, education, public services, etc.
-   - Ensure sample sizes in each domain reach preset scales while preventing excessive scarcity in long-tail domains
-
-3. **Multi-task data types covering high-frequency use scenarios for Tibetan users**
-
-   - Data task type coverage: Chinese-Tibetan/Tibetan-Chinese translation, summarization/key point extraction, dialogue response, concept explanation, QA retrieval-based generation, writing polishing/rewriting, etc.
-
-4. **Usability objectives for training and evaluation**
-
-   - Synthetic data can be directly used in mainstream training pipelines (cleaning, deduplication, annotation fields, complete metadata), forming a reusable data generation and quality control pipeline.
-   - Deliver quantifiable gains on downstream benchmark tasks (e.g., translation BLEU/COMET, QA accuracy, summarization ROUGE improvements reaching preset targets), and provide comparative experiment reports for "natural data only / synthetic data only / mixed data."
-
-
-</div>

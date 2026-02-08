@@ -8,29 +8,6 @@ body {
     color: var(--color-text);
 }
 
-/* Bilingual content switching */
-.lang-en {
-    display: none;
-}
-
-[data-lang="en"] .lang-zh {
-    display: none;
-}
-
-[data-lang="en"] .lang-en {
-    display: block;
-}
-
-[data-lang="en"] span.lang-en,
-[data-lang="en"] a.lang-en {
-    display: inline;
-}
-
-[data-lang="en"] span.lang-zh,
-[data-lang="en"] a.lang-zh {
-    display: none;
-}
-
 
 /*
    Header

@@ -39,17 +39,6 @@
         updateIcon();
     });
 
-    // Listen to system theme changes only when user hasn't manually set
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
-        if (!localStorage.getItem('theme')) {
-            if (e.matches) {
-                document.documentElement.setAttribute('data-theme', 'dark');
-            } else {
-                document.documentElement.removeAttribute('data-theme');
-            }
-            updateIcon();
-        }
-    });
 })();
 </script>
 

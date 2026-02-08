@@ -31,12 +31,10 @@
 <script>
 (function() {
     var theme = localStorage.getItem('theme');
-    if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    if (theme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
     }
-    if (window.location.search.indexOf('lang=en') !== -1) {
-        document.documentElement.setAttribute('data-lang', 'en');
-    }
+
 })();
 </script>
 
@@ -139,21 +137,18 @@
     <!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
     
 
-
-
 <div class="navigation-wrapper">
 	<div class="site-name">
 		
 			
-		<a href="/" class="lang-zh">高志军</a>
-		<a href="/en/" class="lang-en">Zhijun Gao</a>
+		<a href="/">高志军</a>
 			
 		
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 			
-		    <ul class="lang-zh">
+		    <ul>
 		    	
 		    	
 		        
@@ -200,46 +195,12 @@
 				</a></li>
 				
 		    </ul>
-		    <ul class="lang-en">
-		    	
-		    	
-		        
-			    	
-                                   <li><a href="" >
-				    
-				    
-				    
-				</a></li>
-				
-			    	
-                                   <li><a href="/en/" >
-				    
-				    Home
-				    
-				</a></li>
-				
-			    	
-                                   <li><a href="/en/research/" >
-				    
-				    Research
-				    
-				</a></li>
-				
-			    	
-                                   <li><a href="/en/resume/" >
-				    
-				    CV
-				    
-				</a></li>
-				
-		    </ul>
 			
 		</nav>
 	</div><!-- /.top-navigation -->
 	<div class="nav-actions">
 		
-		<a href="/en/" class="nav-action-btn lang-switch lang-zh">English</a>
-		<a href="/" class="nav-action-btn lang-switch lang-en">中文</a>
+		<a href="/en/" class="nav-action-btn lang-switch">English</a>
 		
 		<button id="theme-toggle" class="nav-action-btn theme-toggle" aria-label="Toggle dark mode">
 			<i class="fa fa-sun-o" id="theme-icon"></i>
@@ -474,17 +435,6 @@
         updateIcon();
     });
 
-    // Listen to system theme changes only when user hasn't manually set
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
-        if (!localStorage.getItem('theme')) {
-            if (e.matches) {
-                document.documentElement.setAttribute('data-theme', 'dark');
-            } else {
-                document.documentElement.removeAttribute('data-theme');
-            }
-            updateIcon();
-        }
-    });
 })();
 </script>
 

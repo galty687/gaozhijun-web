@@ -31,12 +31,10 @@
 <script>
 (function() {
     var theme = localStorage.getItem('theme');
-    if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+    if (theme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'dark');
     }
-    if (window.location.search.indexOf('lang=en') !== -1) {
-        document.documentElement.setAttribute('data-lang', 'en');
-    }
+
 })();
 </script>
 
@@ -138,21 +136,18 @@
     <!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
     
 
-
-
 <div class="navigation-wrapper">
 	<div class="site-name">
 		
 			
-		<a href="/" class="lang-zh">高志军</a>
-		<a href="/en/" class="lang-en">Zhijun Gao</a>
+		<a href="/">高志军</a>
 			
 		
 	</div><!-- /.site-name -->
 	<div class="top-navigation">
 		<nav role="navigation" id="site-nav" class="nav">
 			
-		    <ul class="lang-zh">
+		    <ul>
 		    	
 		    	
 		        
@@ -199,46 +194,12 @@
 				</a></li>
 				
 		    </ul>
-		    <ul class="lang-en">
-		    	
-		    	
-		        
-			    	
-                                   <li><a href="" >
-				    
-				    
-				    
-				</a></li>
-				
-			    	
-                                   <li><a href="/en/" >
-				    
-				    Home
-				    
-				</a></li>
-				
-			    	
-                                   <li><a href="/en/research/" >
-				    
-				    Research
-				    
-				</a></li>
-				
-			    	
-                                   <li><a href="/en/resume/" >
-				    
-				    CV
-				    
-				</a></li>
-				
-		    </ul>
 			
 		</nav>
 	</div><!-- /.top-navigation -->
 	<div class="nav-actions">
 		
-		<a href="/en/" class="nav-action-btn lang-switch lang-zh">English</a>
-		<a href="/" class="nav-action-btn lang-switch lang-en">中文</a>
+		<a href="/en/" class="nav-action-btn lang-switch">English</a>
 		
 		<button id="theme-toggle" class="nav-action-btn theme-toggle" aria-label="Toggle dark mode">
 			<i class="fa fa-sun-o" id="theme-icon"></i>
@@ -254,7 +215,7 @@
         </div>
         <div id="index">
             <h1>各类研究项目</h1>
-               
+                 
             <h3>2026</h3>
              
             <article>
@@ -264,7 +225,7 @@
                 <p>构建适合视听传播的中医药术语库</p>
                 
             </article>
-              
+                  
             <h3>2025</h3>
              
             <article>
@@ -274,7 +235,7 @@
                 <p>合成大规模藏文数据集用于提升大模型藏文能力</p>
                 
             </article>
-              
+                  
             <article>
                 
                 
@@ -282,7 +243,7 @@
                 <p>母课题：基于大模型与数据智能的区域整体性健康治理与突发公共事件舆论引导机制研究——以武汉市东湖高新区为例</p>
                 
             </article>
-              
+                  
             <h3>2024</h3>
              
             <article>
@@ -292,7 +253,7 @@
                 <p>小米内容办公室委托，负责人</p>
                 
             </article>
-              
+                  
             <article>
                 
                 
@@ -300,7 +261,7 @@
                 <p>国家社科基金重点项目，参与</p>
                 
             </article>
-              
+                  
             <h3>2023</h3>
              
             <article>
@@ -310,7 +271,7 @@
                 <p>国家社科基金重点项目，参与</p>
                 
             </article>
-              
+                    
             <article>
                 
                 
@@ -318,7 +279,7 @@
                 <p>北京大学数字与人文课题专项，参与，负责软件开发</p>
                 
             </article>
-              
+                  
             <article>
                 
                 
@@ -326,7 +287,7 @@
                 <p>为小米开发的译文评分工具，主持</p>
                 
             </article>
-              
+                  
             <article>
                 
                 
@@ -334,7 +295,7 @@
                 <p>为小米开发的术语提取工具，主持</p>
                 
             </article>
-              
+                  
             <h3>2022</h3>
              
             <article>
@@ -344,7 +305,7 @@
                 <p>国家社科重大课题，参与</p>
                 
             </article>
-              
+                  
             <h3>2021</h3>
              
             <article>
@@ -354,7 +315,7 @@
                 <p>为开发者设计高可用的技术文档，提升开发体验，增加用户粘性。</p>
                 
             </article>
-              
+                  
             <article>
                 
                 
@@ -362,7 +323,7 @@
                 <p>将各类写作技术尤其是最新的智慧写作技术用于技术写作中，提升项目效率。</p>
                 
             </article>
-              
+                  
             <h3>2020</h3>
              
             <article>
@@ -372,7 +333,7 @@
                 <p>将小米内部翻译需求下单、翻译管理与结算，从而全面提升翻译服务水平，降低流程成本。</p>
                 
             </article>
-              
+                  
             <article>
                 
                 
@@ -380,7 +341,7 @@
                 <p>将小米多语种术语信息集中化管理，方便全体员工查询，提升全公司在全球范围内的术语一致性和准确性。</p>
                 
             </article>
-              
+                  
             <article>
                 
                 
@@ -388,7 +349,7 @@
                 <p>将小米各类标签数据结构化管理，并使用同一的样式表输出。</p>
                 
             </article>
-              
+                  
             <article>
                 
                 
@@ -396,7 +357,7 @@
                 <p>为物联网专业学生设计专用的技术写作课程</p>
                 
             </article>
-              
+                  
             <h3>2019</h3>
              
             <article>
@@ -406,7 +367,7 @@
                 <p>中国首个技术写作能力证书</p>
                 
             </article>
-              
+                  
             <article>
                 
                 
@@ -414,7 +375,7 @@
                 <p>翻译与本地化案例库</p>
                 
             </article>
-              
+                  
             <h3>2018</h3>
              
             <article>
@@ -424,7 +385,7 @@
                 <p>为百度计算机辅助翻译工具的设计提供咨询</p>
                 
             </article>
-              
+                  
             <article>
                 
                 
@@ -432,7 +393,7 @@
                 <p>使用眼动仪研究翻译过程</p>
                 
             </article>
-              
+                  
             <h3>2016</h3>
              
             <article>
@@ -442,7 +403,7 @@
                 <p>受某飞机制造商委托，该检查器可以检查技术资料是否符合ASD-STE的语言规范</p>
                 
             </article>
-              
+                  
             <h3>2013</h3>
              
             <article>
@@ -452,7 +413,7 @@
                 <p>实现多人使用CAT工具协同完成翻译任务</p>
                 
             </article>
-            
+              
         </div>
         <!-- /#index -->
     </div>
@@ -508,17 +469,6 @@
         updateIcon();
     });
 
-    // Listen to system theme changes only when user hasn't manually set
-    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
-        if (!localStorage.getItem('theme')) {
-            if (e.matches) {
-                document.documentElement.setAttribute('data-theme', 'dark');
-            } else {
-                document.documentElement.removeAttribute('data-theme');
-            }
-            updateIcon();
-        }
-    });
 })();
 </script>
 
