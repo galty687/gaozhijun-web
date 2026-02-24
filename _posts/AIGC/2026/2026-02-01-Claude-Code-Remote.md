@@ -110,9 +110,21 @@ tmux new -s claude
 
 Termius 支持终端 bell 声音提示。在 `~/.tmux.conf` 中添加：
 
+
+
 ```
+# 使用 nano 打开
+nano ~/.tmux.conf
+
+#输入
 set -g monitor-bell on
 set -g bell-action any
+
 ```
 
+
+
+按 `Ctrl + O`（WriteOut）保存，然后按 `Enter` 确认文件名，再按 `Ctrl + X` 退出。
+
 当 Claude Code 等待确认时如果触发 bell，手机上 Termius 会有提醒。
+

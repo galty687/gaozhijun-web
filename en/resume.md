@@ -9,24 +9,24 @@ lang: en
 ## Employment
 
 `2013 - Present`
-Lecturer & Master's Supervisor, School of Software & Microelectronics, Peking University
+Lecturer & Master's Supervisor, School of Software and Microelectronics, Peking University
 
 `2011 - 2013`
-Teaching Assistant, School of Software & Microelectronics, Peking University
+Teaching Assistant, School of Software and Microelectronics, Peking University
 
-## Teaching at Peking University
+## Courses Taught
 
-- Spring: User Experience & Human-Computer Interaction
-- Spring: AI in Practice (Language Intelligence)
+- Spring: User Experience and Human-Computer Interaction
+- Spring: Language AI
 - Spring: LLM Post-Training Practice
-- Fall: Data Visualization Technology & Practice
+- Fall: Data Visualization Technology 
 - Fall: Technical Writing
 - Fall: English Academic Writing
 
 Previous courses:
-- Translation Management & Localization Engineering [(MOOC)](http://www.chinesemooc.org/mooc/4848)
+- Translation Management and Localization Engineering [(MOOC)](http://www.chinesemooc.org/mooc/4848)
 - Technical Communication Methods
-- [User Experience & Technical Communication](http://ux.gaozhijun.me)
+- [User Experience and Technical Communication](http://ux.gaozhijun.me)
 
 ## Education
 
@@ -36,7 +36,7 @@ Ph.D. in Technical Communication, Faculty of Behavioural, Management and Social 
 
 `2009 - 2011`
 __Peking University__
-M.A. in Computer-Aided Translation, School of Software & Microelectronics (Early graduation)
+M.A. in Computer-Aided Translation, School of Software and Microelectronics (Early graduation)
 
 ## Editorial Positions
 
@@ -50,6 +50,7 @@ M.A. in Computer-Aided Translation, School of Software & Microelectronics (Early
 
 ## Selected Research Projects
 
+- Building a Multilingual Terminology Database for Traditional Chinese Medicine Audiovisual Programs Based on Large Language Models, National Language Commission, **PI**
 - Construction of intelligent agents for public opinion guidance in local emergencies, PKU-Donghu National Intelligent Social Governance Experimental Base, **Sub-project PI**
 - Research on international communication systems based on LLM agents, 2024 National Social Science Key Project, Participant
 - Mechanisms, paths and methods for public opinion guidance in emergencies, 2023 National Social Science Key Project, Participant
