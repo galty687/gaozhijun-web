@@ -6,11 +6,11 @@ menuorder: 1
 lang: en
 ---
 
-Gao Zhijun, Ph.D., is a Lecturer and Master’s Supervisor at the School of Software and Microelectronics, Peking University. He serves as Secretary-General of the Sub-committee on Computer-Aided Terminology under the National Technical Committee for Language and Terminology Standardization, and Secretary-General of the Technical Communication Services Committee of the China Association for Standardization. He also served a  Board Member of the IEEE Professional Communication Society (IEEE PCS),
+I am Gao Zhijun, Ph.D., a Lecturer and Master's Supervisor at the School of Software and Microelectronics, Peking University. I serve as Secretary-General of the Subcommittee on Computer-Aided Terminology under the National Technical Committee for Language and Terminology Standardization, and as Secretary-General of the Technical Communication Services Committee of the China Association for Standardization. I have also served as a Board Member of the IEEE Professional Communication Society (IEEE PCS).
 
-He is currently leading several cutting-edge projects at the intersection of language and AI, including a National Language Commission Research Planning Committee project titled “Construction of a Multilingual Terminology Database for Audiovisual Programs on Traditional Chinese Medicine Culture Based on Large Language Models,” and a China Tibetology Research Center project titled “Construction of a Large-Scale Tibetan SFT Dataset,” among others. He has also undertaken multiple research and development tasks, such as developing an “Aerospace and Defence Simplified Technical English (ASD-STE) Rule Checker,” and building the “Human Health Corpus” as part of the major social sciences project “Research on Building a Global Community of Health for All and Database Development.” He has led the development of multiple standards, including the “Planning for Evaluating the User Experience of Technical Documentation.”
+My current research sits at the intersection of language and AI. I am leading projects such as "Construction of a Multilingual Terminology Database for Audiovisual Programs on Traditional Chinese Medicine Culture Based on Large Language Models" (National Language Commission) and "Construction of a Large-Scale Tibetan SFT Dataset" (China Tibetology Research Center). Earlier work includes developing an Aerospace and Defence Simplified Technical English (ASD-STE) rule checker, and building the "Human Health Corpus" under the National Social Science Fund Major Project "Research on Building a Global Community of Health for All and Database Development." I have also led the drafting of several standards, including the *User Experience Assessment Specification for Technical Documentation*.
 
-In addition to academic research, he emphasizes industry–academia–research collaboration and has extensive cooperation with leading companies such as Xiaomi, Alibaba, and Baidu in areas including translation technology and technical writing.
+Alongside academic research, I place strong emphasis on industry–academia collaboration, and I work closely with leading companies such as Xiaomi, Alibaba, and Baidu on translation technology and technical writing.
 
 <div class="prospect-notice-mobile">
     <h4 class="prospect-notice-title"><i class="fa fa-fw fa-graduation-cap"></i> For Prospective Students</h4>
@@ -30,7 +30,7 @@ In addition to academic research, he emphasizes industry–academia–research c
 
 - Spring: User Experience & Human-Computer Interaction
 - Spring: [AI in Practice](http://ai.gaozhijun.me) (Language Intelligence)
-- Spring: LLM Post-Training Practice
+- Spring: [LLM Post-Training Practice](https://posttrain.gaozhijun.me/)
 - Fall: [Data Visualization Technology & Practice](https://dv.gaozhijun.me)
 - Fall: Technical Writing
 - Fall: English Academic Writing
