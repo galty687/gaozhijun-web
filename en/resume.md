@@ -36,7 +36,7 @@ Ph.D. in Technical Communication, Faculty of Behavioural, Management and Social 
 
 `2009 - 2011`
 __Peking University__
-M.A. in Computer-Aided Translation, School of Software and Microelectronics (Early graduation)
+M.sc. in Computer-Aided Translation, School of Software and Microelectronics (Early graduation)
 
 <!-- `2005 - 2009`
 __Suzhou University of Science and Technology__
