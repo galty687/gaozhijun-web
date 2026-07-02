@@ -222,7 +222,7 @@ __苏州科技大学__
 ## 演讲
 
 `2026`
-- 大语言模型原理与Dify实践，“人工智能赋能外语学科研究生培养系列讲座”（第2讲），北京大学外国语学院，北京，2026年3月30日
+- [大语言模型原理与Dify实践](https://sfl.pku.edu.cn/fwdh/yjzyg/bb3ddade70e1492b8f412ff83d227941.htm)，“人工智能赋能外语学科研究生培养系列讲座”（第2讲），北京大学外国语学院，北京，2026年3月30日
 `2025`
 - [培养下一代技术写作人才](https://sfs.bistu.edu.cn/yjspy/pyyxj/2addc6a857644ab4a0704659e9e1f076.html)，北京信息科技大学外国语学院，北京，2025年12月12日
 - [使用大语言模型将PDF文档转换为DITA源码](https://tcworldconference.tekom.de/conference-program/detail/using-llms-to-convert-pdf-documents-into-dita-source)（Using LLMs to Convert PDF Documents into DITA Source），tcworld conference 2025（德国tekom年会），斯图加特，2025年11月12日
@@ -290,7 +290,7 @@ __苏州科技大学__
 
 
 `2022年8月10日 至今`
-[全国语言与术语标准化委员会计算机辅助术语工作分技术委员会](https://std.samr.gov.cn/search/orgDetailView?tcCode=TC62/SC3)，秘书长
+[全国语言与术语标准化技术委员会计算机辅助术语工作分技术委员会](https://std.samr.gov.cn/search/orgDetailView?tcCode=TC62/SC3)，秘书长
 
 
 `2019年1月1日 至今`
