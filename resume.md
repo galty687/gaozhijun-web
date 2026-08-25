@@ -50,7 +50,7 @@ __苏州科技大学__
 
 `2021- 至今`
 
-**[IEEE Transactions of Professional Communication](https://procomm.ieee.org/transactions-editorial-staff-and-editorial-board/)**，编委
+**[IEEE Transactions on Professional Communication](https://procomm.ieee.org/transactions-editorial-staff-and-editorial-board/)**，编委
 
 `2022 – 至今`
 
@@ -135,7 +135,7 @@ __苏州科技大学__
 `2026`
 
 - Zhan, Y., Hou, M., Zhang, W., & **Gao, Z.***(2026). Length-adaptive decoding for masked diffusion machine translation. In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing*. Forthcoming.
-- Zhang, M., Sun, S., Zhao, Y., Liu, **Z., Gao**, Z., & Bian, J. (2026). Orchestrating spatial semantics via a zone-graph paradigm for intricate indoor scene generation. In *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)*.
+- Zhang, M., Sun, S., Zhao, Y., Liu, Z., **Gao, Z.**, & Bian, J. (2026). Orchestrating spatial semantics via a zone-graph paradigm for intricate indoor scene generation. In *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)*.
 - **Gao, Z**., Dong, L., & Wang, J. (2026). Modeling technical writing processes and measuring their effects on text quality: Experimental research with industry practitioners. Written Communication, vol. 43, no. 1, Jan. 2026, pp. 225-70. Advance online publication. [doi.org/10.1177/07410883251372212](https://doi.org/10.1177/07410883251372212)（SSCI检索）
 
 `2025`
@@ -225,7 +225,7 @@ __苏州科技大学__
 
 `2026`
 
-- 智能体友好的技术文档设计，华为梧桐荟-AI for Develope交流研讨会，广东省东莞市华为三丫坡园区，2026 年 8 月 21 日
+- 智能体友好的技术文档设计，华为梧桐荟-AI for Developer交流研讨会，广东省东莞市华为三丫坡园区，2026 年 8 月 21 日
 - [大语言模型原理与Dify实践](https://sfl.pku.edu.cn/fwdh/yjzyg/bb3ddade70e1492b8f412ff83d227941.htm)，“人工智能赋能外语学科研究生培养系列讲座”（第2讲），北京大学外国语学院，北京，2026年3月30日
 `2025`
 - [培养下一代技术写作人才](https://sfs.bistu.edu.cn/yjspy/pyyxj/2addc6a857644ab4a0704659e9e1f076.html)，北京信息科技大学外国语学院，北京，2025年12月12日

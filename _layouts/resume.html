@@ -27,11 +27,29 @@
             {% include _author-bio.html %}
         </div>
         <article class="page">
+            {% if page.lang == 'en' %}
+            <header class="cv-header">
+                <p class="cv-kicker">Curriculum Vitae</p>
+                <h1 class="cv-name">{{ t.owner_name }}</h1>
+                <p class="cv-subtitle">Lecturer &amp; Master's Supervisor · School of Software and Microelectronics, Peking University</p>
+                <p class="cv-links">
+                    <a href="https://scholar.google.com/citations?user=aPZcO04AAAAJ&hl=en"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10L12 5 2 10l10 5 10-5z"></path><path d="M6 12v5c0 1.5 2.7 3 6 3s6-1.5 6-3v-5"></path></svg>Google Scholar</a>
+                    <a href="https://orcid.org/0009-0001-0253-3180"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17L17 7"></path><path d="M9 7h8v8"></path></svg>ORCID</a>
+                    <a href="mailto:{{ site.owner.email }}"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14"></rect><path d="M3 7l9 6 9-6"></path></svg>Email</a>
+                </p>
+                <div class="cv-rule"></div>
+            </header>
+
+            <div class="resume resume-en">
+                {{ content }}
+            </div>
+            {% else %}
             <h1>{{ page.title }}</h1>
 
             <div class="resume">
                 {{ content }}
             </div>
+            {% endif %}
             <!--closing resume div-->
             <!--  {% if page.share != false %}
         <hr />

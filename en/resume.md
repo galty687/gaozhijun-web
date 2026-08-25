@@ -19,7 +19,7 @@ Teaching Assistant, School of Software and Microelectronics, Peking University
 - Spring: User Experience and Human-Computer Interaction
 - Spring: Artificial Intelligence Practice (Language Intelligence)
 - Spring: Large Language Model Post-Training Practice
-- Fall: Data Visualization Technology and Practice
+- Fall: Data Visualization Technology and Applications
 - Fall: Technical Writing
 - Fall: English Academic Writing
 
@@ -30,7 +30,7 @@ Previous courses:
 
 ## Education
 
-`2013 - 2023`
+`2014 - 2024`
 __University of Twente, The Netherlands__
 Ph.D. in Technical Communication, Faculty of Behavioural, Management and Social Sciences (BMS)
 
@@ -55,18 +55,29 @@ Double Bachelor's Degree in English and Computer Science
 
 ## Research Projects
 
-- Construction of Intelligent Agents for Public Opinion Guidance in Local Emergencies, PKU–Donghu High-Tech Zone National Intelligent Social Governance Experimental Base "Humanities and Social Sciences Project Cluster" (Project No.: 8410104376, ¥100,000), **Sub-project PI**
-- Research on an International Communication System Based on Large Language Model Agents in the New-Quality Media Environment, 2024 National Social Science Key Project (Project No.: 24AXW004, ¥350,000), Participant
-- Mechanisms, Paths and Methods of Public Opinion Guidance in Public Emergencies, 2023 National Social Science Key Project (Project No.: 23AXW008, ¥350,000), Participant
-- Narrative Research on Cancer Patients from a Digital Health Humanities Perspective, 2023 PKU Digital & Humanities Special Project, jointly developed by PKU Health Science Center, School of Foreign Languages, and School of Software and Microelectronics, ¥100,000, Participant. [Project website](https://pku.deepdok.cn/interview/)
-- Research on the Evolution Mechanism and Governance Strategies of Online Misinformation under the "Infodemic", 2022 National Social Science Fund Project (22CXW011, ¥200,000), Participant
-- Developer Documentation User Experience Design and Evaluation, 2021 Ministry of Education Industry–University Collaborative Education Project, in cooperation with Ant Group (Project No.: 202102342029, ¥200,000), **PI**
-- Research and Database Construction on Building a Community of Health for Mankind (Project No.: 21ZDA130, ¥400,000), 2021 National Social Science Fund Major Project, Participant
-- English Translation and Interpretation of Keywords in Ancient Chinese Literary Theory, 2020 National Social Science Fund Project (20BYY029, ¥80,000), Participant
-- Theory and Methods of Boolean Expression Testing and Fault Diagnosis Based on Karnaugh Map Coverage, National Natural Science Foundation of China, General Program, 61872011, 2019-01-01 to 2022-12-31, ¥630,000, Completed, Participant
+- Construction of a Tibet-Related Public Opinion Dataset and Development of Its Supporting Platform, China
+- Construction of a Multilingual Terminology Database for Traditional Chinese Medicine Culture Audiovisual Programs Based on Large Language Models, State Language Commission, ¥100,000 **PI**{: .cv-role}
+- Construction of a Large-Scale Tibetan Synthetic Dataset, China Tibetology Research Center, ¥500,000 **PI**{: .cv-role}
+- Construction of Intelligent Agents for Public Opinion Guidance in Local Emergencies, PKU–Donghu High-Tech Zone National Intelligent Social Governance Experimental Base "Humanities and Social Sciences Project Cluster" (Project No.: 8410104376, ¥100,000) **Sub-project PI**{: .cv-role-sub}
+- Research on an International Communication System Based on Large Language Model Agents in the New-Quality Media Environment, 2024 National Social Science Key Project (Project No.: 24AXW004, ¥350,000) *Participant*{: .cv-role-participant}
+- Mechanisms, Paths and Methods of Public Opinion Guidance in Public Emergencies, 2023 National Social Science Key Project (Project No.: 23AXW008, ¥350,000) *Participant*{: .cv-role-participant}
+- Narrative Research on Cancer Patients from a Digital Health Humanities Perspective, 2023 PKU Digital & Humanities Special Project, jointly developed by PKU Health Science Center, School of Foreign Languages, and School of Software and Microelectronics, ¥100,000 *Participant*{: .cv-role-participant}. [Project website](https://pku.deepdok.cn/interview/)
+- Research on the Evolution Mechanism and Governance Strategies of Online Misinformation under the "Infodemic", 2022 National Social Science Fund Project (22CXW011, ¥200,000) *Participant*{: .cv-role-participant}
+- Developer Documentation User Experience Design and Evaluation, 2021 Ministry of Education Industry–University Collaborative Education Project, in cooperation with Ant Group (Project No.: 202102342029, ¥200,000) **PI**{: .cv-role}
+- Research and Database Construction on Building a Community of Health for Mankind (Project No.: 21ZDA130, ¥400,000), 2021 National Social Science Fund Major Project *Participant*{: .cv-role-participant}
+- English Translation and Interpretation of Keywords in Ancient Chinese Literary Theory, 2020 National Social Science Fund Project (20BYY029, ¥80,000) *Participant*{: .cv-role-participant}
+- Theory and Methods of Boolean Expression Testing and Fault Diagnosis Based on Karnaugh Map Coverage, National Natural Science Foundation of China, General Program, 61872011, 2019-01-01 to 2022-12-31, ¥630,000, Completed *Participant*{: .cv-role-participant}
 
 ## Corporate Projects
 (Selected projects, all led as PI)
+
+### 2026
+
+- Sungrow — Intelligent Style Checker for Technical Documentation (DocQA)
+
+### 2025
+
+- Moen — Technical Documentation Writing Training
 
 ### 2023
 - Xiaomi — Neural-Network-Based Automatic Translation Quality Evaluation
@@ -117,7 +128,9 @@ Double Bachelor's Degree in English and Computer Science
 
 `2026`
 
-- **Gao, Z.**, Dong, L., & Wang, J. (2026). Modeling technical writing processes and measuring their effects on text quality: Experimental research with industry practitioners. *Written Communication*, 43(1), 225–270. Advance online publication. [doi.org/10.1177/07410883251372212](https://doi.org/10.1177/07410883251372212) (SSCI)
+- Zhan, Y., Hou, M., Zhang, W., & **Gao, Z.**\* (2026). Length-adaptive decoding for masked diffusion machine translation. In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing*. Forthcoming.
+- Zhang, M., Sun, S., Zhao, Y., Liu, Z., **Gao, Z.**, & Bian, J. (2026). Orchestrating spatial semantics via a zone-graph paradigm for intricate indoor scene generation. In *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)*.
+- **Gao, Z.**, Dong, L., & Wang, J. (2026). Modeling technical writing processes and measuring their effects on text quality: Experimental research with industry practitioners. *Written Communication*, 43(1), 225–270. Advance online publication. [doi.org/10.1177/07410883251372212](https://doi.org/10.1177/07410883251372212) **SSCI**{: .cv-tag}
 
 `2025`
 
@@ -125,31 +138,31 @@ Double Bachelor's Degree in English and Computer Science
 
 `2024`
 
-- **Z. Gao**, W. Du, D. Li and J. Yu, "Development of a UX Scale for Technical Communication," 2024 IEEE International Professional Communication Conference (ProComm), Pittsburgh, PA, USA, 2024, pp. 223–232, doi: [10.1109/ProComm61427.2024.00051](https://ieeexplore.ieee.org/document/10609580) (EI)
+- **Z. Gao**, W. Du, D. Li and J. Yu, "Development of a UX Scale for Technical Communication," 2024 IEEE International Professional Communication Conference (ProComm), Pittsburgh, PA, USA, 2024, pp. 223–232, doi: [10.1109/ProComm61427.2024.00051](https://ieeexplore.ieee.org/document/10609580) **EI**{: .cv-tag}
 
 `2023`
 
-- **Z. Gao**, T. Wang, M. Wang and Y. Zhao, "UX Testing of Developer Documentation: A Pilot Study of OceanBase Database Documentation," 2023 IEEE International Professional Communication Conference (ProComm), Ithaca, NY, USA, 2023, pp. 64–72. DOI: [10.1109/ProComm57838.2023.00035](https://doi.org/10.1109/ProComm57838.2023.00035) (EI)
+- **Z. Gao**, T. Wang, M. Wang and Y. Zhao, "UX Testing of Developer Documentation: A Pilot Study of OceanBase Database Documentation," 2023 IEEE International Professional Communication Conference (ProComm), Ithaca, NY, USA, 2023, pp. 64–72. DOI: [10.1109/ProComm57838.2023.00035](https://doi.org/10.1109/ProComm57838.2023.00035) **EI**{: .cv-tag}
 
-- Dong, L., and **Gao, Z.**\* (2023). Who are China's Technical Communicators? A Survey on the State of Diversity, Equity, and Inclusion of the Profession. *Technical Communication*, 70(3), 42–62. Society for Technical Communication, DOI: [10.55177/tc583549](https://doi.org/10.55177/tc583549) (SSCI)
+- Dong, L., and **Gao, Z.**\* (2023). Who are China's Technical Communicators? A Survey on the State of Diversity, Equity, and Inclusion of the Profession. *Technical Communication*, 70(3), 42–62. Society for Technical Communication, DOI: [10.55177/tc583549](https://doi.org/10.55177/tc583549) **SSCI**{: .cv-tag} **Frank R. Smith Award**{: .cv-award}
 
 `2020`
 
-- **Z. Gao**, K. Ming and J. Yu\*, "Chinese Developers' Information Behavior of Technical Documentation," 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 147–154. DOI: [10.1109/ProComm48883.2020.00030](https://doi.org/10.1109/ProComm48883.2020.00030) (EI)
+- **Z. Gao**, K. Ming and J. Yu\*, "Chinese Developers' Information Behavior of Technical Documentation," 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 147–154. DOI: [10.1109/ProComm48883.2020.00030](https://doi.org/10.1109/ProComm48883.2020.00030) **EI**{: .cv-tag}
 
-- **Z. Gao**, F. Li and J. Yu\*, "Reading Time Prediction Model on Chinese Technical Documentation," 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 162–169. DOI: [10.1109/ProComm48883.2020.00046](https://doi.org/10.1109/ProComm48883.2020.00046) (EI)
+- **Z. Gao**, F. Li and J. Yu\*, "Reading Time Prediction Model on Chinese Technical Documentation," 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 162–169. DOI: [10.1109/ProComm48883.2020.00046](https://doi.org/10.1109/ProComm48883.2020.00046) **EI**{: .cv-tag}
 
-- **Z. Gao**, Y. Gao and J. Yu\*, "What Makes It Findable? An Exploration on User Search Behavior and the Findability of Technical Documentation," 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 155–161. DOI: [10.1109/ProComm48883.2020.00031](https://doi.org/10.1109/ProComm48883.2020.00031) (EI)
+- **Z. Gao**, Y. Gao and J. Yu\*, "What Makes It Findable? An Exploration on User Search Behavior and the Findability of Technical Documentation," 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 155–161. DOI: [10.1109/ProComm48883.2020.00031](https://doi.org/10.1109/ProComm48883.2020.00031) **EI**{: .cv-tag}
 
 `2019`
 
-- **Z. Gao** and G. Han, "Initial Exploration of Ideal Line Length for Chinese Technical Text," 2019 IEEE International Professional Communication Conference (ProComm), Aachen, Germany, 2019, pp. 243–247. DOI: [10.1109/ProComm.2019.00050](https://doi.org/10.1109/ProComm.2019.00050) (EI)
+- **Z. Gao** and G. Han, "Initial Exploration of Ideal Line Length for Chinese Technical Text," 2019 IEEE International Professional Communication Conference (ProComm), Aachen, Germany, 2019, pp. 243–247. DOI: [10.1109/ProComm.2019.00050](https://doi.org/10.1109/ProComm.2019.00050) **EI**{: .cv-tag}
 
-- **Zhijun Gao**, Yuxin Gao, and Jingjing Xu (2019). Designing Metrics to Evaluate the Help Center of Baidu Cloud. In *Portland '19: Broadening the Boundaries of Communication Design*, Portland, OR. ACM, New York, NY, USA, 7 pages. DOI: [10.1145/3328020.3353936](https://doi.org/10.1145/3328020.3353936) (EI)
+- **Zhijun Gao**, Yuxin Gao, and Jingjing Xu (2019). Designing Metrics to Evaluate the Help Center of Baidu Cloud. In *Portland '19: Broadening the Boundaries of Communication Design*, Portland, OR. ACM, New York, NY, USA, 7 pages. DOI: [10.1145/3328020.3353936](https://doi.org/10.1145/3328020.3353936) **EI**{: .cv-tag}
 
 `2016`
 
-- Han, T., Liu, L., & **Gao, Z.**\* (2016). Strengthening technical communication and localization to help Chinese brands go global. *Science & Technology Review*, 34(17), 105–109. [Article link](http://www.kjdb.org/CN/Y2016/V34/I17/105) (CSCD, Peking University Core)
+- Han, T., Liu, L., & **Gao, Z.**\* (2016). Strengthening technical communication and localization to help Chinese brands go global. *Science & Technology Review*, 34(17), 105–109. [Article link](http://www.kjdb.org/CN/Y2016/V34/I17/105) **CSCD**{: .cv-tag} **PKU Core**{: .cv-tag}
 
 `2014`
 
@@ -159,7 +172,7 @@ Double Bachelor's Degree in English and Computer Science
 
 - **Gao, Z.**, Yu, J., & De Jong, M. (2013). Technical communication in China: A world to be won. *Intercom*, 60(1), 11–13.
 
-- Gao, Z. (2013). A preliminary study of an evaluation framework for computer-aided translation tools. *Chinese Translators Journal*, 2013(05), 70–76. (CSSCI, Peking University Core)
+- Gao, Z. (2013). A preliminary study of an evaluation framework for computer-aided translation tools. *Chinese Translators Journal*, 2013(05), 70–76. **CSSCI**{: .cv-tag} **PKU Core**{: .cv-tag}
 
 ### Monograph
 
@@ -203,6 +216,17 @@ Double Bachelor's Degree in English and Computer Science
 
 ## Invited Talks
 
+`2026`
+
+- Agent-Friendly Technical Documentation Design, Huawei Wutonghui — AI for Developer Seminar, Huawei Sanyapo Campus, Dongguan, Guangdong, August 21, 2026
+- [Principles of Large Language Models and Dify in Practice](https://sfl.pku.edu.cn/fwdh/yjzyg/bb3ddade70e1492b8f412ff83d227941.htm), Lecture 2 of the "AI Empowering Graduate Education in Foreign Language Disciplines" Lecture Series, School of Foreign Languages, Peking University, Beijing, March 30, 2026
+
+`2025`
+
+- [Cultivating the Next Generation of Technical Writers](https://sfs.bistu.edu.cn/yjspy/pyyxj/2addc6a857644ab4a0704659e9e1f076.html), School of Foreign Studies, Beijing Information Science and Technology University, Beijing, December 12, 2025
+- [Using LLMs to Convert PDF Documents into DITA Source](https://tcworldconference.tekom.de/conference-program/detail/using-llms-to-convert-pdf-documents-into-dita-source), tcworld conference 2025 (tekom annual conference), Stuttgart, Germany, November 12, 2025
+- [From Human to Machine Intelligence: Large Language Models Usher in the Era of Translation 3.0](http://fl.ruc.edu.cn/sy/kxyj/kydt/d78e9a9fda3b49a6b563fb1e9a446f76.htm), "Word & World" Lecture Series (No. 29), School of Foreign Languages, Renmin University of China, Beijing, March 26, 2025
+
 `2024`
 
 - [AI for Area and Country Studies](https://wy.nenu.edu.cn/info/1029/5998.htm), School of Foreign Languages, Northeast Normal University, Changchun, November 28, 2024
@@ -237,11 +261,15 @@ Double Bachelor's Degree in English and Computer Science
 
 ## Media Coverage
 
-1. [Special Forum on Emergency Science Popularization at the 2023 World Conference on Science Literacy of Public held in Beijing](https://www.lifetimes.cn/article/4Ed72MYWz3R) (Keynote release)
+1. [Special Forum on Emergency Science Popularization at the 2023 World Conference on Science Literacy of Public held in Beijing](https://www.lifetimes.cn/article/4Ed72MYWz3R) (Keywords release)
 2. [International Science & Technology Communication Salon Successfully Held — Cross-Disciplinary Discussion on Building China's International S&T Communication Discourse System](http://ex.chinadaily.com.cn/exchange/partners/82/rss/channel/cn/columns/t40vsk/stories/WS637af3a2a3109bd995a51202.html)
 3. [Strengthening Technical Communication and Localization to Help Chinese Brands Go Global](http://www.kjdb.org/CN/Y2016/V34/I17/105)
 
 ## Awards
+
+`2025`
+
+- [ACM SIGDOC Diana Award](https://sigdoc.acm.org/awards-grants/diana-award/), awarded to the School of Software and Microelectronics, Peking University, in recognition of the contributions of Zhijun Gao's research group
 
 `2024`
 
