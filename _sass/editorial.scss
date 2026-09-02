@@ -1,0 +1,622 @@
+/* ==========================================================================
+   Editorial design system — site-wide tokens and components
+   Shared by main.scss and cvmain.scss; import LAST so overrides win.
+   ========================================================================== */
+
+/* Latin glyphs pick the PT face, CJK glyphs fall through to the system face */
+$ed-serif: 'PT Serif', 'Songti SC', 'STSong', Georgia, 'Times New Roman', serif;
+$ed-sans: 'PT Sans Narrow', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Arial Narrow', Arial, sans-serif;
+
+:root {
+    --cv-accent: #{$highlightcolor};
+    --cv-heading: #111;
+    --cv-muted: #8a8886;
+    --cv-soft: #6b6a68;
+    --cv-hairline: #e6e2df;
+    --cv-tag-border: rgba(148, 7, 10, 0.35);
+    --cv-participant-border: #c9c5c1;
+    --cv-quote-bg: #faf8f6;
+}
+
+[data-theme="dark"] {
+    --cv-accent: #d4575b;
+    --cv-heading: #f2f2f2;
+    --cv-muted: #909090;
+    --cv-soft: #a8a8a8;
+    --cv-hairline: #343434;
+    --cv-tag-border: rgba(212, 87, 91, 0.45);
+    --cv-participant-border: #454545;
+    --cv-quote-bg: #232323;
+}
+
+/* --- top navigation ------------------------------------------------------ */
+
+.navigation-wrapper {
+    padding: 1.2em 0 0.9em;
+    font-family: $ed-sans;
+    text-transform: none;
+    border-bottom: 1px solid var(--cv-hairline);
+    box-shadow: none;
+
+    @media #{$small} {
+        align-items: center;
+    }
+}
+
+.site-name a {
+    font-family: $ed-serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--cv-heading);
+    text-decoration: none;
+
+    &:hover {
+        color: var(--cv-accent);
+    }
+}
+
+.top-navigation li {
+    font-size: 15px;
+
+    a {
+        color: var(--cv-soft);
+
+        &:hover {
+            color: var(--cv-accent);
+        }
+
+        &.active {
+            color: var(--cv-accent);
+            font-weight: 700;
+
+            &::after {
+                width: 100%;
+            }
+        }
+    }
+}
+
+.lang-switch {
+    border-radius: 0;
+    font-weight: 400;
+}
+
+/* --- page header component (kicker / title / subtitle / links / rule) ---- */
+
+.cv-kicker {
+    margin: 0 0 10px;
+    font-family: $ed-sans;
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--cv-accent);
+}
+
+.cv-affiliation {
+    margin: 0 0 10px;
+    font-family: $ed-sans;
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.06em;
+    color: var(--cv-accent);
+}
+
+.cv-rule {
+    margin-top: 10px;
+    height: 4px;
+    border-top: 3px solid var(--cv-accent);
+    border-bottom: 1px solid #d9d4d0;
+}
+
+[data-theme="dark"] .cv-rule {
+    border-bottom-color: var(--cv-hairline);
+}
+
+.cv-header {
+    margin-bottom: 2.2em;
+
+    .cv-name {
+        margin: 0 0 8px;
+        font-family: $ed-serif;
+        font-size: 44px;
+        font-weight: 700;
+        line-height: 1.15;
+        text-align: left;
+        color: var(--cv-heading);
+    }
+
+    .cv-subtitle {
+        margin: 0 0 14px;
+        font-family: $ed-serif;
+        font-size: 17px;
+        line-height: 1.6;
+        color: var(--cv-soft);
+    }
+
+    .cv-links {
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px 24px;
+        font-family: $ed-sans;
+        font-size: 15px;
+
+        a {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            color: var(--cv-accent);
+            text-decoration: none;
+
+            svg {
+                stroke: var(--cv-accent);
+            }
+
+            &:hover {
+                color: var(--cv-accent);
+                text-decoration: underline;
+            }
+        }
+    }
+
+}
+
+/* One nav geometry for the whole site, anchored to the home page's 880px
+   column: the menu keeps the same position on every page, the site name is
+   carried by page content (hero / sidebar) instead of the nav. */
+
+.site-name {
+    display: none;
+}
+
+.navigation-wrapper {
+    box-sizing: border-box;
+    padding-left: 24px;
+    padding-right: 24px;
+
+    @media only screen and (min-width: 58.1em) {
+        padding-left: calc((100% - 880px) / 2);
+        padding-right: calc((100% - 880px) / 2);
+    }
+}
+
+.top-navigation {
+    margin-left: 0;
+}
+
+.nav-actions {
+    margin-right: 0;
+}
+
+/* the nav's hairline replaces the old heavy black top border */
+
+#main {
+    border-top: none;
+    padding-top: 2.4em;
+}
+
+/* home hero: header row with the portrait on the right */
+
+#main.home-main .article-author-side {
+    display: none;
+}
+
+#main.home-main .page {
+    display: block;
+    float: none;
+    width: auto;
+    max-width: 880px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 24px;
+}
+
+/* home: the prospect card lives in the flow; hide the floating widget */
+
+body.page .prospect-notice {
+    display: none;
+}
+
+#main.home-main .prospect-notice-mobile {
+    display: block;
+}
+
+.cv-hero {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 36px;
+}
+
+.cv-hero-photo {
+    margin: 0;
+    width: auto;
+    height: 158px;
+    border-radius: 8px;
+    flex-shrink: 0;
+    display: block;
+
+    @media only screen and (max-width: 37.4em) {
+        height: 112px;
+    }
+}
+
+/* CN pages: body copy stays in the system sans; the hero subtitle follows */
+
+html[lang="zh-CN"] .cv-header .cv-subtitle {
+    font-family: $base-font;
+}
+
+/* --- content sections on page-layout articles ---------------------------- */
+
+article.page .article-wrap,
+article.post .article-wrap {
+
+    h2 {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        margin: 2.2em 0 1em;
+        padding-bottom: 0;
+        font-family: $ed-sans;
+        font-weight: 700;
+        font-size: 16px;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        color: var(--cv-accent);
+        border-bottom: none;
+        clear: both;
+
+        &::after {
+            content: "";
+            flex: 1 1 auto;
+            border-top: 1px solid var(--cv-hairline);
+        }
+    }
+
+    h4 {
+        margin: 1.6em 0 0.8em;
+        font-family: $ed-sans;
+        font-weight: 700;
+        font-size: 14px;
+        letter-spacing: 0.12em;
+        color: var(--cv-heading);
+        clear: both;
+    }
+}
+
+article.page .article-wrap {
+
+    ul {
+        list-style: none;
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    li {
+        margin-bottom: 0.45em;
+    }
+
+    /* hanging label column: `春季` / `秋季` / `曾开设` etc. */
+    p:has(> code:first-child) {
+        padding-left: 140px;
+        clear: both;
+    }
+
+    p > code:first-child {
+        float: left;
+        width: 120px;
+        margin-left: -140px;
+        padding: 3px 0 0;
+        font-family: $ed-sans;
+        font-size: 15px;
+        color: var(--cv-muted);
+        background: none;
+        border: none;
+        border-radius: 0;
+    }
+
+    @media only screen and (max-width: 37.4em) {
+        p:has(> code:first-child) {
+            padding-left: 0;
+        }
+
+        p > code:first-child {
+            float: none;
+            display: block;
+            width: auto;
+            margin-left: 0;
+            padding: 0 0 2px;
+        }
+    }
+}
+
+html[lang="zh-CN"] article.page .article-wrap p {
+    line-height: 1.9;
+}
+
+html[lang="en"] article.page .article-wrap {
+    font-family: $ed-serif;
+
+    p, li {
+        line-height: 1.75;
+    }
+}
+
+/* prospect notice card */
+
+.prospect-notice-mobile {
+    border: 1px solid var(--cv-hairline);
+    border-radius: 0;
+
+    .prospect-notice-title {
+        font-family: $ed-sans;
+        color: var(--cv-accent);
+    }
+}
+
+/* --- listing pages (research / blogs / GenAI indexes) -------------------- */
+
+body.post-index #index {
+
+    h3 {
+        float: left;
+        clear: left;
+        width: 120px;
+        margin: 0;
+        padding: 0.15em 0 0;
+        border-bottom: none;
+        font-family: $ed-sans;
+        font-size: 22px;
+        font-weight: 700;
+        color: var(--cv-accent);
+    }
+
+    article {
+        margin-left: 140px;
+        padding: 0 0 1.5em;
+        border-top: none;
+
+        h2 {
+            margin: 0 0 5px;
+            font-size: 18px;
+            font-weight: 600;
+            line-height: 1.55;
+
+            a {
+                color: var(--cv-heading);
+
+                &:hover {
+                    color: var(--cv-accent);
+                    text-decoration: none;
+                }
+            }
+        }
+
+        p {
+            margin: 0;
+            font-size: 14.5px;
+            line-height: 1.7;
+            color: var(--cv-muted);
+        }
+    }
+
+    @media only screen and (max-width: 37.4em) {
+        h3 {
+            float: none;
+            width: auto;
+            margin: 0 0 0.6em;
+        }
+
+        article {
+            margin-left: 0;
+        }
+    }
+}
+
+/* --- posts ---------------------------------------------------------------- */
+
+article.post {
+
+    .headline-wrap {
+        margin-bottom: 1.6em;
+
+        h1 {
+            margin: 0 0 10px;
+            font-family: $ed-serif;
+            font-size: 36px;
+            font-weight: 700;
+            line-height: 1.35;
+            text-align: left;
+
+            a {
+                color: var(--cv-heading);
+                text-decoration: none;
+
+                &:hover {
+                    color: var(--cv-accent);
+                }
+            }
+        }
+
+        .cv-kicker {
+            margin: 0 0 10px;
+        }
+
+        .post-tags {
+            margin: 0 0 4px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+    }
+
+    .article-wrap {
+
+        blockquote {
+            margin-left: 0;
+            padding: 18px 24px;
+            border-left: none;
+            background: var(--cv-quote-bg);
+            font-style: normal;
+            color: var(--cv-soft);
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid var(--cv-hairline);
+            background: none;
+            box-shadow: none;
+            height: 0;
+            margin: 2.2em 0 1.2em;
+        }
+    }
+
+    footer .byline {
+        font-family: $ed-sans;
+        font-size: 14px;
+        color: var(--cv-muted);
+    }
+}
+
+html[lang="zh-CN"] article.post .article-wrap {
+    p {
+        font-size: 16.5px;
+        line-height: 2;
+    }
+}
+
+html[lang="en"] article.post .article-wrap {
+    font-family: $ed-serif;
+}
+
+/* --- mobile: inline nav row + CV identity card ---------------------------- */
+
+@media only screen and (max-width: 37.4em) {
+
+    /* one-row nav: menu inline on the left, actions on the right */
+    .navigation-wrapper {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        padding: 0 16px;
+    }
+
+    .nav .navtoggle {
+        display: none;
+    }
+
+    .js .nav ul,
+    .no-js .nav ul {
+        max-height: none;
+        overflow: visible;
+    }
+
+    .top-navigation {
+        float: none;
+        display: block;
+        width: auto;
+        margin: 0;
+        flex: 1 1 auto;
+        min-width: 0;
+
+        ul {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+
+        li {
+            display: block;
+            margin-right: 0;
+            border-bottom: 0;
+            white-space: nowrap;
+            font-size: 14px;
+
+            a {
+                display: block;
+                padding: 15px 0 13px;
+            }
+        }
+    }
+
+    .nav-actions {
+        float: none;
+        margin: 0;
+        padding: 0;
+        flex-shrink: 0;
+    }
+
+    /* CV pages: the sidebar becomes a compact identity card above the content */
+    body.cv-page .article-author-side {
+        display: block;
+        float: none;
+        width: auto;
+        margin: 0 0 4px;
+        text-align: center;
+
+        .bio-photo {
+            max-width: 96px;
+            border-radius: 8px;
+            box-shadow: none;
+            margin: 4px auto 0;
+        }
+
+        h3 {
+            margin: 8px 0 2px;
+        }
+
+        p {
+            margin: 0 0 10px;
+        }
+
+        .author-social {
+            display: inline-block;
+            margin: 0 7px 4px;
+        }
+    }
+}
+
+/* --- shared chips (also usable outside the resume) ----------------------- */
+
+.cv-tag,
+.cv-role,
+.cv-role-sub,
+.cv-role-participant,
+.cv-award {
+    display: inline-block;
+    padding: 1px 7px;
+    margin-left: 8px;
+    vertical-align: 1px;
+    font-family: $ed-sans;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 0.06em;
+    line-height: 1.7;
+    text-indent: 0;
+}
+
+.cv-tag,
+.cv-role-sub {
+    color: var(--cv-accent);
+    border: 1px solid var(--cv-tag-border);
+}
+
+.cv-role,
+.cv-award {
+    color: #fff;
+    background: var(--cv-accent);
+    border: 1px solid var(--cv-accent);
+}
+
+.cv-role-participant {
+    color: var(--cv-muted);
+    border: 1px solid var(--cv-participant-border);
+}
+
+.post-tags .cv-tag {
+    margin-left: 0;
+}

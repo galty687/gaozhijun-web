@@ -27,11 +27,16 @@
         </div>
         <article class="post">
             <div class="headline-wrap">
+                <p class="cv-kicker">{% if page.lang == 'en' %}{{ page.date | date: "%B %-d, %Y" }}{% else %}{{ page.date | date: "%Y 年 %-m 月 %-d 日" }}{% endif %}</p>
                 {% if page.link %}
                 <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
                 {% else %}
                 <h1><a href="{{ site.github.url }}{{ page.url }}" rel="bookmark" title="{{ page.title }}">{{ page.title }}</a></h1>
                 {% endif %}
+                {% if page.tags and page.tags != empty %}
+                <p class="post-tags">{% for tag in page.tags %}<span class="cv-tag">{{ tag }}</span>{% endfor %}</p>
+                {% endif %}
+                <div class="cv-rule"></div>
             </div>
             <!--/ .headline-wrap -->
             <div class="article-wrap">
@@ -39,8 +44,11 @@
                 <hr />
                 <footer role="contentinfo">
                     {% if page.share != false %}{% include _social-share.html %}{% endif %}
-                    <p class="byline"> published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">{{ page.modified | date: "%B %d, %Y" }}</time>{%
-                        endif %}.</p>
+                    {% if page.lang == 'en' %}
+                    <p class="byline"> published on <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+                    {% else %}
+                    <p class="byline">发布于 <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y 年 %-m 月 %-d 日" }}</time>{% if page.modified %}，最后修改于 <time datetime="{{ page.modified | date: " %Y-%m-%d " }}">{{ page.modified | date: "%Y 年 %-m 月 %-d 日" }}</time>{% endif %}。</p>
+                    {% endif %}
                 </footer>
             </div>
             <!-- /.article-wrap -->

@@ -1,0 +1,219 @@
+/* ==========================================================================
+   Editorial CV layout — applies to both the Chinese and English resume pages.
+   Tokens, .cv-header and chip styles live in editorial.scss.
+
+   The resume body is a two-column CSS grid: year labels (p.cv-year, and
+   ### 20xx headings) occupy column 1, their content lands in column 2 on
+   the SAME grid row, so the year and the first line of its entries are
+   top-aligned by construction. Single-paragraph entries (`2013 - 至今` +
+   text in one paragraph) span both columns and hang their year into the
+   first column with a float — inherently line-aligned.
+   ========================================================================== */
+
+$cv-col: 120px;
+$cv-gap: 20px;
+$cv-gutter: $cv-col + $cv-gap;
+
+.resume.resume-editorial {
+    display: grid;
+    grid-template-columns: $cv-col minmax(0, 1fr);
+    column-gap: $cv-gap;
+    align-items: start;
+    font-family: $ed-serif;
+    line-height: 1.65;
+
+    /* default: everything lives in the content column */
+    > * {
+        grid-column: 2;
+        min-width: 0;
+    }
+
+    /* section headers (## Employment / ## 任职) span the full width */
+    > h2 {
+        grid-column: 1 / -1;
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        margin: 2.2em 0 1em;
+        font-family: $ed-sans;
+        font-weight: 700;
+        font-size: 16px;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        text-align: left;
+        color: var(--cv-accent);
+        border-bottom: none;
+
+        &::after {
+            content: "";
+            flex: 1 1 auto;
+            border-top: 1px solid var(--cv-hairline);
+        }
+    }
+
+    /* subsection headers (### 论文 / ### Journal Papers) span the full width */
+    > h3 {
+        grid-column: 1 / -1;
+        position: static;
+        top: auto;
+        width: auto;
+        margin: 1.4em 0 0.7em;
+        font-family: $ed-sans;
+        font-weight: 700;
+        font-size: 14px;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        text-align: left;
+        line-height: 1.5;
+        color: var(--cv-heading);
+    }
+
+    /* year headings (### 2026 年) live in the year column */
+    > h3[id^="20"],
+    > h3[id^="19"] {
+        grid-column: 1;
+        margin: 0;
+        padding-top: 0;
+        font-weight: 400;
+        font-size: 15px;
+        letter-spacing: 0.04em;
+        text-transform: none;
+        line-height: inherit;
+        color: var(--cv-muted);
+    }
+
+    /* standalone year labels (`2026` + {: .cv-year}) live in the year column */
+    > p.cv-year {
+        grid-column: 1;
+        margin: 0;
+        padding-top: 0;
+    }
+
+    > p {
+        position: static;
+        left: auto;
+        width: auto;
+        margin-left: 0;
+        margin-bottom: 1.2em;
+    }
+
+    /* single-paragraph entries hang their year into the first column */
+    > p:has(> code:first-child):not(.cv-year) {
+        grid-column: 1 / -1;
+        padding-left: $cv-gutter;
+    }
+
+    > p:not(.cv-year) > code:first-child {
+        float: left;
+        width: $cv-col;
+        margin-left: -$cv-gutter;
+    }
+
+    > p > code {
+        padding: 0;
+        font-family: $ed-sans;
+        font-size: 15px;
+        text-indent: 0;
+        color: var(--cv-muted);
+        background: none;
+        border: none;
+        border-radius: 0;
+    }
+
+    > p.cv-year > code {
+        float: none;
+    }
+
+    > ul,
+    > ol {
+        position: static;
+        left: auto;
+        width: auto;
+        margin-left: 0;
+        margin-top: 0;
+        margin-bottom: 1.6em;
+        padding-left: 0;
+        list-style: none;
+    }
+
+    li {
+        margin-left: 0;
+        margin-bottom: 0.55em;
+        padding-left: 26px;
+        text-indent: -26px;
+        font-size: 15.5px;
+    }
+
+    li p {
+        margin: 0;
+        width: auto;
+    }
+
+    li ul,
+    li ol {
+        margin-left: 0;
+        margin-top: 0.55em;
+        margin-bottom: 0;
+    }
+
+    strong:not([class]) {
+        font-weight: 700;
+        color: var(--cv-heading);
+    }
+
+    em:not([class]) {
+        font-style: italic;
+        font-weight: inherit;
+    }
+
+    a {
+        color: var(--cv-accent);
+
+        &:hover {
+            color: var(--cv-accent);
+            text-decoration: underline;
+        }
+    }
+}
+
+/* Chinese resume: body copy in the system sans */
+
+html[lang="zh-CN"] .resume.resume-editorial {
+    font-family: $base-font;
+    line-height: 1.75;
+}
+
+/* --- small screens: single column, years stack above their entries -------- */
+
+@media only screen and (max-width: 37.4em) {
+    .resume.resume-editorial {
+        display: block;
+
+        > p:has(> code:first-child):not(.cv-year) {
+            padding-left: 0;
+        }
+
+        > p:not(.cv-year) > code:first-child {
+            float: none;
+            display: block;
+            width: auto;
+            margin-left: 0;
+            padding-bottom: 2px;
+        }
+
+        > p.cv-year {
+            margin: 1.2em 0 0.5em;
+            padding-top: 0;
+        }
+
+        > h3[id^="20"],
+        > h3[id^="19"] {
+            margin: 1.2em 0 0.5em;
+            padding-top: 0;
+        }
+    }
+
+    .cv-header .cv-name {
+        font-size: 34px;
+    }
+}

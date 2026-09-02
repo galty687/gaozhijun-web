@@ -20,7 +20,13 @@
 		    	{% assign alllinks = links | concat: site.data.navigation | sort: 'menuorder' %}
 		        {% for link in alllinks %}
 			    	{% if link.menuorder %}{% assign url = link.url | prepend: site.github.url %}{% else %}{% assign url = link.url %}{% endif %}
-                                   <li><a href="{{ url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>
+			    	{% assign nav_active = false %}
+			    	{% if page.url == link.url %}{% assign nav_active = true %}{% endif %}
+			    	{% assign pcat = page.categories | first %}
+			    	{% if pcat == 'research' and link.url contains 'research' %}{% assign nav_active = true %}{% endif %}
+			    	{% if pcat == 'blog' and link.url contains 'blog' %}{% assign nav_active = true %}{% endif %}
+			    	{% if pcat == 'GenAI' and link.url contains 'AIGC' %}{% assign nav_active = true %}{% endif %}
+                                   <li><a href="{{ url }}" {% if nav_active %}class="active" {% endif %}{% if link.url contains 'http' %}target="_blank"{% endif %}>
 				    {% if link.menutitle %}
 				    {{link.menutitle}}
 				    {% else %}
@@ -35,7 +41,13 @@
 		    	{% assign alllinks_zh = zh_links | concat: site.data.navigation | sort: 'menuorder' %}
 		        {% for link in alllinks_zh %}
 			    	{% if link.menuorder %}{% assign url = link.url | prepend: site.github.url %}{% else %}{% assign url = link.url %}{% endif %}
-                                   <li><a href="{{ url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>
+			    	{% assign nav_active = false %}
+			    	{% if page.url == link.url %}{% assign nav_active = true %}{% endif %}
+			    	{% assign pcat = page.categories | first %}
+			    	{% if pcat == 'research' and link.url contains 'research' %}{% assign nav_active = true %}{% endif %}
+			    	{% if pcat == 'blog' and link.url contains 'blog' %}{% assign nav_active = true %}{% endif %}
+			    	{% if pcat == 'GenAI' and link.url contains 'AIGC' %}{% assign nav_active = true %}{% endif %}
+                                   <li><a href="{{ url }}" {% if nav_active %}class="active" {% endif %}{% if link.url contains 'http' %}target="_blank"{% endif %}>
 				    {% if link.menutitle %}
 				    {{link.menutitle}}
 				    {% else %}

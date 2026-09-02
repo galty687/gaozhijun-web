@@ -34,11 +34,11 @@ title: 个人履历
 ## 教育
 
 `2014 - 2024`
-__荷兰特文特大学__
+__荷兰特文特大学__  
 行为、管理与社会科学学院(BMS)，技术传播博士
 
 `2009 - 2011`
-__北京大学__
+__北京大学__  
 软件与微电子学院 计算机辅助翻译 硕士 （提前毕业）
 
 <!-- `2005 - 2009`
@@ -48,28 +48,53 @@ __苏州科技大学__
 
 ## 期刊任职
 
-`2021- 至今`
+`2021 - 至今`
+{: .cv-year}
 
 **[IEEE Transactions on Professional Communication](https://procomm.ieee.org/transactions-editorial-staff-and-editorial-board/)**，编委
 
 `2022 – 至今`
+{: .cv-year}
 
 **[The Journal of Medicine, Humanity and Media](http://mhmjournal.net/index.php/mhm/about/editorialTeam)**，副主编
 
 ## 研究项目
 
--  涉藏舆情数据集构建及其配套支撑平台开发，中国
--  基于大语言模型的中医药文化视听节目多语术语库构建，国家语言文字工作委员会，10 万，**项目负责人**
--  大规模藏文合成数据集的构建，中国藏学研究中心，50 万，**项目负责人**
--  地方突发公共事件舆论引导智能体的构建，北京大学-东湖高新区国家智能社会治理实验基地“人文社科项目群”课题（项目号：8410104376，¥ 100,000），**子课题负责人**
--  新质媒体环境下基于大语言模型智能体的国际传播系统研究，2024国社科重点课题（项目号：24AXW004， ¥ 350,000），参与
--  突发公共事件舆论引导的机制、路径与方法, 2023国社科重点课题（项目号：23AXW008，¥ 350,000），参与
--  数字健康人文视野下的肿瘤患者叙事研究。2023北京大学数字与人文课题专项。北京大学医学部、外国语学院、软件与微电子学院合作开发，项目金额10万，参与。[项目网站](https://pku.deepdok.cn/interview/)
--  “信息疫情”下互联网虚假信息演化机制与治理对策研究，2022年国家社科项目（22CXW011, ¥ 200,000），参与 
--  开发者的文档体验设计与评估。2021年教育部产学研协同育人项目，企业合作方：蚂蚁集团，（项目号202102342029，¥ 200,000)，**主持**
--  构建人类卫生健康共同体研究与数据库建设” （项目批准号：21ZDA130，¥ 400,000），2021年 国家社科基金重大项目，参与
--  中国古代文论关键词英译与阐释研究，2020年国家社科项目（20BYY029，¥ 80,000），参与 
--  基于卡诺格覆盖的布尔表达式测试及缺陷诊断理论与方法研究，国家自然科学基金委员会，面上项目，61872011，2019-01-01至2022-12-31，¥ 630,000，资助期满，参与
+### 2026 年
+
+- 涉藏舆情数据集构建及其配套支撑平台开发，中国藏学研究中心，50 万，项目负责人
+- 基于大语言模型的中医药文化视听节目多语术语库构建，国家语言文字工作委员会，10 万，项目负责人
+
+### 2025 年
+
+- 大规模藏文合成数据集的构建，中国藏学研究中心，50 万，项目负责人
+- 地方突发公共事件舆论引导智能体的构建，北京大学-东湖高新区国家智能社会治理实验基地“人文社科项目群”课题（项目号：8410104376，¥ 100,000），子课题负责人
+
+### 2024 年
+
+- 新质媒体环境下基于大语言模型智能体的国际传播系统研究，国社科重点课题（项目号：24AXW004， ¥ 350,000），参与
+
+### 2023 年
+
+- 突发公共事件舆论引导的机制、路径与方法，国社科重点课题（项目号：23AXW008，¥ 350,000），参与
+- 数字健康人文视野下的肿瘤患者叙事研究，北京大学数字与人文课题专项，北京大学医学部、外国语学院、软件与微电子学院合作开发，项目金额10万，参与。[项目网站](https://pku.deepdok.cn/interview/)
+
+### 2022 年
+
+- “信息疫情”下互联网虚假信息演化机制与治理对策研究，国家社科项目（22CXW011, ¥ 200,000），参与
+
+### 2021 年
+
+- 开发者的文档体验设计与评估，教育部产学研协同育人项目，企业合作方：蚂蚁集团（项目号202102342029，¥ 200,000），主持
+- 构建人类卫生健康共同体研究与数据库建设（项目批准号：21ZDA130，¥ 400,000），国家社科基金重大项目，参与
+
+### 2020 年
+
+- 中国古代文论关键词英译与阐释研究，国家社科项目（20BYY029，¥ 80,000），参与
+
+### 2019 年
+
+- 基于卡诺格覆盖的布尔表达式测试及缺陷诊断理论与方法研究，国家自然科学基金委员会，面上项目，61872011，2019-01-01至2022-12-31，¥ 630,000，资助期满，参与
 
 
 ## 企业课题
@@ -133,53 +158,59 @@ __苏州科技大学__
 
 ### 论文
 `2026`
+{: .cv-year}
 
-- Zhan, Y., Hou, M., Zhang, W., & **Gao, Z.***(2026). Length-adaptive decoding for masked diffusion machine translation. In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing*. Forthcoming.
-- Zhang, M., Sun, S., Zhao, Y., Liu, Z., **Gao, Z.**, & Bian, J. (2026). Orchestrating spatial semantics via a zone-graph paradigm for intricate indoor scene generation. In *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026)*.
-- **Gao, Z**., Dong, L., & Wang, J. (2026). Modeling technical writing processes and measuring their effects on text quality: Experimental research with industry practitioners. Written Communication, vol. 43, no. 1, Jan. 2026, pp. 225-70. Advance online publication. [doi.org/10.1177/07410883251372212](https://doi.org/10.1177/07410883251372212)（SSCI检索）
+- Zhan, Y., Hou, M., Zhang, W., & **Gao, Z.**\* (2026). Length-adaptive decoding for masked diffusion machine translation. In *Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing*. Forthcoming. （EMNLP 2026, CCF-B）
+- Zhang, M., Sun, S., Zhao, Y., Liu, Z., **Gao, Z.**, & Bian, J. (2026). Orchestrating spatial semantics via a zone-graph paradigm for intricate indoor scene generation. In *Proceedings of the 43rd International Conference on Machine Learning (ICML 2026, CCF-A)*.
+- **Gao, Z**., Dong, L., & Wang, J. (2026). Modeling technical writing processes and measuring their effects on text quality: Experimental research with industry practitioners. Written Communication, vol. 43, no. 1, Jan. 2026, pp. 225-70. Advance online publication. [doi.org/10.1177/07410883251372212](https://doi.org/10.1177/07410883251372212)（SSCI）
 
 `2025`
+{: .cv-year}
 
 - **高志军**, 季陈, 刘可. 基于大语言模型的企业术语提取实践[J]. 中国科技术语, 2025, 27(4): 136–141. DOI:[10.12339/j.issn.1673-8578.2025.04.031](https://doi.org/10.12339/j.issn.1673-8578.2025.04.031)
 
 `2024`
+{: .cv-year}
 
-- **Z. Gao**, W. Du, D. Li and J. Yu, "Development of a UX Scale for Technical Communication," 2024 IEEE International Professional Communication Conference (ProComm), Pittsburgh, PA, USA, 2024, pp. 223-232, doi: [10.1109/ProComm61427.2024.00051.](https://ieeexplore.ieee.org/document/10609580)（EI检索）
+- **Z. Gao**, W. Du, D. Li and J. Yu, "Development of a UX Scale for Technical Communication," 2024 IEEE International Professional Communication Conference (ProComm), Pittsburgh, PA, USA, 2024, pp. 223-232, doi: [10.1109/ProComm61427.2024.00051.](https://ieeexplore.ieee.org/document/10609580)（EI）
 
 `2023`
-- **Z. Gao**, T. Wang, M. Wang and Y. Zhao, "UX Testing of Developer Documentation: A Pilot Study of OceanBase Database Documentation", 2023 IEEE International Professional Communication Conference (ProComm), Ithaca, NY, USA, 2023, pp. 64-72. **DOI.** [DOI 10.1109/ProComm57838.2023.00035](https://doi.org/10.1109/ProComm57838.2023.00035) （EI检索）
+{: .cv-year}
 
-- Dong, Lin, and **Zhijun Gao***. "Who are China's Technical Communicators? A Survey on the State of Diversity, Equity, and Inclusion of the Profession." Technical Communication, vol. 70, no. 3, Aug. 2023, pp. 42-62. Society for Technical Communication, **DOI**:[10.55177/tc583549](https://doi.org/10.55177/tc583549) （SSCI检索）
+- **Z. Gao**, T. Wang, M. Wang and Y. Zhao, "UX Testing of Developer Documentation: A Pilot Study of OceanBase Database Documentation", 2023 IEEE International Professional Communication Conference (ProComm), Ithaca, NY, USA, 2023, pp. 64-72. **DOI.** [DOI 10.1109/ProComm57838.2023.00035](https://doi.org/10.1109/ProComm57838.2023.00035)（EI）
 
+- Dong, Lin, and **Zhijun Gao***. "Who are China's Technical Communicators? A Survey on the State of Diversity, Equity, and Inclusion of the Profession." Technical Communication, vol. 70, no. 3, Aug. 2023, pp. 42-62. Society for Technical Communication, **DOI**:[10.55177/tc583549](https://doi.org/10.55177/tc583549)（SSCI）
 
-`2020`
-- **Z. Gao**, K. Ming and J.Yu*,“Chinese Developers’Information Behavior of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 147-154. **DOI:** [10.1109/ProComm48883.2020.00030](https://doi.org/10.1109/ProComm48883.2020.00030) （EI检索）
-
-`2020`
-- **Z. Gao**, F. Li and J.Yu *,“Reading Time Prediction Model on Chinese Technical Documentation ,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 162-169. **DOI:** [10.1109/ProComm48883.2020.00046](https://doi.org/10.1109/ProComm48883.2020.00046) （EI检索）
 
 `2020`
-- **Z. Gao**, Y. Gao and J.Yu *,“What Makes It Findable? An Exploration on User Search Behavior and the Findability of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 155-161. **DOI:** [10.1109/ProComm48883.2020.00031](https://doi.org/10.1109/ProComm48883.2020.00031) （EI检索）
+{: .cv-year}
+
+- **Z. Gao**, K. Ming and J.Yu*,“Chinese Developers’Information Behavior of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 147-154. **DOI:** [10.1109/ProComm48883.2020.00030](https://doi.org/10.1109/ProComm48883.2020.00030)（EI）
+- **Z. Gao**, F. Li and J.Yu *,“Reading Time Prediction Model on Chinese Technical Documentation ,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 162-169. **DOI:** [10.1109/ProComm48883.2020.00046](https://doi.org/10.1109/ProComm48883.2020.00046)（EI）
+- **Z. Gao**, Y. Gao and J.Yu *,“What Makes It Findable? An Exploration on User Search Behavior and the Findability of Technical Documentation,” 2020 IEEE International Professional Communication Conference (ProComm), Kennesaw, GA, USA, 2020, pp. 155-161. **DOI:** [10.1109/ProComm48883.2020.00031](https://doi.org/10.1109/ProComm48883.2020.00031)（EI）
 
 
 `2019`
-- **Z. Gao** and G. Han, "Initial Exploration of Ideal Line Length for Chinese Technical Text," 2019 IEEE International Professional Communication Conference (ProComm), Aachen, Germany, 2019, pp. 243-247.doi: 10.1109/ProComm.2019.00050. **DOI:** [10.1109/ProComm.2019.00050](https://doi.org/10.1109/ProComm.2019.00050) （EI检索）
+{: .cv-year}
 
-`2019`
-- **Zhijun Gao**, Yuxin Gao, and Jingjing Xu. 2019. Designing Metrics to Evaluate the Help Center of Baidu Cloud. In Portland ’19: Broadening the Boundaries of Communication Design,2019, Portland, OR. ACM, New York, NY, USA, 7 pages. **DOI:** [10.1145/3328020.3353936]( https://doi.org/10.1145/3328020.3353936) （EI检索）
+- **Z. Gao** and G. Han, "Initial Exploration of Ideal Line Length for Chinese Technical Text," 2019 IEEE International Professional Communication Conference (ProComm), Aachen, Germany, 2019, pp. 243-247.doi: 10.1109/ProComm.2019.00050. **DOI:** [10.1109/ProComm.2019.00050](https://doi.org/10.1109/ProComm.2019.00050)（EI）
+- **Zhijun Gao**, Yuxin Gao, and Jingjing Xu. 2019. Designing Metrics to Evaluate the Help Center of Baidu Cloud. In Portland ’19: Broadening the Boundaries of Communication Design,2019, Portland, OR. ACM, New York, NY, USA, 7 pages. **DOI:** [10.1145/3328020.3353936]( https://doi.org/10.1145/3328020.3353936)（EI）
 
 `2016`
-- 韩涛, 刘璐, **高志军***. 强化技术传播与本地化,助力中国品牌走出去[J]. 科技导报, 2016, 34(17): 105-109. [文章链接](http://www.kjdb.org/CN/Y2016/V34/I17/105) （CSCD 检索、北大核心）
+{: .cv-year}
+
+- 韩涛, 刘璐, **高志军***. 强化技术传播与本地化,助力中国品牌走出去[J]. 科技导报, 2016, 34(17): 105-109. [文章链接](http://www.kjdb.org/CN/Y2016/V34/I17/105)（CSCD、北大核心）
 
 `2014`
+{: .cv-year}
 
 -	**Gao, Z**., Yu, J., & De Jong, M. (2014). Establishing technical communication as a professional discipline. Tcworld, 2014(08), 10–13. 
 
 `2013`
--	**Gao, Z**., Yu, J., & De Jong, M. (2013). Technical communication in China: A world to be won. Intercom, 60(1), 11–13.
+{: .cv-year}
 
-`2013`
--	高志军. 计算机辅助翻译工具测评框架初探[J]. 中国翻译, 2013(05), 70-76 （CSSCI 检索、北大核心）
+- **Gao, Z**., Yu, J., & De Jong, M. (2013). Technical communication in China: A world to be won. Intercom, 60(1), 11–13.
+- 高志军. 计算机辅助翻译工具测评框架初探[J]. 中国翻译, 2013(05), 70-76（CSSCI、北大核心）
 
 ### 专著
 `2024`
@@ -196,18 +227,23 @@ __苏州科技大学__
 ### 标准
 
 `2024`
+{: .cv-year}
 
 - 《技术文档的用户体验评估规范》，2024年4月11日，标准号：T/CAS 852-2024，第一作者，中国标准化协会
 
 `2023`
+{: .cv-year}
 
 - 《用户体验 服务能力评价规范》，2023年，标准号：T/CQAE 15006—2023，中国电子质量管理协会，[全文](https://uip.cqae.org.cn/api/fileManage/notice/down?fidOrFilename=892)
 
 `2019`
+{: .cv-year}
 
 - 《语料库通用技术规范》，中国翻译协会发布，标准号：ZYF 001-2018，[全文](http://www.tac-online.org.cn/uploadfile/2018/1013/20181013110348586.pdf)
 
 `2016`
+{: .cv-year}
+
 - 《技术传播术语对照表》，中国标准化协会发布，标准号：T/CAS 245-2016 [[<u>下载</u>](https://www.gaozhijun.me/assets/download/t.cas.245.2016.pdf)]
 
 
@@ -224,39 +260,54 @@ __苏州科技大学__
 ## 演讲
 
 `2026`
+{: .cv-year}
 
 - 智能体友好的技术文档设计，华为梧桐荟-AI for Developer交流研讨会，广东省东莞市华为三丫坡园区，2026 年 8 月 21 日
 - [大语言模型原理与Dify实践](https://sfl.pku.edu.cn/fwdh/yjzyg/bb3ddade70e1492b8f412ff83d227941.htm)，“人工智能赋能外语学科研究生培养系列讲座”（第2讲），北京大学外国语学院，北京，2026年3月30日
+
 `2025`
+{: .cv-year}
+
 - [培养下一代技术写作人才](https://sfs.bistu.edu.cn/yjspy/pyyxj/2addc6a857644ab4a0704659e9e1f076.html)，北京信息科技大学外国语学院，北京，2025年12月12日
 - [使用大语言模型将PDF文档转换为DITA源码](https://tcworldconference.tekom.de/conference-program/detail/using-llms-to-convert-pdf-documents-into-dita-source)（Using LLMs to Convert PDF Documents into DITA Source），tcworld conference 2025（德国tekom年会），斯图加特，2025年11月12日
 - [从人工到智能：大模型开启翻译3.0时代](http://fl.ruc.edu.cn/sy/kxyj/kydt/d78e9a9fda3b49a6b563fb1e9a446f76.htm)，“词与世界·Word & World”系列讲座（第29期），中国人民大学外国语学院，北京，2025年3月26日
 
 `2024`
+{: .cv-year}
 
 - [人工智能助力区域与国别研究](https://wy.nenu.edu.cn/info/1029/5998.htm)，东北师范大学外国语学院，长春，2024年11月28日
 - 开发者文档的用户体验评估，华为云用户体验大会，深圳，2024年10月31日
 - The Development of a UX Scale for Technical Documentation，IEEE ProComm 2024，卡耐基梅隆大学，匹兹堡，2024年7月15日
 - Enhancing Corpus Analysis with Large Language Models: A Novel Tool for Efficient and Intelligent Processing, International Symposium on Language Sciences, 香港理工大学，2024年5月10日-11日
 - [大模型引领翻译技术的变革](https://www5.zzu.edu.cn/fld/info/1030/4328.htm)，郑州大学外国语学院，郑州，2024年4月26日
+
 `2023`
+{: .cv-year}
+
 - 开发者文档的用户体验测试-以OceanBase文档为例，IEEE ProComm 2023，康奈尔大学，伊萨卡，2023年7月18日
 - 以用户为中心：从技术写作到信息体验设计，澳门大学，2023年2月8日
 
 
 `2020`
+{: .cv-year}
+
 - 中国技术写作能力考试设计，TCWorld China 2020，上海，2020年9月11日
 
 `2019`
+{: .cv-year}
 
 - 帮助中心质量评估指标，ACM SIGDOC 2019, 波特兰州立大学，2019年10月5日 <a href="https://sigdoc.acm.org/conference/2019/program/schedule/">[大会日程]</a>
 - 技术文档的行长设计，IEEE ProComm 2019，德国亚琛工业大学，2019年7月24日
 
 `2017`
+{: .cv-year}
+
 - 基于信息行为的用户帮助设计，TC World 2017，上海，2017年8月21日
 - 中国技术传播教育，TCWorld 2018，德国斯图加特国际会展中心，2017年10月26日
 
 `2016`
+{: .cv-year}
+
 - 中国技术文档领域的标准，JTCA，日本工学院大学，东京新宿，2016年8月24日
 - 中国技术传播教育，西敏斯特大学，伦敦，2016年10月9日
 
@@ -270,6 +321,7 @@ __苏州科技大学__
 ## 获奖
 
 `2025`
+{: .cv-year}
 
 [ACM SIGDOC 戴安娜奖](https://sigdoc.acm.org/awards-grants/diana-award/) ，授予给北京大学软件与微电子学院（因为高志军课题组的贡献）
 
@@ -293,17 +345,17 @@ __苏州科技大学__
 ## 社会任职
 
 
-`2022年8月10日 至今`
+`2022.8.10 - 至今`
 [全国语言与术语标准化技术委员会计算机辅助术语工作分技术委员会](https://std.samr.gov.cn/search/orgDetailView?tcCode=TC62/SC3)，秘书长
 
 
-`2019年1月1日 至今`
+`2019.1.1 - 至今`
 __中国标准化协会技术传播服务委员会__, 秘书长
 
-`2019年1月1日 至今`
+`2019.1.1 - 至今`
 __中国翻译协会本地化服务委员会__, 委员
 
-`2022年 ~ 2024年`
+`2022 - 2024`
 __[IEEE Professional Communication Society](https://procomm.ieee.org/leadership/)__  ，理事
 
 <!-- ### Footer

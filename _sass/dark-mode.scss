@@ -107,103 +107,103 @@
 
 [data-theme="dark"] {
     /* Background */
-    --color-bg: #1a1a2e;
-    --color-surface-alt: #222240;
-    --color-surface-code: #222240;
-    --color-prospect-bg: #1e1e35;
+    --color-bg: #181818;
+    --color-surface-alt: #232323;
+    --color-surface-code: #232323;
+    --color-prospect-bg: #1f1f1f;
 
     /* Text */
-    --color-text: #e0e0e0;
-    --color-text-light: #b0b0b0;
-    --color-text-lighter: #888;
-    --color-text-caption: #c0c0c0;
+    --color-text: #e3e3e3;
+    --color-text-light: #a8a8a8;
+    --color-text-lighter: #909090;
+    --color-text-caption: #c4c4c4;
     --color-text-credit: #999;
 
     /* Borders */
-    --color-border: #2a2a40;
-    --color-border-light: #3a3a55;
-    --color-border-medium: #3a3a55;
-    --color-border-darker: #4a4a65;
-    --color-border-prospect: #3a3a55;
-    --color-border-fieldset: #3a3a55;
+    --color-border: #2b2b2b;
+    --color-border-light: #343434;
+    --color-border-medium: #343434;
+    --color-border-darker: #454545;
+    --color-border-prospect: #343434;
+    --color-border-fieldset: #343434;
 
     /* Links */
-    --color-link: #8ab4f8;
-    --color-link-hover: #aecbfa;
-    --color-link-visited: #c58af9;
+    --color-link: #c9c9c9;
+    --color-link-hover: #d4575b;
+    --color-link-visited: #9a9a9a;
 
     /* Code */
     --color-code-text: #e06c75;
-    --color-code-border: #3a3a55;
-    --color-code-bg: #222240;
+    --color-code-border: #343434;
+    --color-code-bg: #232323;
 
     /* Syntax highlight */
-    --color-highlight-bg: #1e1e35;
-    --color-highlight-text: #e0e0e0;
+    --color-highlight-bg: #1f1f1f;
+    --color-highlight-text: #e3e3e3;
 
     /* Blockquote */
-    --color-blockquote-bg: #222240;
+    --color-blockquote-bg: #232323;
 
     /* Tables */
-    --color-table-border: #3a3a55;
+    --color-table-border: #343434;
 
     /* Form */
-    --color-input-bg: #222240;
-    --color-input-border: #3a3a55;
-    --color-input-border-hover: #5a5a75;
-    --color-form-legend-border: #3a3a55;
+    --color-input-bg: #232323;
+    --color-input-border: #343434;
+    --color-input-border-hover: #555555;
+    --color-form-legend-border: #343434;
 
     /* Buttons */
-    --color-btn-bg: #e0e0e0;
-    --color-btn-text: #1a1a2e;
-    --color-btn-hover-bg: #1a1a2e;
-    --color-btn-hover-text: #e0e0e0;
+    --color-btn-bg: #e3e3e3;
+    --color-btn-text: #181818;
+    --color-btn-hover-bg: #181818;
+    --color-btn-hover-text: #e3e3e3;
 
     /* Well */
-    --color-well-bg: #222240;
-    --color-well-border: #3a3a55;
+    --color-well-bg: #232323;
+    --color-well-border: #343434;
 
     /* HR */
-    --color-hr-top: #3a3a55;
-    --color-hr-bottom: #1a1a2e;
+    --color-hr-top: #343434;
+    --color-hr-bottom: #181818;
 
     /* Footer */
     --color-footer-text: #888;
-    --color-footer-border: #2a2a40;
+    --color-footer-border: #2b2b2b;
 
     /* Author social */
-    --color-author-social: #b0b0b0;
+    --color-author-social: #a8a8a8;
 
     /* Prospect notice text */
-    --color-prospect-text: #b0b0b0;
+    --color-prospect-text: #a8a8a8;
 
     /* TOC */
-    --color-toc-bg: #222240;
-    --color-toc-header: #2a2a40;
-    --color-toc-link: #3a3a55;
+    --color-toc-bg: #232323;
+    --color-toc-header: #2b2b2b;
+    --color-toc-link: #343434;
 
     /* Selection */
     --color-selection-bg: rgba(148, 7, 10, 0.3);
 
     /* Navigation mobile button */
-    --color-nav-btn-bg: #2a2a40;
+    --color-nav-btn-bg: #2b2b2b;
 
     /* Help text */
     --color-help-text: #888;
 
     /* Tag filter */
-    --color-tag-label: #b0b0b0;
-    --color-tag-btn-bg: #222240;
-    --color-tag-btn-text: #b0b0b0;
-    --color-tag-btn-border: #3a3a55;
+    --color-tag-label: #a8a8a8;
+    --color-tag-btn-bg: #232323;
+    --color-tag-btn-text: #a8a8a8;
+    --color-tag-btn-border: #343434;
 
     /* Browser upgrade */
-    --color-browser-upgrade-bg: #2a2a40;
+    --color-browser-upgrade-bg: #2b2b2b;
 
     /* Mark */
     --color-mark-bg: #665500;
-    --color-mark-text: #e0e0e0;
+    --color-mark-text: #e3e3e3;
 
     /* Navicon line color */
-    --color-navicon: #e0e0e0;
+    --color-navicon: #e3e3e3;
 }
