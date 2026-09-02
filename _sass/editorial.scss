@@ -491,12 +491,30 @@ html[lang="en"] article.post .article-wrap {
     font-family: $ed-serif;
 }
 
+/* English post titles are long sentences — a calmer scale than the CN ones */
+
+html[lang="en"] article.post .headline-wrap h1 {
+    font-size: 28px;
+    line-height: 1.35;
+}
+
+@media only screen and (max-width: 37.4em) {
+    html[lang="en"] article.post .headline-wrap h1 {
+        font-size: 22px;
+    }
+}
+
 /* --- mobile: inline nav row + CV identity card ---------------------------- */
 
 @media only screen and (max-width: 37.4em) {
 
-    /* one-row nav: menu inline on the left, actions on the right */
+    /* one-row nav: menu inline on the left, actions on the right,
+       pinned to the top while scrolling */
     .navigation-wrapper {
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        background: var(--color-bg);
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -569,12 +587,13 @@ html[lang="en"] article.post .article-wrap {
         }
 
         p {
-            margin: 0 0 10px;
+            margin: 0 0 6px;
         }
 
         .author-social {
             display: inline-block;
-            margin: 0 7px 4px;
+            margin: 0 5px 2px;
+            font-size: 13px;
         }
     }
 }
